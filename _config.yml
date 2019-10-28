@@ -24,9 +24,11 @@ social:
     # - icon: fa-stack-exchange
     #   link: "#"
     - icon: fa-github
-      link: "https://github.com/ggauravr"
+      link: "https://www.github.com/ggauravr"
     - icon: fa-instagram
-      link: "https://instagram.com/out.of.desk/"
+      link: "https://www.instagram.com/out.of.desk/"
+    - icon: fa-medium
+      link: "https://www.medium.com/@out.of.desk"
 
 # share:
 #   twitter_username: github.io
