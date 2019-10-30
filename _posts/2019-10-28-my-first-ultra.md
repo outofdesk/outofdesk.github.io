@@ -69,7 +69,14 @@ didn't go longer than that. And those long runs were on flat roads, so I wasn't 
 -----
 
 ![Race Week\(in Elevation\)]({{ site.url }}/static/img/my-first-ultra/race-week-elevation.png)
-<!-- ![The Race]({{ site.url }}/static/img/my-first-ultra/the-race.png) -->
+
+***
+
+### The Race
+-----
+
+![The Race]({{ site.url }}/static/img/my-first-ultra/the-race.png)
+
 
 ## Notes and Reflections
 -----
@@ -78,7 +85,20 @@ didn't go longer than that. And those long runs were on flat roads, so I wasn't 
 
 2. Chafing is the worst. Even now, days after the race, my nipples hurt just thinking about it. I think right around mile 13, I took off my shirt and carried it pretty much all the way from there up to a few yards before the finish line. I should take better care of it next time! Vaseline helps I think but I should look into some strap that hugs it tight and doesn't cause friction.
 
-3. Next time I sign up for something like this, I should do longer runs and on trails. That takes care of the boredom of long runs and also makes for a better training.
+3. Next time I sign up for something like this, I should do longer runs and on trails. That takes care of the boredom of long runs and also makes for a better training
+
+4. You don't get bored in trail runs. I had prepared a playlist of workout music and motivating podcasts to keep me going, especially in the end. But one, I didn't need it and two, it ruins the fun of the race. When I slowed down in the last third of the race, I enjoyed the company of runners who were with me. Chatting with them, running with them actually helped me even speed up a little.
+
+5. GU is delicious and works well, I think. It's really easy to eat on the go.
 
 
+## Gear
+-----
 
+[New Balance Minimus](https://www.newbalance.com/pd/Minimus-Trail-10/190325795818.html?ecid=ps_Google_pla_190325795818_1699205516&crtp=paidsearch&ncr=true&&CATARGETID=172000630002405320&CADevice=c&gclid=CjwKCAjwxt_tBRAXEiwAENY8hU7bNqAaUvQr4sk556T2MGHF4m5J3F30Jy7qvvDe9b_MznLsEbPS1BoCsSIQAvD_BwE&gclsrc=aw.ds#color=Black_with_Silver&size=8&width=2E)
+
+[Nathan Handheld Flask](https://www.nathansports.com/collections/hydration/products/speedmax-plus-flask)
+
+*****
+
+If you enjoyed the post, feel free to share it on social media. If you have any questions or comments about the race, gear, nutrition or training, feel free to message me on any of my social media profiles, or email me at *contact.outofdesk [at] gmail [dot] com*
