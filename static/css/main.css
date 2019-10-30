@@ -68,6 +68,9 @@ div.content pre {
 div.content .highlight {
 	background: #333333;
 }
+div.content p {
+  margin-bottom: 1.5em;
+}
 footer {
   border-top: 1px solid #F7F1F1;
   width: 100%;
