@@ -17,65 +17,65 @@ didn't go longer than that. And those long runs were on flat roads, so I wasn't 
 ### Training Calendar - September
 -----
 
-![Training Calendar September]({{ site.url }}/static/img/my-first-ultra/training-calendar-september.png)
+![Training Calendar September]({{ ite.url}}/static/img/my-first-ultra/training-calendar-september.png)
 
 
 ### Training Calendar - October
 -----
 
-![Training Calendar \- October]({{ site.url }}/static/img/my-first-ultra/training-calendar-october.png)
+![Training Calendar \- October]({{ ite.url}}/static/img/my-first-ultra/training-calendar-october.png)
 
 
 ### Run Log
 -----
 
-![Training Log]({{ site.url }}/static/img/my-first-ultra/training-log.png)
+![Training Log]({{ ite.url}}/static/img/my-first-ultra/training-log.png)
 
 ### Training Runs(in Distance)
 -----
 
-![Training Runs\(in Distance\)]({{ site.url }}/static/img/my-first-ultra/training-runs-distance.png)
+![Training Runs\(in Distance\)]({{site.url}}/static/img/my-first-ultra/training-runs-distance.png)
 
 ***
 
 ### Training Runs(in Time)
 -----
 
-![Training Runs\(in Time\)]({{ site.url }}/static/img/my-first-ultra/training-runs-time.png)
+![Training Runs\(in Time\)]({{site.url}}/static/img/my-first-ultra/training-runs-time.png)
 
 ***
 
 ### Training Runs(in Elevation Gain)
 -----
 
-![Training Runs\(in Elevation\)]({{ site.url }}/static/img/my-first-ultra/training-runs-elevation.png)
+![Training Runs\(in Elevation\)]({{site.url}}/static/img/my-first-ultra/training-runs-elevation.png)
 
 ***
 ### Race Week(in Distance)
 -----
 
-![Race Week\(in Distance\)]({{ site.url }}/static/img/my-first-ultra/race-week-distance.png)
+![Race Week\(in Distance\)]({{site.url}}/static/img/my-first-ultra/race-week-distance.png)
 
 ***
 
 ### Race Week(in Time)
 -----
 
-![Race Week\(in Time\)]({{ site.url }}/static/img/my-first-ultra/race-week-time.png)
+![Race Week\(in Time\)]({{site.url}}/static/img/my-first-ultra/race-week-time.png)
 
 ***
 
 ### Race Week(in Elevation Gain)
 -----
 
-![Race Week\(in Elevation\)]({{ site.url }}/static/img/my-first-ultra/race-week-elevation.png)
+![Race Week\(in Elevation\)]({{site.url}}/static/img/my-first-ultra/race-week-elevation.png)
 
 ***
 
 ### The Race
 -----
 
-![The Race]({{ site.url }}/static/img/my-first-ultra/the-race.png)
+![The Race]({{ ite.url}}/static/img/my-first-ultra/the-race.png)
 
 
 ## Notes and Reflections
