@@ -3,10 +3,10 @@
   <channel>
     <title>out.of.desk</title>
     <description>My Filtered Online Notepad</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 29 Oct 2019 22:31:44 -0700</pubDate>
-    <lastBuildDate>Tue, 29 Oct 2019 22:31:44 -0700</lastBuildDate>
+    <link>https://outofdesk.github.io/</link>
+    <atom:link href="https://outofdesk.github.io/sitemap.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 29 Oct 2019 22:33:08 -0700</pubDate>
+    <lastBuildDate>Tue, 29 Oct 2019 22:33:08 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -114,8 +114,8 @@ didnâ€™t go longer than that. And those long runs were on flat roads, so I wasnâ
 &lt;p&gt;If you enjoyed the post, feel free to share it on social media. If you have any questions or comments about the race, gear, nutrition or training, feel free to message me on any of my social media profiles, or email me at &lt;em&gt;contact.outofdesk [at] gmail [dot] com&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 27 Oct 2019 10:18:23 -0700</pubDate>
-        <link>http://localhost:4000/running/2019/10/27/my-first-ultra.html</link>
-        <guid isPermaLink="true">http://localhost:4000/running/2019/10/27/my-first-ultra.html</guid>
+        <link>https://outofdesk.github.io/running/2019/10/27/my-first-ultra.html</link>
+        <guid isPermaLink="true">https://outofdesk.github.io/running/2019/10/27/my-first-ultra.html</guid>
         
         
         <category>running</category>
