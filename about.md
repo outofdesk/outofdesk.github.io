@@ -11,3 +11,5 @@ And I believe that the little things we think and do every day matter a lot more
 email: contact.outofdesk [at] gmail [dot] com
 
 instagram: [@out.of.desk](https://instagram.com/out.of.desk)
+
+![Me](/static/img/running-profile.jpeg)

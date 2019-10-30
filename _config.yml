@@ -37,8 +37,12 @@ social:
 urls:
     - text: About Me
       url: /about/
-    - text: My Projects
-      url: /projects/
+    - text: Strava
+      url: https://www.strava.com/athletes/outofdesk
+    - text: Instagram
+      url: https://www.instagram.com/out.of.desk
+    # - text: My Projects
+    #   url: /projects/
     - text: XML Feed
       url: /feed.xml
 
