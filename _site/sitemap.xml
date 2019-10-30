@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>out.of.desk</title>
+    <description>My Filtered Online Notepad</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/sitemap.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 29 Oct 2019 20:22:32 -0700</pubDate>
+    <lastBuildDate>Tue, 29 Oct 2019 20:22:32 -0700</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>My First Ultra</title>
+        <description>&lt;p&gt;After a long bike ride in July up in Colorado, I took it easy for a while and didn’t have any immediate goals to pursue. Had a couple of trips planned with my wife and some day hikes
+during the weekends, but that’s about it. I was turning 30 in October and a random goal popped in my mind - to run at least 30 miles. The shortest official distance
+that meets the criterion is 50k, which is about 32 miles. The longest I had run so far was a 35k last year, which was about 22.5 miles. So it looked like an ambitious, formidable, yet doable challenge.&lt;/p&gt;
+
+&lt;p&gt;It was past the Labor Day weekend, so I had already lost the first week of September and since I wanted to do the race in the same month as my birthday, I had about 6-7 weeks to train. It seemed like a short time to go from 0 miles of running the whole year to 50k in a stretch, so I had to start as soon as possible. I started the week after.&lt;/p&gt;
+
+&lt;p&gt;Here’s what the training looked like in numbers. If you’re into long-distance running, you can tell that it looks like casual, weekday runs, nothing like training for an ultra at all. It’s true. Having made plans for the weekends ahead with my family and friends, weekdays were all I could get. Tried to squeeze at least two runs per week, mostly somewhere between 5-8 miles during lunch. The longest run was about 10.5 mi and that was three weeks before the race. Sometimes due to lack of time, and sometimes because of my own laziness, I
+didn’t go longer than that. And those long runs were on flat roads, so I wasn’t getting any elevation training either. The race had about 5k ft of gain and descent. The thought of that in addition to pounding the legs for that long, scared me. The last two weeks I ventured out to hilly blocks in the city around my workplace and did some circuit runs to get my body(legs and glutes especially) used to uphills and downhills.&lt;/p&gt;
+
+&lt;h3 id=&quot;training-calendar---september&quot;&gt;Training Calendar - September&lt;/h3&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/static/img/my-first-ultra/training-calendar-september.png&quot; alt=&quot;Training Calendar September&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;training-calendar---october&quot;&gt;Training Calendar - October&lt;/h3&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/static/img/my-first-ultra/training-calendar-october.png&quot; alt=&quot;Training Calendar - October&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;run-log&quot;&gt;Run Log&lt;/h3&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/static/img/my-first-ultra/training-log.png&quot; alt=&quot;Training Log&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;training-runsin-distance&quot;&gt;Training Runs(in Distance)&lt;/h3&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/static/img/my-first-ultra/training-runs-distance.png&quot; alt=&quot;Training Runs(in Distance)&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;training-runsin-time&quot;&gt;Training Runs(in Time)&lt;/h3&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/static/img/my-first-ultra/training-runs-time.png&quot; alt=&quot;Training Runs(in Time)&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;training-runsin-elevation-gain&quot;&gt;Training Runs(in Elevation Gain)&lt;/h3&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/static/img/my-first-ultra/training-runs-elevation.png&quot; alt=&quot;Training Runs(in Elevation)&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h3 id=&quot;race-weekin-distance&quot;&gt;Race Week(in Distance)&lt;/h3&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/static/img/my-first-ultra/race-week-distance.png&quot; alt=&quot;Race Week(in Distance)&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;race-weekin-time&quot;&gt;Race Week(in Time)&lt;/h3&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/static/img/my-first-ultra/race-week-time.png&quot; alt=&quot;Race Week(in Time)&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;race-weekin-elevation-gain&quot;&gt;Race Week(in Elevation Gain)&lt;/h3&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/static/img/my-first-ultra/race-week-elevation.png&quot; alt=&quot;Race Week(in Elevation)&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;the-race&quot;&gt;The Race&lt;/h3&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/static/img/my-first-ultra/the-race.png&quot; alt=&quot;The Race&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;notes-and-reflections&quot;&gt;Notes and Reflections&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;The race had a no-cup policy, so I carried a Nathan water bottle with me in hand. I think that works better for me than carrying a hydration pack, which rubs my back and gets the shirt all wet&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Chafing is the worst. Even now, days after the race, my nipples hurt just thinking about it. I think right around mile 13, I took off my shirt and carried it pretty much all the way from there up to a few yards before the finish line. I should take better care of it next time! Vaseline helps I think but I should look into some strap that hugs it tight and doesn’t cause friction.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Next time I sign up for something like this, I should do longer runs and on trails. That takes care of the boredom of long runs and also makes for a better training&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You don’t get bored in trail runs. I had prepared a playlist of workout music and motivating podcasts to keep me going, especially in the end. But one, I didn’t need it and two, it ruins the fun of the race. When I slowed down in the last third of the race, I enjoyed the company of runners who were with me. Chatting with them, running with them actually helped me even speed up a little.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;GU is delicious and works well, I think. It’s really easy to eat on the go.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;gear&quot;&gt;Gear&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.newbalance.com/pd/Minimus-Trail-10/190325795818.html?ecid=ps_Google_pla_190325795818_1699205516&amp;amp;crtp=paidsearch&amp;amp;ncr=true&amp;amp;&amp;amp;CATARGETID=172000630002405320&amp;amp;CADevice=c&amp;amp;gclid=CjwKCAjwxt_tBRAXEiwAENY8hU7bNqAaUvQr4sk556T2MGHF4m5J3F30Jy7qvvDe9b_MznLsEbPS1BoCsSIQAvD_BwE&amp;amp;gclsrc=aw.ds#color=Black_with_Silver&amp;amp;size=8&amp;amp;width=2E&quot;&gt;New Balance Minimus&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.nathansports.com/collections/hydration/products/speedmax-plus-flask&quot;&gt;Nathan Handheld Flask&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;If you enjoyed the post, feel free to share it on social media. If you have any questions or comments about the race, gear, nutrition or training, feel free to message me on any of my social media profiles, or email me at &lt;em&gt;contact.outofdesk [at] gmail [dot] com&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 27 Oct 2019 10:18:23 -0700</pubDate>
+        <link>http://localhost:4000/running/2019/10/27/my-first-ultra.html</link>
+        <guid isPermaLink="true">http://localhost:4000/running/2019/10/27/my-first-ultra.html</guid>
+        
+        
+        <category>running</category>
+        
+      </item>
+    
+  </channel>
+</rss>
