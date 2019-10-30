@@ -1,5 +1,5 @@
 title: out.of.desk
-description: My Filtered Online Notepad
+description: My Online, Filtered Notepad
 author: Gaurav Ramesh
 github: https://github.com/ggauravr
 about:
@@ -30,9 +30,9 @@ social:
     - icon: fa-medium
       link: "https://www.medium.com/@out.of.desk"
 
-# share:
-#   twitter_username: github.io
-#   fb_appid: 1749788565247320
+share:
+  # twitter_username: out.of.desk
+  # fb_appid: 1749788565247320
 
 urls:
     - text: About Me

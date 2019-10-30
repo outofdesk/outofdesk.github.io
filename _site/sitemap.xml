@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>out.of.desk</title>
-    <description>My Filtered Online Notepad</description>
+    <description>My Online, Filtered Notepad</description>
     <link>https://outofdesk.github.io/</link>
     <atom:link href="https://outofdesk.github.io/sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 30 Oct 2019 15:56:40 -0700</pubDate>
-    <lastBuildDate>Wed, 30 Oct 2019 15:56:40 -0700</lastBuildDate>
+    <pubDate>Wed, 30 Oct 2019 16:03:48 -0700</pubDate>
+    <lastBuildDate>Wed, 30 Oct 2019 16:03:48 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
