@@ -1,6 +1,6 @@
 title: out.of.desk
 description: My Online, Filtered Notepad
-author: Gaurav Ramesh
+author: out.of.desk
 github: https://github.com/ggauravr
 about:
 disqus_shortname: outofdesk
@@ -23,8 +23,8 @@ social:
     #   link: "#"
     # - icon: fa-stack-exchange
     #   link: "#"
-    - icon: fa-github
-      link: "https://www.github.com/ggauravr"
+    # - icon: fa-github
+    #   link: "https://www.github.com/ggauravr"
     - icon: fa-instagram
       link: "https://www.instagram.com/out.of.desk/"
     - icon: fa-medium
