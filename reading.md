@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reading List
+title: Brain Food
 permalink: /reading/
 ---
 I enjoy reading books, long, well-thought articles and listening to long conversations about the topics that interest me. Most of the podcasts I listen to are free-form conversations that last anywhere between one to three hours.
