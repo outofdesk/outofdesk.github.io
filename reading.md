@@ -3,7 +3,7 @@ layout: page
 title: Brain Food
 permalink: /reading/
 ---
-I enjoy reading books, long, well-thought articles and listening to long conversations about the topics that interest me. Most of the podcasts I listen to are free-form conversations that last anywhere between one to three hours.
+I enjoy reading books, long, well-thought-out articles and listening to long conversations about the topics that interest me. Most of the podcasts I listen to are free-form conversations that last anywhere between one to three hours.
 
 Here's the list of things that I've enjoyed reading and/or listening.
 
