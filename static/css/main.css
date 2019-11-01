@@ -86,6 +86,7 @@ footer {
 
 ul.posts {
   list-style: decimal-leading-zero;
+  padding-left: 25px;
 }
 
 ul.posts li {

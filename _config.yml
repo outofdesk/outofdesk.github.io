@@ -37,6 +37,8 @@ share:
 urls:
     - text: About Me
       url: /about/
+    - text: Reading List
+      url: /reading/
     - text: Strava
       url: https://www.strava.com/athletes/outofdesk
     - text: Instagram
