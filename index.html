@@ -11,6 +11,7 @@ title: Blog
     {% for post in paginator.posts %}
       <li>
         <a href="{{ post.url }}">{{ post.title }}</a> &raquo; <i><span>{{ post.date | date_to_string }}</span></i>
+        <blockquote>{{ post.description }}</blockquote>
       </li>
     {% endfor %}
   </ul>

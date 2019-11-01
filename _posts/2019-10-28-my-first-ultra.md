@@ -4,12 +4,12 @@ title:  "My First Ultra"
 date:   2019-10-28 00:18:23 +0700
 categories: [running]
 description: "I was turning 30 in October and a random goal popped in my mind - to run at least 30 miles. The shortest official distance
-that meets the criterion is 50k, which is about 32 miles. The longest I had run so far was a 35k last year, which was about 22.5 miles. So it looked like an ambitious, formidable, yet doable challenge. It was past the Labor Day weekend, so I had already lost the first week of September..."
+that meets the criterion is 50k, which is about 32 miles. The longest I had run so far was a 35k the year before, which is about 22.5 miles. So it looked like an ambitious, formidable, yet doable challenge. It was past the Labor Day weekend, so I had already lost the first week of September..."
 image: "my-first-ultra/the-race.png"
 ---
 After a long bike ride in July up in Colorado, I took it easy for a while and didn't have any immediate goals to pursue. Had a couple of trips planned with my wife and some day hikes
 during the weekends, but that's about it. I was turning 30 in October and a random goal popped in my mind - to run at least 30 miles. The shortest official distance
-that meets the criterion is 50k, which is about 32 miles. The longest I had run so far was a 35k last year, which was about 22.5 miles. So it looked like an ambitious, formidable, yet doable challenge.
+that meets the criterion is 50k, which is about 32 miles. The longest I had run so far was a 35k the year before, which is about 22.5 miles. So it looked like an ambitious, formidable, yet doable challenge.
 
 It was past the Labor Day weekend, so I had already lost the first week of September and since I wanted to do the race in the same month as my birthday, I had about 6-7 weeks to train. It seemed like a short time to go from 0 miles of running the whole year to 50k in a stretch, so I had to start as soon as possible. I started the week after.
 
