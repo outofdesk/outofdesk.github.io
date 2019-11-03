@@ -14,7 +14,7 @@ I have always felt at peace reading a book in a quiet place. I feel energized an
 
 But I feel like it’s much harder these days to get that lone space and time, harder than it needs to be. The eight or so hours that you spend at work is flooded with frequent and sometimes unnecessary meetings, direct or indirect conversations and breaks. You go home, spend some time with your partner, and eke out some time to read, write and workout. Not only do you have to carve time out for deep work, but also have to make an extra effort to quell the mental chatter caused by entropy throughout the day. With the open floor plans in offices now, the passive conversations that you become of part of just by being there feels like passive smoking to me. You end up bearing the brunt of something that you didn't consciously choose to be a part of.
 
-While it always is an ongoing battle to make time for things, the process of fighting for it also tells you the something about what you value most, the things you consider are worth your time and that clarity and self-awareness eventually forces you to let go of the clutter - physical and mental, literal and metaphorical.
+While it always is an ongoing battle to make time for things, the process of fighting for it also tells you the something about what you value most, the things you consider are worth your time and that clarity and self-awareness eventually forces you to let go of the clutter - physical and mental, literal and metaphorical. So in a way, the fight for time is actually a fight for values, self-awareness, growth, a fight to shape and refine yourself.
 
 ## Recommended Reading
 -----
