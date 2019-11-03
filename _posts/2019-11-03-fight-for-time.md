@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fight for Time"
-date:   2019-11-03 00:18:23 +0700
+date:   2019-11-03 00:00:00 -0700
 categories: [thoughts, reading, focus, time]
 description: "That feeling of getting inundated with ideas, freeing yourself from the constraints and conditioning of the real-world and letting your mind escape into a world of infinite potential and possibilities, asking yourself big questions and looking for answers within, is hugely inspiring and empowering."
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My First Ultra"
-date:   2019-10-28 00:18:23 +0700
+date:   2019-10-28 00:00:00 -0700
 categories: [running]
 description: "I was turning 30 in October and a random goal popped in my mind - to run at least 30 miles. The shortest official distance
 that meets the criterion is 50k, which is about 32 miles. The longest I had run so far was a 35k the year before, which is about 22.5 miles. So it looked like an ambitious, formidable, yet doable challenge. It was past the Labor Day weekend, so I had already lost the first week of September..."
