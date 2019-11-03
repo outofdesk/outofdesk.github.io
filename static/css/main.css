@@ -67,6 +67,13 @@ blockquote::after {
   content: " ”";
   font-family: cursive;
 }
+
+cite {
+  display: block;
+  text-align: right;
+  font-style: italic;
+}
+
 div.content pre {
   background: #333333;
   padding: 10px;
