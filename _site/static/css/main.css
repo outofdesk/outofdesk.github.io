@@ -56,6 +56,19 @@ a:hover {
 }
 
 /* Content */
+p.categories {
+  text-align: right;
+  font-size: 0.75em;
+  font-style: italic;
+}
+
+a.category::after {
+  content: ",";
+}
+
+a.category:last-child::after {
+  content: "";
+}
 blockquote {
   background-color: #EEE;
 }
