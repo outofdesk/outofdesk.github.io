@@ -17,8 +17,8 @@ tagarray: []
 social:
     - icon: fa-facebook
       link: "https://www.facebook.com/out.of.desk/"
-    # - icon: fa-twitter
-    #   link: "#"
+    - icon: fa-twitter
+      link: "https://www.twitter.com/@outofdesk/"
     # - icon: fa-linkedin
     #   link: "#"
     # - icon: fa-stack-exchange
