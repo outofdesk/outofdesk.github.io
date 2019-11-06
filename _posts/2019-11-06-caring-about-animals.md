@@ -29,6 +29,7 @@ Note to myself for next time I discuss this issue with someone.
 *Ask them fundamental questions about how they view animals, to begin with. If they believe that non-human animals are inferior in any sense, it's that part you have to debate about, before even getting to how cruelly animals are treated.*
 
 ## Recommended Reading
+-----
 
 [Animal Liberation: The Definitive Classic of the Animal Movement](https://www.amazon.com/Animal-Liberation-Definitive-Classic-Movement/dp/0061711306) (I'm currently reading this myself)
 
