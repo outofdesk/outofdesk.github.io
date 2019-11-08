@@ -34,7 +34,7 @@ When we get into a debate about this with others, it's not so much about those a
 - *Do they know about the practices or treatment of animals being killed for meat and fashion?*
 - *Do they think that their preferences and likes matter more than lives of animals?*
 
-From answers to these, you'll know where they stand, and how likely they are to hear and understand your point of view. And if you can't do a good job communicating your arguments, just ask them to read *Animal Liberation*. No matter what their argument is, I'm sure Peter Singer will have a better, more convincing one.
+From answers to these, you'll know where they stand, and how likely they are to listen and understand your point of view. And if you can't do a good job communicating your arguments, just ask them to read *Animal Liberation*. No matter what their argument is, I'm sure Peter Singer will have a better, more convincing one.
 
 ## Recommended Reading
 -----
