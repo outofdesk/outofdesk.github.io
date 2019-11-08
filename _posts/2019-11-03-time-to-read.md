@@ -34,4 +34,4 @@ While it always is an ongoing battle to make time for things, the process of fig
 
 *****
 
-If you enjoyed the post, feel free to share it on social media. If you have any questions or comments about the race, gear, nutrition or training, feel free to message me on any of my social media profiles, or email me at *contact.outofdesk [at] gmail [dot] com*
+If you enjoyed the post, feel free to share it on social media. If you have any questions or comments about the post, feel free to message me on any of my social media profiles, or email me at *contact.outofdesk [at] gmail [dot] com*
