@@ -4,6 +4,7 @@ title:  "Time to Read"
 date:   2019-11-03 00:00:00 -0700
 categories: [reading, time]
 description: "That feeling of getting inundated with ideas, freeing yourself from the constraints and conditioning of the real-world and letting your mind escape into a world of infinite potential and possibilities, asking yourself big questions and looking for answers within, is hugely inspiring and empowering."
+image: "time-to-read/cover.png"
 ---
 <blockquote>
 But I soon came to feel that teaching these sensitive young souls Latin and mathematics was cheating them of something far more essential — what they needed wasn’t dry information but hope, the kind that comes from being transported into a dream-world of possibility.
