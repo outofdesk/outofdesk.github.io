@@ -94,7 +94,6 @@ didn't go longer than that. And those long runs were on flat roads, so I wasn't 
 
 5. GU is delicious and works well, I think. It's really easy to eat on the go.
 
-
 ## Gear
 -----
 
@@ -104,4 +103,4 @@ didn't go longer than that. And those long runs were on flat roads, so I wasn't 
 
 *****
 
-If you enjoyed the post, feel free to share it on social media. If you have any questions or comments about the post, feel free to message me on any of my social media profiles, or email me at *contact.outofdesk [at] gmail [dot] com*
+If you enjoyed the post, feel free to share it on social media. If you have any questions or comments about the post, send me a message on any of my social media profiles, or email me at *contact.outofdesk [at] gmail [dot] com*

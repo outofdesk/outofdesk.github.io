@@ -16,17 +16,25 @@ I've often felt out of place in vegan and animal welfare circles where people na
 
 I remember one time in fifth grade, right in front of my home, a few stray dogs had brutally injured a baby pig. The dogs neither killed nor ate its flesh. They injured it enough that it couldn't move. If you've ever heard the noise of a pig squealing, you know it's not a pleasant one. I cried my heart out and skipped school that day because I couldn't step out of the door. It was a slow, painful death, for the pig and some tiny part of me.
 
-I'm also very sensitive to the blood of animals. I can't see it. I'd probably faint if I saw an injured animal up close, bleeding. So, while I am hopelessly emotional about them, I also can't help if I ever saw a bloodily injured animal, unless somebody forced me to do it, or showed me how to do it right because I can't see blood on animals and I'm scared of inadvertently intensifying their pain.
+I'm also very sensitive to the blood of animals. I can't see it. I'd probably faint if I saw an injured animal up close, bleeding. So, while I am hopelessly emotional about animals, I'm not mentally tough enough to help one, bloodily injured.
 
-But while reading Animal Liberation, a classic by Peter Singer, I realized that you don't have to be an animal lover to care about them and to believe in their moral and ethical treatment. You don't have to love or have to have even met an african-american in your life, to ideologically believe that slavery and racial discrimination in any form are immoral and wrong. So why expect that a person should be an animal lover to believe in animal welfare, autonomy, and rights?
+But while reading *Animal Liberation*, a classic by Peter Singer, I realized that you don't have to love animals to care about them and to believe in their moral and ethical treatment. You don't have to have loved or even met a person in your life who has been a victim of some kind of discrimination, to ideologically believe that discrimination in any form - racial, sexual, intellectual - is immoral and wrong. So why expect that a person should be an animal lover to believe in animal welfare, autonomy, and rights?
 
-I'd probably never own a pet again. But that shouldn't stop me from thinking about animal welfare. It's not an inconsistency. The fundamental shift in thinking comes from a belief that non-human animals are not that different from us, and acknowledge, what's now proved beyond doubt, that they experience pain and suffering very much like us. Once that's established, other arguments start to make sense.
+I'd probably never own a pet, again. But that shouldn't necessarily stop me from thinking about animal welfare. It's not an inconsistency, it's irrelevant. The fundamental shift in thinking comes from a belief that non-human animals are not that different from us, and acknowledge, what's now proved beyond doubt, that they experience pain and suffering very much like us. Once that's established, other arguments start to make sense.
 
-When we get into an argument or debate about this issue with others, it's not so much about those animals as much as it's about the moral values, prejudices, and biases we hold so dear. And that's why it reaches the level of intensity it does and gets the kind of emotional, irrational responses that it gets. People often think that vegans and animal welfare activists ride on moral high grounds. One argument to that is that people who sense that arrogance in others, might have a deep, latent insecurity about themselves being inconsistent and illogical on a certain level. And another is that even if people who care about animals aren't on higher ground, they are surely not on lower ground.
+When we get into a debate about this with others, it's not so much about those animals as much as it's about the moral values, prejudices, and biases we hold so dear. And that's why it reaches the level of intensity it does and gets the kind of emotional, irrational responses that it gets. It's seeing the belief system collapse, or being shown the irrationality and hypocrisy in what we think and do is what gets to us. People often think that vegans and animal welfare activists ride on moral high ground. One argument to that is that people who sense that arrogance or superiority in others, might have a deep, latent insecurity about themselves being inconsistent and illogical on a certain level. And another is that even if people who care about animals aren't on higher ground, they are surely not on lower ground.
 
-Note to myself for next time I discuss this issue with someone.
+*****
 
-*Ask them fundamental questions about how they view animals, to begin with. If they believe that non-human animals are inferior in any sense, it's that part you have to debate about, before even getting to how cruelly animals are treated.*
+(Note to myself) The next time you get into a discussion about this with someone with a different opinion, thinking of the following things might help to have a productive and sane debate.
+
+- *Do they think non-human animals are inferior than humans? If they do, on what grounds?*
+- *Do they think animals experience pain and suffering?*
+- *Do they believe torture and killing of some animals is different than others?*
+- *Do they know about the practices or treatment of animals being killed for meat and fashion?*
+- *Do they think that their preferences and likes matter more than lives of animals?*
+
+From answers to these, you'll know where they stand, and how likely they are to hear and understand your point of view. And if you can't do a good job communicating your arguments, just ask them to read *Animal Liberation*. No matter what their argument is, I'm sure Peter Singer will have a better, more convincing one.
 
 ## Recommended Reading
 -----
@@ -37,4 +45,4 @@ Note to myself for next time I discuss this issue with someone.
 
 *****
 
-If you enjoyed the post, feel free to share it on social media. If you have any questions or comments about the post, feel free to message me on any of my social media profiles, or email me at *contact.outofdesk [at] gmail [dot] com*
+If you enjoyed the post, feel free to share it on social media. If you have any questions or comments about the post, send me a message on any of my social media profiles, or email me at *contact.outofdesk [at] gmail [dot] com*
