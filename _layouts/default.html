@@ -144,13 +144,10 @@ layout: compress
             {% endfor %}
           </ul>
 
-          {% if page.url %}
+          {% if post.url %}
+            <div class="fb-like" data-href="{{ site.url }}{{ post.url }}" data-width="" data-layout="standard" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
+          {% elsif page.url %}
             <div class="fb-like" data-href="{{ site.url }}{{ page.url }}" data-width="" data-layout="standard" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
-          {% endif %}
-
-          {% if site.url %}
-            <div class="fb-like" data-href="{{ site.url }}" data-width="" data-layout="standard" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
-            <meta name="twitter:url" content="{{ site.url }}">
           {% endif %}
         </div>
         <!-- end /.fixed-condition -->
