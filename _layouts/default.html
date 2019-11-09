@@ -112,6 +112,9 @@ layout: compress
     {% endif %}
   </head>
   <body>
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v5.0&appId=402147090736124&autoLogAppEvents=1"></script>
+
     <div class="container">
       <div class="col-sm-3">
         <div class="fixed-condition">
@@ -140,6 +143,8 @@ layout: compress
               <li><a class="about" href="{{ i.url }}">{{ i.text }}</a></li>
             {% endfor %}
           </ul>
+
+          <div class="fb-like" data-href="https://www.facebook.com/out.of.desk/" data-width="" data-layout="standard" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
         </div>
         <!-- end /.fixed-condition -->
       </div>
