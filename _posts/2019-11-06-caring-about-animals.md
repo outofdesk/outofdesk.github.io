@@ -8,7 +8,7 @@ description: "The fundamental shift in thinking comes from a belief that non-hum
 <blockquote>
 We tried to explain that we were interested in the prevention of suffering and misery; that we were opposed to arbitrary discrimination; that we thought it wrong to inflict needless suffering on another being, even if that being were not a member of our own species; and that we believed animals were ruthlessly and cruelly exploited by humans, and we wanted this changed. Otherwise, we said, we were not especially “interested in” animals.
 </blockquote>
-<cite>Peter Singer, in Animal Liberation: The Definitive Classic of the Animal Movement</cite>
+<cite>Peter Singer, in Animal Liberation: A New Ethics for Our Treatment of Animals</cite>
 
 *****
 There are a million things to care about in this world if we cared to care about -- things that we know are systematically unfair, unjust or outright wrong. But if we cared about all of them to a point where we wanted to fix them or be a part of the solution, we’d go crazy. One way to maintain sanity is to accept that there are going to be things that are and will be out of our control and to learn to let go of some. That leaves us with time and energy to think about what we value the most and try to fix them, in any way and capacity we can. Elon Musk might be a rare exception, or at least the most popular of them out there, who can not only think about but make a huge impact on solving a lot of the pressing issues in the world today. But to make my point, even he is not consciously and primarily working towards fixing let’s say the gun violence in America or the use of social media for disrupting elections and attempts to shake the institution of democracy. Most often, people care about a lot of things, but in varying degrees.
@@ -46,7 +46,7 @@ From answers to these, you'll know where they stand, and how likely they are to 
 ## Recommended Reading
 -----
 
-[Animal Liberation: The Definitive Classic of the Animal Movement](https://www.amazon.com/Animal-Liberation-Definitive-Classic-Movement/dp/0061711306) (I'm currently reading this myself)
+[Animal Liberation: A New Ethics for Our Treatment of Animals](https://www.amazon.com/Animal-Liberation-Definitive-Classic-Movement/dp/0061711306) (I'm currently reading this myself)
 
 [The Rights of Animals: A Very Short Primer](https://chicagounbound.uchicago.edu/law_and_economics/568/)
 
