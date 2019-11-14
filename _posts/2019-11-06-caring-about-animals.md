@@ -4,6 +4,7 @@ title:  "Caring About Animals"
 date:   2019-11-06 00:00:00 -0700
 categories: [animals]
 description: "The fundamental shift in thinking comes from a belief that non-human animals are not that different from us, and acknowledge, what's now proved beyond doubt, that they experience pain and suffering very much like us. Once that's established, other arguments start to make sense."
+image: "caring-about-animals/cover.png"
 ---
 <blockquote>
 We tried to explain that we were interested in the prevention of suffering and misery; that we were opposed to arbitrary discrimination; that we thought it wrong to inflict needless suffering on another being, even if that being were not a member of our own species; and that we believed animals were ruthlessly and cruelly exploited by humans, and we wanted this changed. Otherwise, we said, we were not especially “interested in” animals.
