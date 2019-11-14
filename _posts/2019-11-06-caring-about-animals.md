@@ -36,9 +36,9 @@ The next time you get into a discussion about this with someone with a different
 
 - *Do they think non-human animals are inferior to humans? If they do, on what grounds?*
 - *Do they think animals experience pain and suffering?*
-- *Do they believe torture and killing of some animals is different than others?*
+- *Do they believe torture and killing of some animals are different than others?*
 - *Do they know about the practices or treatment of animals being killed for meat and fashion?*
-- *Do they think that their preferences and likes matter more than lives of animals?*
+- *Do they think that their preferences and likes matter more than the lives of animals?*
 
 From answers to these, you'll know where they stand, and how likely they are to listen and understand your point of view. And if you can't do a good job communicating your arguments, just ask them to read *Animal Liberation*. No matter what their argument is, I'm sure Peter Singer will have a better, more convincing one.
 
