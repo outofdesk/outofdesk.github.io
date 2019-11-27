@@ -72,6 +72,7 @@ a.category:last-child::after {
 }
 blockquote {
   background-color: #EEE;
+  font-size: 1em;
 }
 blockquote::before {
   content: "“ ";
