@@ -9,7 +9,7 @@ Here's the list of things that I've enjoyed reading and/or listening.
 
 <ul class="posts">
   <li>
-    <a target="_blank" href="https://www.revealnews.org/article/behind-the-smiles/>Behind the Smiles - Amazon’s internal injury records expose the true toll of its relentless drive for speed</a> &raquo; <i><span>{{ "2019-11-28 00:18:23 +0700" | date_to_string }}</span></i>
+    <a target="_blank" href="https://www.revealnews.org/article/behind-the-smiles">Behind the Smiles - Amazon’s internal injury records expose the true toll of its relentless drive for speed</a> &raquo; <i><span>{{ "2019-11-28 00:18:23 +0700" | date_to_string }}</span></i>
     <blockquote>The clock was always ticking on Amazon’s promised delivery time. Dixon had to scan a new item every 11 seconds to hit her quota, she said, and Amazon always knew when she didn’t.</blockquote>
   </li>
   <li>
