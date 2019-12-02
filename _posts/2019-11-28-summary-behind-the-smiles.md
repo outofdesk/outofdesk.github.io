@@ -6,12 +6,16 @@ categories: [capitalism, technology]
 description: "The clock was always ticking on Amazon’s promised delivery time. Dixon had to scan a new item every 11 seconds to hit her quota, she said, and Amazon always knew when she didn’t."
 image: "behind-the-smiles/cover.png"
 ---
-
 In March 2014 when I got an offer from Amazon for a summer internship, I couldn't have been happier. I was happy for two reasons, one, because I needed a break from interviewing and two because it was Amazon. I didn't know which team I was going to be working with at the time and only a few weeks prior to my internship, I learned that I was matched with Labor Optimization Team in Amazon Fulfillment Technologies(AFT) org.
 
 My job as an intern in the team was to help build systems to make sense of the data and the models designed to analyze it by the data scientist we had. There was a lot of data about the workers working in the Fulfillment Centers, like their smoking habits, for example, and one of the goals of the team was to be able to learn and predict characteristics of people that made them stick to the job and bring down the attrition rate. I had heard how people moved in and out of these jobs and how it was hard to find workers who stayed. I didn't think much about why that was.
 
 To make us better at our jobs and help us understand the whole process, we were even flown to a Fulfillment Center during the internship. I forgot which one it was, but it had Kiva robots to move the big racks around. It was amazing to see how robots were serving humans here, doing the laborious task of carrying heavy boxes for long distances in these gigantic warehouses. Never thought about what happened after the robots brought those boxes to humans.
+
+*****
+
+Following is a summary of the article reported by Reveal on the conditions of workers at Amazon Fulfillment Centers and the cost of the ever-increasing speed of home delivery. Read on to for my highlights and key takeaways from the article. You can find the original article [**here**](https://www.revealnews.org/article/behind-the-smiles).
+
 
 ### Key Takeaways
 
