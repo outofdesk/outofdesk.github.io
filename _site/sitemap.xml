@@ -5,13 +5,13 @@
     <description>My Online, Filtered Notepad</description>
     <link>https://outofdesk.github.io/</link>
     <atom:link href="https://outofdesk.github.io/sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 02 Dec 2019 14:25:51 -0800</pubDate>
-    <lastBuildDate>Mon, 02 Dec 2019 14:25:51 -0800</lastBuildDate>
+    <pubDate>Mon, 02 Dec 2019 14:28:48 -0800</pubDate>
+    <lastBuildDate>Mon, 02 Dec 2019 14:28:48 -0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Summary: Behind the Smiles by Reveal</title>
-        <description>&lt;p&gt;In March 2014 when I got an offer from Amazon for a summer internship, I couldn’t have been happier. I was happy for two reasons, one, because I needed a break from interviewing and two because it was Amazon. I didn’t know which team I was going to be working with at the time and only a few weeks prior to my internship, I learned that I was matched with Labor Optimization Team in Amazon Fulfillment Technologies(AFT) org.&lt;/p&gt;
+        <description>&lt;p&gt;In March 2014 when I got an offer from Amazon for a summer internship, I couldn’t have been happier. I was happy for two reasons, one, because I needed a break from interviewing and two because it was Amazon. I didn’t know which team I was going to be working with at the time and only a few weeks before my internship, I learned that I was matched with Labor Optimization Team in Amazon Fulfillment Technologies(AFT) org.&lt;/p&gt;
 
 &lt;p&gt;My job as an intern in the team was to help build systems to make sense of the data and the models designed to analyze it by the data scientist we had. There was a lot of data about the workers working in the Fulfillment Centers, like their smoking habits, for example, and one of the goals of the team was to be able to learn and predict characteristics of people that made them stick to the job and bring down the attrition rate. I had heard how people moved in and out of these jobs and how it was hard to find workers who stayed. I didn’t think much about why that was.&lt;/p&gt;
 
