@@ -3,7 +3,7 @@ layout: post
 title:  "Summary: Behind the Smiles by Reveal"
 date:   2019-11-28 00:00:00 -0700
 categories: [capitalism, technology]
-description: "The clock was always ticking on Amazon’s promised delivery time. Dixon had to scan a new item every 11 seconds to hit her quota, she said, and Amazon always knew when she didn’t."
+description: "I can't help but draw parallels between the almost robotic efficiency expected from humans in these warehouses to slaughterhouses in factory farms. The ever-increasing demand for stuff(packages and meat) has pushed industries to meet it at the expense of human, animal and planet health. It's a classic case of human greed and indifference taking a toll on anyone and anything that's poor and helpless."
 image: "behind-the-smiles/cover.png"
 ---
 In March 2014 when I got an offer from Amazon for a summer internship, I couldn't have been happier. I was happy for two reasons, one, because I needed a break from interviewing and two because it was Amazon. I didn't know which team I was going to be working with at the time and only a few weeks before my internship, I learned that I was matched with Labor Optimization Team in Amazon Fulfillment Technologies(AFT) org.
@@ -14,7 +14,7 @@ To make us better at our jobs and help us understand the whole process, we were 
 
 *****
 
-Following is a summary of the article reported by Reveal on the conditions of workers at Amazon Fulfillment Centers and the cost of the ever-increasing speed of home delivery. Read on to for my highlights and key takeaways from the article. You can find the original article [**here**](https://www.revealnews.org/article/behind-the-smiles).
+Following is a summary of the article reported by Reveal on the conditions of workers at Amazon Fulfillment Centers and the cost of the ever-increasing speed of home delivery. Read on for my highlights and key takeaways from the article. You can find the original article [**here**](https://www.revealnews.org/article/behind-the-smiles).
 
 
 ### Key Takeaways
@@ -34,6 +34,8 @@ Workers are too afraid of termination and retaliation to even talk about their i
 Some report that they had to pee in bottles, or take packages to restrooms with them to avoid missing the quota. Some have suffered urinary tract infections from holding it in for long times.
 
 The case of the death of a worker in Indiana operating a forklift in the warehouse was covered up and people investigating pushed back by the higher officials all the way up to the Mayor.
+
+I can't help but draw parallels between the almost robotic efficiency expected from humans in these warehouses to slaughterhouses in factory farms. The ever-increasing demand for stuff(packages and meat) has pushed industries to meet it at the expense of human, animal and planet health. It's a classic case of human greed and indifference taking a toll on anyone and anything that's poor, vulnerable and helpless. I won't be surprised if companies like Amazon go as far to use its power and influence to get something like the ag-gag laws passed to make it illegal to record in any form the conditions of workers in its Fulfillment Centers.
 
 ### Highlights
 
