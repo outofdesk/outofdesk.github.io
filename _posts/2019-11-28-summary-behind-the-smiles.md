@@ -37,6 +37,13 @@ The case of the death of a worker in Indiana operating a forklift in the warehou
 
 I can't help but draw parallels between the almost robotic efficiency expected from humans in these warehouses to slaughterhouses in factory farms. The ever-increasing demand for stuff(packages and meat) has pushed industries to meet it at the expense of human, animal and planet health. It's a classic case of human greed and indifference taking a toll on anyone and anything that's poor, vulnerable and helpless. I won't be surprised if companies like Amazon go as far to use its power and influence to get something like the ag-gag laws passed to make it illegal to record in any form the conditions of workers in its Fulfillment Centers.
 
+Some similarities between the two industries:
+1. Both are driven by the need for speed and increased demand
+2. Workers in both the industries suffer a lot more serious injuries than the industry average in jobs requiring physical labor
+3. Workers in both the industries have reported not being sent to a doctor by their on-site medical staff even after multiple reports of pain and injuries
+4. Workers sometimes are told not to use unplanned restroom breaks, and other times they don't do it out of fear of missing their quota. Some have reported using adult diapers, or peeing in a bottle
+5. Products from the industries are eventually shipped in boxes and wrappers with smiles on them, which is utter disinformation.
+
 ### Highlights
 
 *****
@@ -86,6 +93,14 @@ During the holiday season, "...warehouses are crammed with seasonal workers unac
 "...picker at a fulfillment center in Phoenix until last year, said he and other workers would bring customers’ orders into the bathroom with them to scan midway through. “It sounds disgusting,” he acknowledged."
 
 "“You have to hold your pee or not make your rate. Which one you want to do?” Shrum said. “I had to make my rate.”"
+
+### Recommended Reading
+
+[Reveal -- Behind the Smiles: Amazon’s internal injury records expose the true toll of its relentless drive for speed](https://www.revealnews.org/article/behind-the-smiles)
+
+[NPR -- We Don't Know How Many Workers Are Injured At Slaughterhouses. Here's Why](https://www.npr.org/sections/thesalt/2016/05/25/479509221/we-dont-know-how-many-workers-are-injured-at-slaughterhouses-heres-why)
+
+[The Guardian -- Two amputations a week: the cost of working in a US meat plant](https://www.theguardian.com/environment/2018/jul/05/amputations-serious-injuries-us-meat-industry-plant)
 
 *****
 
