@@ -96,6 +96,8 @@ During the holiday season, "...warehouses are crammed with seasonal workers unac
 
 ### Recommended Reading
 
+*****
+
 [Reveal -- Behind the Smiles: Amazon’s internal injury records expose the true toll of its relentless drive for speed](https://www.revealnews.org/article/behind-the-smiles)
 
 [NPR -- We Don't Know How Many Workers Are Injured At Slaughterhouses. Here's Why](https://www.npr.org/sections/thesalt/2016/05/25/479509221/we-dont-know-how-many-workers-are-injured-at-slaughterhouses-heres-why)
