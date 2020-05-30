@@ -1,6 +1,7 @@
 body {
   /*font-family: "Roboto Condensed", Arial, sans-serif;*/
-  font-family: "Open Sans", sans-serif;
+  /* font-family: "Open Sans", sans-serif; */
+  font-family: valkyrie_c4;
   background: url("/static/img/subtle_dots.png");
   line-height: 2em;
   font-weight: 300;
@@ -55,31 +56,38 @@ a:hover {
   content: "»";
   margin-right: .5em;
 }
+.sidebar-nav li a {
+  font-size: 1.2em;
+}
 
 /* Content */
 p.categories {
   text-align: right;
   font-size: 0.75em;
-  font-style: italic;
+  /* font-style: italic; */
 }
 
+a.category {
+  font-size: 1.2em;
+}
 a.category::after {
   content: ",";
 }
-
 a.category:last-child::after {
   content: "";
 }
 blockquote {
-  background-color: #EEE;
   font-size: 1em;
+  border-left: 2px solid #E47272;
 }
 blockquote::before {
-  content: "“ ";
+  /* content: "“ "; */
+  /* content: "..."; */
   font-family: cursive;
 }
 blockquote::after {
-  content: " ”";
+  /* content: " ”"; */
+  content: " ...";
   font-family: cursive;
 }
 
@@ -119,13 +127,24 @@ footer {
 }
 
 ul.posts {
-  list-style: decimal-leading-zero;
+  list-style: none;
   padding-left: 25px;
 }
 
 ul.posts li {
   padding: 0.5em;
 }
+
+ul.posts li .title {
+  display: inline-block;
+  font-size: 1.5em;
+  margin-bottom: 1em;
+}
+ul.posts li .date {
+  float:right;
+}
+
+
 
 /* Left column */
 div.col-sm-3 {
