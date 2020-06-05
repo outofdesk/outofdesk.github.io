@@ -166,6 +166,8 @@ ul.posts {
 
 ul.posts li {
   padding: 0.5em;
+  margin-bottom: 1em;
+  border-bottom: 1px solid #EEE;
 }
 
 ul.posts li .title {
