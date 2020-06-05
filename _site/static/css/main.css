@@ -178,6 +178,8 @@ ul.posts li .date {
 }
 ul.posts li blockquote {
   text-align: justify;
+  border: none;
+  padding: none;
 }
 
 
