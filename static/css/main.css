@@ -18,8 +18,35 @@ hr {
 span.time, span.categories {
   color: #ADADAD;
   margin-bottom: 5px;
-  font-size: 11px;
+  font-size: 0.85em;
 }
+
+span.categories a::before {
+  content: '#';
+}
+
+.post-metadata {
+  display: block;
+  overflow: auto;
+}
+
+.post-metadata div:first-child {
+  float:left;
+}
+
+.post-metadata div:last-child {
+  float: right;
+}
+
+.post {
+  text-align: justify;
+}
+
+.post blockquote {
+  border: none;
+  background-color: #EEE;
+}
+
 h1, h2, h3 {
   color: #696969;
   font-weight: normal;
@@ -42,7 +69,10 @@ a:hover {
 
 /* Layout */
 .main-layout {
-  background: #fff;
+  /* background: #fff; */
+}
+.main-layout h1 {
+  text-align: center;
 }
 .sidebar-nav {
   margin: 0;
@@ -62,7 +92,7 @@ a:hover {
 
 /* Content */
 p.categories {
-  text-align: right;
+  text-align: left;
   font-size: 0.75em;
   /* font-style: italic; */
 }
@@ -70,12 +100,15 @@ p.categories {
 a.category {
   font-size: 1.2em;
 }
-a.category::after {
+a.category::before {
+  content: '#';
+}
+/* a.category::after {
   content: ",";
-}
-a.category:last-child::after {
+} */
+/* a.category:last-child::after {
   content: "";
-}
+} */
 blockquote {
   font-size: 1em;
   border-left: 2px solid #E47272;
@@ -143,7 +176,9 @@ ul.posts li .title {
 ul.posts li .date {
   float:right;
 }
-
+ul.posts li blockquote {
+  text-align: justify;
+}
 
 
 /* Left column */

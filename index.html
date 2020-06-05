@@ -10,13 +10,14 @@ title: Blog
   <ul class="posts">
     {% for post in paginator.posts %}
       <li>
-        <a class="title" href="{{ post.url }}">{{ post.title }}</a><span class="date">{{ post.date | date_to_string }}</span>
+        <a class="title" href="{{ post.url }}">{{ post.title }}</a>
         <blockquote>{{ post.description }}</blockquote>
         <p class="categories">
           posted in&nbsp;
           {% for category in post.categories %}
             <a class="category" href="/category/{{ category }}">{{ category }}</a>
           {% endfor %}
+          <span class="date">{{ post.date | date_to_string }}</span>
         </p>
       </li>
     {% endfor %}
