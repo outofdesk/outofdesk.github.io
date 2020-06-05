@@ -1,12 +1,12 @@
 body {
   /*font-family: "Roboto Condensed", Arial, sans-serif;*/
   /* font-family: "Open Sans", sans-serif; */
-  font-family: valkyrie_c4;
+  font-family: 'Montserrat', sans-serif;
   background: url("/static/img/subtle_dots.png");
   line-height: 2em;
   font-weight: 300;
   font-size: 16px;
-  color: #666;
+  color: #222;
 }
 hr {
   margin-top: 20px;
@@ -48,6 +48,7 @@ span.categories a::before {
 }
 
 h1, h2, h3 {
+  font-family: 'Merriweather', sans-serif;
   color: #696969;
   font-weight: normal;
 }
@@ -161,11 +162,11 @@ footer {
 
 ul.posts {
   list-style: none;
-  padding-left: 25px;
+  padding-left: 0;
 }
 
 ul.posts li {
-  padding: 0.5em;
+  padding: 0;
   margin-bottom: 1em;
   border-bottom: 1px solid #EEE;
 }
@@ -174,6 +175,7 @@ ul.posts li .title {
   display: inline-block;
   font-size: 1.5em;
   margin-bottom: 1em;
+  font-family: 'Merriweather', sans-serif;
 }
 ul.posts li .date {
   float:right;
@@ -182,6 +184,7 @@ ul.posts li blockquote {
   text-align: justify;
   border: none;
   padding: 0;
+  background: none;
 }
 
 .post-title {
@@ -189,6 +192,21 @@ ul.posts li blockquote {
   margin-bottom: 1em;
 }
 
+.custom-list {
+  padding: 0;
+  list-style: none;
+}
+
+.custom-list li {
+  position: relative;
+  margin: 2em 0;
+  border-bottom: 1px solid #EEE;
+}
+
+.custom-list li .title{
+  display: inline-block;
+  margin-bottom: 1em;
+}
 
 /* Left column */
 div.col-sm-3 {
