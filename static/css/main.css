@@ -181,7 +181,7 @@ ul.posts li .date {
 ul.posts li blockquote {
   text-align: justify;
   border: none;
-  padding: none;
+  padding: 0;
 }
 
 .post-title {
