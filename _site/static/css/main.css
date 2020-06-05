@@ -182,6 +182,11 @@ ul.posts li blockquote {
   padding: none;
 }
 
+.post-title {
+  color: #3fa757;
+  margin-bottom: 1em;
+}
+
 
 /* Left column */
 div.col-sm-3 {
