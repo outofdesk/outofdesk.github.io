@@ -42,14 +42,14 @@ So, write now!
 
 *****
 
-### That's An Old Photo of Younger Me Running
+### An Old Photo of Younger Me Running
 <br/>
 
 {:.center-align}
 ![That's me running!](/static/img/running-profile.jpeg)
 
 *****
-### Get In Touch With Me
+### Get In Touch
 <br/>
 
 Email:
