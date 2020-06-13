@@ -186,7 +186,9 @@ ul.posts li blockquote {
   padding: 0;
   background: none;
 }
-
+.center-align {
+  text-align: center;
+}
 .post-title {
   color: #3fa757;
   margin-bottom: 1em;
