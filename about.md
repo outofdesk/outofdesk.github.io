@@ -9,10 +9,14 @@ permalink: /about/
 
 My name is Gaurav Ramesh. I work as a Software Engineer in the Bay Area and have been living in the U.S since 2013. I hail from Shimoga, a little town in the south of India, close to Bengaluru, the Silicon Valley of India.
 
+*****
+
 ### The Journey
 <br/>
 
 Moving from the college town of Columbus, Ohio to working in the Bay Area feels very similar to my journey from studying in Shimoga to working in Bengaluru. The similarity is not just in the characterization of the places, but what they have to offer. One has simplicity, authenticity, and peace of mind, the other has opportunities for growth, so the internal journey has been one of going back and forth between the two in pursuit of a healthy mix of both.
+
+*****
 
 ### The Blog
 <br/>
