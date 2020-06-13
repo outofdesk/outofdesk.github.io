@@ -42,7 +42,7 @@ So, write now!
 
 *****
 
-### An Old Photo of Younger Me Running
+### An Old Photo of Younger Me, Running
 <br/>
 
 {:.center-align}
