@@ -119,11 +119,6 @@ blockquote::before {
   /* content: "..."; */
   font-family: cursive;
 }
-blockquote::after {
-  /* content: " ”"; */
-  content: " ...";
-  font-family: cursive;
-}
 
 cite {
   display: block;

@@ -16,6 +16,15 @@ My name is Gaurav Ramesh. I work as a Software Engineer in the Bay Area and have
 
 Moving from the college town of Columbus, Ohio to working in the Bay Area feels very similar to my journey from studying in Shimoga to working in Bengaluru. The similarity is not just in the characterization of the places, but what they have to offer. One has simplicity, authenticity, and peace of mind, the other has opportunities for growth, so the internal journey has been one of going back and forth between the two in pursuit of a healthy mix of both.
 
+Reading the last line above, it sounded like it made a small poem..
+
+<blockquote>
+One has simplicity, authenticity, and peace of mind, <br/>
+The other has opportunities for growth <br/>
+The internal journey has been one of going back and forth <br/>
+Between the two in pursuit of a healthy mix of both <br/>
+</blockquote>
+
 *****
 
 ### The Blog
