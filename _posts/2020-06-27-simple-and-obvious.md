@@ -7,7 +7,7 @@ description: "After it was all dealt with, my manager called me on my phone to h
 image: ""
 ---
 
-One afternoon on a weekday, I had a meeting with a few people at work to release the last piece of a project that was meant to change the way our clients interacted with the backend systems. It was a fairly simple change and was expected to be done in a few minutes. Not all people invited were strictly required in the meeting, so while a few joined, others kept an eye on their respective systems for signals and were kept abreast via Slack.
+One afternoon on a weekday, I had a meeting with a few people at work to release the last piece of a project that was meant to change the way our clients interacted with the backend systems. It was a fairly simple change and was expected to be done in a few minutes. Not all people invited were strictly required in the meeting, so while a few joined, others kept an eye on their respective systems for signals and were kept abreast of the progress via Slack.
 
 So there I was, in a room with a few people, talking to a few on a video call, and chatting with a couple more on the side.
 
