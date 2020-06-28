@@ -5,9 +5,115 @@
     <description>My Online Notepad</description>
     <link>https://outofdesk.github.io/</link>
     <atom:link href="https://outofdesk.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 21 Jun 2020 14:25:19 -0700</pubDate>
-    <lastBuildDate>Sun, 21 Jun 2020 14:25:19 -0700</lastBuildDate>
+    <pubDate>Sun, 28 Jun 2020 00:11:41 -0700</pubDate>
+    <lastBuildDate>Sun, 28 Jun 2020 00:11:41 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>About Simple and Obvious Things</title>
+        <description>&lt;p&gt;One afternoon on a weekday, I had a meeting with a few people at work to release the last piece of a project that was meant to change the way our clients interacted with the backend systems. It was a fairly simple change and was expected to be done in a few minutes. Not all people invited were strictly required in the meeting, so while a few joined, others kept an eye on their respective systems for signals and were kept abreast via Slack.&lt;/p&gt;
+
+&lt;p&gt;So there I was, in a room with a few people, talking to a few on a video call, and chatting with a couple more on the side.&lt;/p&gt;
+
+&lt;p&gt;Five minutes into the meeting, we did the change and shifted our attention to the monitoring systems to see early signs of success, or to minimize damage in the remote possibility of failure. Twenty minutes later, we still didn’t see any activity that we’d expected or hoped for.&lt;/p&gt;
+
+&lt;p&gt;The nature of the change was such that we’d expected it to take a short period to propagate but didn’t know how long exactly. So we didn’t sweat. We had theories about why it might be taking longer than usual. About thirty minutes later, we decided to involve somebody from the iOS team to simulate tests from the clients’ perspective to get some validation.&lt;/p&gt;
+
+&lt;p&gt;They took their sweet time to prepare for the test, and after about fifteen minutes, finally tested it. They saw some errors. When we dug into it, we learned that the clients had been seeing those errors all this time since I made the change — so for about fifty minutes. What was weird was that no whistles were blowing off, no pages triggered, so we doubted if the clients did see any errors at all, or had had any negative impact. In any case, we reverted the change, just to be safe. The errors, as you’d guess, went away.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;When I first learned about the impact of the incident, I felt embarrassed and a little nervous. Not because it could have been avoided — that realization only came later — but because I instantly started questioning my abilities. I was trusted with it, and I was incapable of executing it. It was my lack of knowledge, I thought, that was the problem, and my self-doubt started to eat me up. At some point, I even went into denial and started blaming other people for it, at least in my mind, if not in reality.&lt;/p&gt;
+
+&lt;p&gt;After it was all dealt with, my manager called me on my phone to have a chat. He was kind and responsible enough to reflect on it and think of ways he could have helped me. But there was one thing he mentioned which guided my thinking in the right direction.&lt;/p&gt;
+
+&lt;p&gt;He asked me what my plan was before I started to work on it. How dare he asked me what the plan was, I thought. Was he asking if I had a plan at all? I’d obviously have had a plan.&lt;/p&gt;
+
+&lt;p&gt;Only I didn’t.&lt;/p&gt;
+
+&lt;p&gt;I went into the meeting, assuming that I knew all that had to be done, and I didn’t anticipate anything going wrong. So it wasn’t a gap in my knowledge that was the problem, but lack of thought and foresight, about the potential consequences and impact of the change on the system as a whole, both good and bad.&lt;/p&gt;
+
+&lt;p&gt;There were many pieces to look after that and even though each of those tasks was fairly simple, every one of them was also crucial to the success, and because of their fragmented nature, it was really easy to miss one or two.&lt;/p&gt;
+
+&lt;p&gt;Atul Gawande, in his book &lt;a href=&quot;https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000&quot;&gt;The Checklist Manifesto: How to Get Things Right&lt;/a&gt;, mentions an essay from the 1970s by philosophers Samuel Gorovitz and Alasdair MacIntyre, which talks about human fallibility. One reason they talk about is “necessary fallibility”, which is when things go wrong because they’re beyond our capacity to control. These, by definition, can’t be prevented from happening.&lt;/p&gt;
+
+&lt;p&gt;But he identifies two other reasons for why things go wrong — /ignorance/, the gaps in our knowledge, and /ineptitude/, our failure to apply the knowledge correctly.&lt;/p&gt;
+
+&lt;p&gt;Ignorance, if we’re willing to learn, can be reduced over time; the more time we invest in something, the more we learn about it, the more knowledge we gain. But competence is something that doesn’t just come over time. Getting rid of ineptitude requires persistent effort and deliberate practice. In fact, there’s a case to be made that the more knowledge we possess, the more we stand a chance to blind ourselves to a holistic, systems thinking approach unless we’re constantly reevaluating ourselves.&lt;/p&gt;
+
+&lt;p&gt;The more I thought about it, the more I realized that my mistake had a meta nature to it. One is that despite having the necessary knowledge to execute the task at hand, I had failed to come up with a plan, a checklist of things that I should have had in place before I jumped on it. Second, and the meta part, is that I knew the importance of checklists, but had failed to put that knowledge too, into practice.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;After this incident, I finally started taking the idea of checklists, the habit of note-taking, seriously.&lt;/p&gt;
+
+&lt;p&gt;In that spirit, here’s a list of things I’ve learned and tried to follow since:&lt;/p&gt;
+
+&lt;h4 id=&quot;meetings&quot;&gt;Meetings&lt;/h4&gt;
+&lt;p&gt;Take notes before, during, and after meetings.&lt;/p&gt;
+
+&lt;p&gt;Before the meeting take note of the agenda, about what you intend to learn, what you want to say, what you expect to get out of the meeting.&lt;/p&gt;
+
+&lt;p&gt;During the meeting, take note of what people say, along with their names, if possible, keywords or jargon mentioned, to read about them later, questions asked, observations, and decisions made.&lt;/p&gt;
+
+&lt;p&gt;After the meeting, list the important things, organize and summarize ideas to make sense of it in the future. Put them in chronological order, relative to the notes of other meetings about a related, or similar topic.&lt;/p&gt;
+
+&lt;h4 id=&quot;projects&quot;&gt;Projects&lt;/h4&gt;
+&lt;p&gt;Other than the shared documents of a project like planning document, design document, and so on, it’s immensely helpful to maintain your notes for things you’re working on. Like in software systems where you design different data models depending on the use-case and requirements, you can create multiple documents based on the nature of their use.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“Quick Reference” document for things you’d frequently need while working on a project, for example, necessary links and resources, usernames and passwords, contact info of people important for the project, and so on.&lt;/li&gt;
+  &lt;li&gt;“Questions” document for things you need clarifications on.&lt;/li&gt;
+  &lt;li&gt;“Details” document for technical details of the project&lt;/li&gt;
+  &lt;li&gt;“Planning” document for milestones and timelines associated with the project&lt;/li&gt;
+  &lt;li&gt;“Checklist” for the list of things you’re working on, will work on and have already completed&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I usually tag them by their project name, and their type, so they’re all searchable with one keyword.&lt;/p&gt;
+
+&lt;h4 id=&quot;releases&quot;&gt;Releases&lt;/h4&gt;
+&lt;p&gt;This usually breaks out from one of the “Planning” items in the project documents. One document each for every release, with the list of things to take care of before and after the release.&lt;/p&gt;
+
+&lt;h4 id=&quot;audience&quot;&gt;Audience&lt;/h4&gt;
+&lt;p&gt;Remember that all of these are for your benefit and sanity. Don’t get too worked up about the format or the industry conventions. If it works for you, it’s good enough. It doesn’t even have to be full sentences or grammatically correct, as long as the information contained is accurate. Pictures, links, references, anything is game. When it’s time to share or present the information to people, you can clean it up, organize, and proof-read it.&lt;/p&gt;
+
+&lt;h4 id=&quot;progress&quot;&gt;Progress&lt;/h4&gt;
+&lt;p&gt;While stand-up, stand-down and check-in meetings are great to let other people know what you’re working on, or blocked by, keeping them as a list will help you go through the pending things in a streamlined, efficient and timely manner. You’ll also get a sense of accomplishment to see things get off of your checklist, and a feeling of closure.&lt;/p&gt;
+
+&lt;h4 id=&quot;connections&quot;&gt;Connections&lt;/h4&gt;
+&lt;p&gt;Fragmented bits of data put together in one place helps you keep the focus on the bigger picture, and helps you find patterns and relationships between seemingly disparate ideas.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;While this list looks fairly simple and the things in it seem obvious, if there’s one thing I’ve learned from my experience is that things that seem simple and obvious, are not necessarily easy and not so obvious.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;recommended-reading&quot;&gt;Recommended Reading&lt;/h2&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+Avoidable failures are common and persistent, not to mention demoralizing and frustrating, across many fields -- from medicine to finance, business to government. And the reason is increasingly evident: the volume and complexity of what we know has exceeded our individual ability to deliver its benefits correctly, safely, or reliably. Knowledge has both saved us and burdened us.
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;cite&gt;&lt;a href=&quot;https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000&quot;&gt;The Checklist Manifesto: How to Get Things Right&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;@out.of.desk&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 27 Jun 2020 00:00:00 -0700</pubDate>
+        <link>https://outofdesk.github.io/work/productivity/learning/2020/06/27/simple-and-obvious.html</link>
+        <guid isPermaLink="true">https://outofdesk.github.io/work/productivity/learning/2020/06/27/simple-and-obvious.html</guid>
+        
+        
+        <category>work</category>
+        
+        <category>productivity</category>
+        
+        <category>learning</category>
+        
+      </item>
     
       <item>
         <title>A Chat With the Different Selfs</title>
