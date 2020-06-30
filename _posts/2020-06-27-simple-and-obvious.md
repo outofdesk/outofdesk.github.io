@@ -23,13 +23,13 @@ When I first learned about the impact of the incident, I felt embarrassed and a 
 
 After it was all dealt with, my manager called me on my phone to have a chat. He was kind and responsible enough to reflect on it and think of ways he could have helped me. But there was one thing he mentioned which guided my thinking in the right direction.
 
-He asked me what my plan was before I started to work on it. How dare he asked me what the plan was, I thought. Was he asking if I had a plan at all? I’d obviously have had a plan.
+He asked me what my plan was before I started to work on it. How dare he ask me what the plan was, I thought. Was he asking if I had a plan at all? I’d obviously have had a plan.
 
 Only I didn’t.
 
 I went into the meeting, assuming that I knew all that had to be done, and I didn’t anticipate anything going wrong. So it wasn’t a gap in my knowledge that was the problem, but lack of thought and foresight, about the potential consequences and impact of the change on the system as a whole, both good and bad.
 
-There were many pieces to look after that and even though each of those tasks was fairly simple, every one of them was also crucial to the success, and because of their fragmented nature, it was really easy to miss one or two.
+There were many pieces to look after and even though each of those tasks was fairly simple, every one of them was also crucial to the success, and because of their fragmented nature, it was really easy to miss one or two.
 
 Atul Gawande, in his book [The Checklist Manifesto: How to Get Things Right](https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000), mentions an essay from the 1970s by philosophers Samuel Gorovitz and Alasdair MacIntyre, which talks about human fallibility. One reason they talk about is “necessary fallibility”, which is when things go wrong because they’re beyond our capacity to control. These, by definition, can’t be prevented from happening.
 
