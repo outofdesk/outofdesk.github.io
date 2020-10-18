@@ -9,23 +9,23 @@ image: ""
 
 While dragging my fingers against the iPad screen, browsing for available e-books in my digital library app, I stumbled upon one titled *“How to Teach Philosophy to Your Dog - Exploring the Big Questions in Life”*. I’m always looking out for books that break down complex things in simple language(that probably tells something about my ability to comprehend things). From the title, it seemed like the book aimed to do that for Philosophy, one of the most abstract and complex subjects there is. So it naturally piqued my interest.
 
-But that wasn’t the only reason why I picked it. It triggered one of my old memories, one that has floated to the surface of my consciousness enough number of times over the years to etch it into my long-term memory. The kind which is small yet profound, the kind which gives you different food for thought every time you visit it.
+But that wasn’t the only reason why *I picked* it. It triggered one of my old memories, one that has floated to the surface of my consciousness enough number of times over the years to etch it into my long-term memory. The kind which is small yet profound, the kind which gives you different food for thought every time you visit it.
 
 Of all the ways we are different compared to other animals, one thing that stands out is our need to find meaning in life. Our desire to make sense of our time and place in the world and to make a meaningful contribution to it drives most of our actions. Different cultures and societies have different ideas about purpose. For some, it’s about pleasing God, for others, it's about living a good life, a life of virtues. For some, it’s the pursuit of knowledge, and for others, it’s about finding their true potential, exploring the limits of the body and mind.
 
-Thoughts about meaning and purpose, of why we are here, consumes everybody at some point in their life. So much, sometimes, that it pushes us over the mountain of worries and leaves us rolling down helplessly and endlessly, because the answers don’t come easy.
+Thoughts about meaning and purpose, of why we are here, consumes most people at some point in their life. Sometimes so much that it pushes us over the mountain of uncertainty and leaves us rolling down helplessly and endlessly, because the answers don’t come easy.
 
 ---
 
 There’s another book, *“Why Zebras Don’t Get Ulcers”*, which explores how humans, by way of complexity and complications of their worlds, have created problems not commonly found in other animals, like the ones concerning mental health - stress, anxiety, and depression. 
 
-These comparisons to non-human animals, or looking at the human concepts through the lens of an animal are interesting because our place in this world is defined by how we see theirs. What makes us humans is that we are not non-humans. Weird, but true.
+These comparisons to non-human animals, or looking at the human concepts through the lens of non-human animals are interesting because our place in this world is defined by theirs. What makes us humans is that we are not non-humans. Weird, but true.
 
-How do animals look at the world? How do they look at their life? How do humans think animals look at the world or life? How do humans look at animals?
+So how do animals look at the world? How do they look at their life? How do humans think animals look at the world or life?
 
-How we look at animals tells a lot about how we think animals look at us, or the World, or their life.
+How we look at animals tells a lot about how we think they look at us, or the world, or their life.
 
-When we pet a dog because it’s cute, we project our understanding of the world and assign the attribute of cuteness to it. And with cuteness, we associate other things, like innocence and harmlessness, for example. What if the dog was a monster in the dog world? How can we tell? What if the spider that we got scared of and thought was dangerous, was the nicest in the world? And would it change our minds if we ever proved that? Do the non-human animals judge others as quickly as us? And if they do, what might they think of us as?
+When we pet a dog because it’s *cute*, we project our understanding of the world and assign the attribute of cuteness to it. And with cuteness, we associate other things, like innocence and harmlessness, for example. What if the dog was a *monster* in the dog world? How can we tell? What if the spider that we got scared of and thought was dangerous, was the *nicest* in the world? And would it change our minds if we ever proved that? Do the non-human animals judge others as quickly as us? And if they do, what might they think of us as?
 
 ---
 
@@ -37,9 +37,9 @@ All the dog cared about was his sleep. He was having a good time and our arrival
 
 My friend looked at the dog and commented that he’d have preferred a dog’s life to a human’s since they didn’t have to worry about doing something useful with their life and didn’t have to find meaning in it.
 
-One interesting thing about that is that we don’t know that! What if they are more aware of the Truth and more willing to accept it than we are? What if they have figured out, like the existentialist philosophers, that nothing really matters and that it’s all absurd if you think about it, and so they’re focusing on what’s important - to continue to live?
+One interesting thing about that is that we don’t know that! What if they are more aware of the *Truth* and more willing to accept it than we are? What if they have figured out, like the existentialist philosophers, that nothing really matters and that it’s all absurd if you think about it, and so they’re focusing on what’s important - to continue to live?
 
-The other interesting thing about it was that his comment indicated how his intrinsic motivation pushed him towards something that was uncomfortable, and yet rewarding at the same time. That he’d be better off spending time with his kid and his then-pregnant wife, that he’d have preferred an easier life if he could, but his drive left him no choice. I learned much later that the comment he made touches on the concept of “positive liberty”, the lack of it, in his case.
+The other interesting thing about it was that his comment indicated how his intrinsic motivation pushed him towards something that was uncomfortable, and yet rewarding at the same time. That he’d be better off spending time with his kid and his then-pregnant wife, that he’d have preferred an easier life if he could, but his drive left him no choice. I learned much later that the comment he made touches on the concept of *positive liberty*, the lack of it, in his case.
 
 So here he was working on an idea that could bring so-called meaning to his life or the world, going around town with a young college graduate, who was also looking for something similar, and wondering about all of it looking at a sleeping dog.
 
@@ -53,7 +53,9 @@ When I started to grow passionate about the outdoors and got into running, hikin
 
 That leaves me with a few questions.
 
-Was the dog freer in a sense than us, without all the worrying about achieving something in life? Would I have chosen the book if that moment from my past didn’t leave such an imprint on me? If I wouldn’t have, then is it even true that I chose the book? Given the experiences that I had, did I have the capacity to not choose it? And if I wasn’t the one in charge, who was? Is it possible that the book chose me instead?
+Was the dog freer in a sense than us, without all the worrying about achieving something in life? Would I have chosen the book if that moment from my past didn’t leave such an imprint on me? If I wouldn’t have, then is it even true that I chose the book? Given the experiences that I had, did I have the capacity to not choose it? And if I wasn’t the one in charge, who was?
+
+Is it possible that the book chose me instead?
 
 ---
 
