@@ -19,7 +19,7 @@ Moving from the college town of Columbus, Ohio to working in the Bay Area feels 
 Reading the last line above, it sounded like it made a small poem..
 
 <blockquote>
-One has simplicity, authenticity, and peace of mind, <br/>
+One has simplicity, and authenticity <br/>
 The other has opportunities for growth <br/>
 The internal journey has been one of going back and forth <br/>
 Between the two in pursuit of a healthy mix of both <br/>
