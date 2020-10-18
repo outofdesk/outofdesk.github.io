@@ -62,7 +62,7 @@ Is it possible that the book chose me instead?
 ## Recommended Reading
 <br/>
 
-[How to Teach Phiolosohpy to Your Dog: Exploring the Big Questions in Life](https://www.amazon.com/dp/B07VS3WFK2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+[How to Teach Philosophy to Your Dog: Exploring the Big Questions in Life](https://www.amazon.com/dp/B07VS3WFK2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
 ---
 
