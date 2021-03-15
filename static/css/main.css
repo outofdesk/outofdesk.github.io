@@ -1,9 +1,9 @@
 body {
   /*font-family: "Roboto Condensed", Arial, sans-serif;*/
   /* font-family: "Open Sans", sans-serif; */
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Merriweather', sans-serif;
   background: url("/static/img/subtle_dots.png");
-  line-height: 2em;
+  line-height: 2.2em;
   font-weight: 300;
   font-size: 16px;
   color: #222;
