@@ -11,7 +11,7 @@ It was a sunny day, I remember, as I was riding in the back of my colleague's mo
 
 It was about a week after our CEO told us that we were shutting down due to lack of sufficient funding. This was a perfect opportunity for the entrepreneurial-minded, of which Khan Sir was one. He had an idea that he wanted to work on, to try and make a product, and eventually a company, out of it. He had always wanted to give it a shot, but the resistance that comes from comfort and a fat paycheck can be hard to battle. This was the window and the push he was secretly wishing for.
 
-He wanted a dummy to turn his idea into a working prototype. I was willing to help -- a young and naively energetic and optimistic engineer, trying to grab every opportunity that presented itself. I was waiting to fly to a graduate school for Master's in the US in a few months, so I had nothing to lose if this didn't work, and something to gain if it did.
+He wanted a dummy to turn his idea into a working prototype. I was willing to help -- a young and naively energetic and optimistic engineer, trying to grab every opportunity that presented itself. I was waiting to fly to the US for my Master's degree in a few months, so I had nothing to lose if this little tinkering didn't work, and something to gain if it did.
 
 After building an MVP, we traveled on his motorbike to pitch the idea to potential investors. That's when I first visited some of the rich homes of the Silicon Valley of India. These were the people that made it all happen. They listened to people all day long, sifted through the pile of ideas and the list of people with ideas, and funded the ones that they thought had the potential to make it big. We sure thought we were one of them.
 
@@ -55,7 +55,7 @@ Was the dog freer than us, in a way, without being constantly crippled by the wo
 
 Is free will and freedom reflected in what we do, or what we choose to do? 
 
-If it is the latter, are we choosing to do the things we do in our life, or do we merely tell ourselves that to be able to sleep at night? If we're not, and merely acting on impulses, are we exercising our freedom?
+If it is the latter, are we choosing to do the things we do in our life, or do we merely tell ourselves that to be able to sleep at night? If we're not, are we acting based purely on our impulses, thus not exercising our freedom?
 
 ---
 
