@@ -2,58 +2,60 @@
 layout: post
 title:  An Old Memory
 date:   2020-10-17 00:00:00 -0700
-categories: [musings, random, philosophy]
+categories: [musings, random, philosophy, meaning, passion]
 description: ""
 image: ""
 ---
 
-While dragging my fingers against the iPad screen, browsing for available e-books in my digital library app, I stumbled upon a book called "How to Teach Philosophy to Your Dog - Exploring the Big Questions in Life", by Anthony McGowan.
+It was a sunny day, I remember, as I was riding in the back of my colleague's motorbike, in some of the fancy neighborhoods of Bangalore. I don't even remember his full name. We called him Khan Sir. You didn't have to have knighthood to be addressed as Sir in India. It was merely a sign of respect, a polite acknowledgement of your age, knowledge or experience.
 
-The title piqued my interest for two reasons: first, because of my interest in Philosophy and in materials that break down complex subjects into simple language, and second, because I was curious about how ideas from a subject, as complex and as subjective as Philosophy, could possibly be transported out of the realm of human understanding and made chewable to a dog, hypothetically.
+It was about a week after our CEO told us that we were shutting down due to lack of sufficient funding. This was a perfect opportunity for the entrepreneurial-minded, of which Khan Sir was one. He had an idea that he wanted to work on, to try and make a product, and eventually a company, out of it. He had always wanted to give it a shot, but the resistance that comes from comfort and a fat paycheck can be hard to battle. This was the window and the push he was secretly wishing for.
 
-But those weren't the only reasons why I picked the book. The title triggered a memory of the first time I thought about Philosophy and animals in the same stream of thought. The kind which is small yet profound, the kind that gives you different food for thought every time you visit it.
+He wanted a dummy to turn his idea into a working prototype. I was willing to help -- a young and naively energetic and optimistic engineer, trying to grab every opportunity that presented itself. I was waiting to fly to a graduate school for Master's in the US in a few months, so I had nothing to lose if this didn't work, and something to gain if it did.
 
----
+After building an MVP, we traveled on his motorbike to pitch the idea to potential investors. That's when I first visited some of the rich homes of the Silicon Valley of India. These were the people that made it all happen. They listened to people all day long, sifted through the pile of ideas and the list of people with ideas, and funded the ones that they thought had the potential to make it big. We sure thought we were one of them.
 
-Our desire to make sense of our time and place in the world and to make a meaningful contribution to it drives most of our actions. Different cultures and societies have different ideas about them. For some, it’s about pleasing God, for others, it's about living a good life, whatever that means, a life of virtues perhaps. For some, it’s the pursuit of knowledge, and for others, it’s about finding their true potential, exploring the limits of their body and mind. You could call it your Ikigai, or Dharma. Thoughts about meaning and purpose, of why we are here, consumes most of us at various times in our life. Sometimes so much that it pushes us over the mountain of uncertainty and leaves us rolling down helplessly and endlessly because the answers don’t come easy.
+Those brief rounds with Khan Sir taught me more about him, his motivations and aspirations than a year working with him.
 
-Looking at human concepts such as meaning, purpose, morality, and ethics through the lens of non-human animals is interesting because the framework of ideas we set for ourselves not only guides our relationships with, and attitudes towards, fellow humans but also with other elements of nature, living or not.
+In one of the stops we made, we parked the bike right next to a dog that was sleeping on the street. Our arrival was an unwelcome change in his world. How do I know? His face told us that. Turns out animals are good at communicating non-verbal clues. At least that was my interpretation of it. I would have been pissed if somebody woke me up from my mid-day nap. I guess it tells more about me than what the dog was truly saying.
 
-When we think of a dog as cute, we project our understanding of the world and assign the attribute of cuteness to it. With cuteness, we also, albeit unconsciously, associate other things like innocence and harmlessness, for example.
+But I suppose he didn't know, or care, that it was mid-day, or even mid-week. It's not like he had some place he'd rather be, or something he'd rather be doing. He was right where he wanted to be, precisely when he wanted to be, doing exactly what he wanted to do. He probably also didn't have any cultural notions about what he ought to do with his life. That seems like something only animals as smart as us could come up with, and then brood over.
 
----
+Thoughts about meaning and purpose, of why we are here, consumes most of us at various points in our life. Sometimes so much that it pushes us over the edge of uncertainty and leaves us rolling down helplessly and endlessly because the answers don’t come easy. It dictates, consciously or not, things we do with our time, and hence with our lives. Different cultures and societies, as do different individuals, have different ideas about them. For some, it’s about pleasing God, or working towards a divine reward. For others, it's about living a good life, whatever that means, a life of virtues and principles, perhaps. For some, it’s the pursuit of knowledge, and for others, it’s about finding their true potential, exploring the limits of their body and mind.
 
-When one of the start-ups I worked for back in India shut down because of financial problems, I tagged along with one of the senior engineers in the team to build a prototype of an idea he had. We then went around on his motorbike and met with some of the investors he knew from his previous gig, to pitch the idea. Those rounds on his bike taught me more about him and his motivations and aspirations than a year working with him.
+Anyway, back to the dog. There was something very peaceful about the way he was sleeping amidst all the noise around him. For a moment, I felt like trading lives with him. As I was thinking it, Khan sir interrupted my chain of thought and said something along the same lines. He said he'd have preferred to be born as a dog, so that he didn't have to worry about building a company, or about finding meaning in life. He felt like trading lives with the dog too! The zen-like state that the dog was projecting, of being able to tune out the external noises and the internal voices and of being completely immersed in what he enjoyed, was infectious and tempting. It's what we all strive to achieve, I think.
 
-In one of the stops, we got off the bike and saw a dog sleeping on the street. It was a Saturday, but dogs don’t have Saturdays, do they? They have days.. and nights. They also probably don't have weird, random cultural notions about what they ought to be doing on certain days, at certain times, or with their life. It was mid-day and he was in the middle of a nap. Our arrival was an unwelcome change in his world. How do I know? He gave us a look that told us that. Turns out they are pretty good at giving non-verbal signals. Or maybe it was my interpretation of that. That's what I'd have said if somebody were to bother me during a good mid-day nap. It’s as they say, what we think of our experiences tells more about us than about the world. He walked a few yards away from us and continued what he was doing. I envy people, or in this case dogs, that can go back to sleep right away after having been woken up.
+I wanted the dog's life because I was lazy. I'd rather be sleeping than working. But for him, it was deeper than that. He was, I now realize, dealing with the dichotomy of pain and pleasure that comes from being driven. Internal drive, just like external ones, can be ruthless at times.
 
-My friend looked at the dog and commented that he’d have preferred a dog’s life to a human’s. That way, he said, he didn’t have to worry about finding meaning in his life and didn’t have to be constantly worried about making life worthwhile.
+He had a wife and a kid. His wife was pregnant at the time with the second one and had gone to her mother's place for six months. So he had given himself six months to work on his idea. He had saved enough to make it work, without work. It's kind of a short deadline though, and a hard one, knowing that you got half a year to turn the abstract in your mind into something concrete in the real world, and knowing that this was one of those rare moments when things fall into place to open up a narrow window of opportunity.
 
-At the time, I couldn’t feel what he felt. I wasn’t passionate about anything. I didn't have the drive that he did. Time, as far as I was concerned, was unlimited. I had the majority of my life ahead of me.
+His passion to make an impact in the world was pushing him towards something that was hard and uncomfortable yet rewarding at the same time. He felt the agony of spending all that time away from his kid and his then-pregnant wife, of life slipping away from his hands without him being present with his loved ones, but also of the joy that comes from attending to the calling from within. He'd have preferred an easier life if he could, but his drive left him no choice.
 
-But what’s interesting about what he wondered is the collective arrogance it shows of humans towards other beings. Science and technology, while has helped us get ahead in the race of evolution, have also blinded us by the illusion of superiority. We're unnecessarily and pompously certain about things that we don't know, or can ever know, for sure.
+At the time, I couldn’t empathize with him. I wasn’t passionate about anything, and I didn't have responsibilities of anyone but my own. Time, as far as I was concerned, was a perennial resource. I had the majority of my life ahead of me.
 
-I wonder, what if dogs actually thought about meaning and purpose? What if they are more aware of the fundamental nature of existence and were more willing to accept it than we are? What if they have figured out, like the existentialist philosophers, that nothing really matters and that life is absurd, and so they’re focusing on what’s in the present and what's important - to continue to live?
+This was in the year 2013, which seems like a long time ago now. The memory of this whole episode kept coming back to me at various times, in different situations, years later.
 
-The other interesting thing about that is that it speaks to the dichotomy of pain and pleasure that comes from being driven. His passion and internal motivation to build something meaningful, to make an impact, was pushing him towards something that was hard, and uncomfortable, yet rewarding at the same time.
+Three years later, in 2016, when I started to become interested in outdoor activities and got into running, hiking, and biking, I remember how I couldn’t get myself to do anything on the weekends but that. The rush and excitement was irresistible. Friday evening, I hit the road, only to be back home on Sunday. Every weekend a new destination, with new people. Even my day job took a backseat for a while. I focused less on my career and more on such experiences. I thought, and read, a lot about balance and free will but at the same time felt completely helpless in the grips of the inner force that was controlling me. It occurred to me how he, or most entrepreneurs, must feel like when they invest all their precious resources -- time, money, and energy -- into building something. It's hard to tell if it's what you are choosing to do, or if it's the inner voice making you do.
 
-He felt the pain of spending all that time away from his kid and his then-pregnant wife, of life slipping away from his hands without him being present with his loved ones, but also was comforted from the feeling that comes from attending to the calling he heard from within. He'd have preferred an easier life if he could, but his drive left him no choice. I now know what that feels like.
+Today, in 2021, while sitting on a couch dragging my fingers against the iPad screen, looking for e-books in my library app, I stumbled upon a book called "How to Teach Philosophy to Your Dog - Exploring the Big Questions in Life", by Anthony McGowan.
 
-So here he was working on an idea that could bring so-called meaning to his life, going around town on a motorbike with a young college graduate and wondering about all of it looking at a sleeping dog.
+The title piqued my interest for two reasons: first, because of my interest in books that break down complex subjects into simple language, and second, because I was curious about how ideas from a subject, as complex and as abstract as Philosophy, could possibly be transported out of the realm of human understanding and extended to a dog's world. The title also brought back that old memory and for a moment, my mind drifted away...
 
-For a moment, my mind drifted away a little wondering about the dog.
+wondering about that dog...
 
-Was he sleeping, dreaming, or meditating? Was he hanging out with his friends late last night? Was he physically exhausted, bored, or perhaps full of a heavy meal? What went through his mind when we woke him up? Did he silently swear at us?
+Was he still alive? What would he be doing with his life now, if he were?
 
-The memory of this whole episode kept coming back to me at various times, in different situations, years later.
+Over all these years, would he have grown in some way? 
 
-When I started to become interested in outdoor activities and got into running, hiking, and biking, I remember how I couldn’t get myself to do anything on the weekends but that. Even my day job took a backseat for a while. I focused less on my career and more on outdoor experiences. I thought, and read, about balance and free will but at the same time felt completely helpless in the grips of the inner force that was controlling me. It occurred to me how he, or most entrepreneurs, must feel like when they invest all their time, money, and energy into something risky, and when they believe that they are choosing to do it while knowing deep down that they are not in charge.
+Did old age teach him lessons he would tell his younger self?
 
-That leaves me with a few questions.
+and about freedom...
 
-Was the dog freer in a sense than us, without being constantly crippled by the worries in life?
+Was the dog freer than us, in a way, without being constantly crippled by the worries in life? 
 
-Would I have picked up the Philosophy book if that moment from my past didn’t leave such an imprint on me.. about Philosophy and dogs? If I wouldn’t have, then is it even true that I chose the book? Given the experiences that I had had, did I truly have the freedom to not choose it? If I didn't, then who's in charge? Is it possible that the book chose me instead?
+Is free will and freedom reflected in what we do, or what we choose to do? 
+
+If it is the latter, are we choosing to do the things we do in our life, or do we merely tell ourselves that to be able to sleep at night? If we're not, and merely acting on impulses, are we exercising our freedom?
 
 ---
 
