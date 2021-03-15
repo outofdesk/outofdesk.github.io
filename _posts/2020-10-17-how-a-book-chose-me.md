@@ -55,7 +55,7 @@ Was the dog freer than us, in a way, without being constantly crippled by the wo
 
 Is free will and freedom reflected in what we do, or what we choose to do? 
 
-If it is the latter, are we choosing to do the things we do in our life, or do we merely tell ourselves that to be able to sleep at night? If we're not, are we acting based purely on our impulses, thus not exercising our freedom?
+If it is the latter, are we choosing to do the things we do in our life, or do we merely tell ourselves that to be able to sleep at night? If we're not, are we acting based purely on our impulses, and thus not exercising our freedom?
 
 ---
 
