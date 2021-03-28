@@ -14,7 +14,7 @@ My name is Gaurav Ramesh. I work as a Software Engineer in the Bay Area and have
 ### The Journey
 <br/>
 
-Moving from the college town of Columbus, Ohio to working in the Bay Area feels very similar to my journey from studying in Shimoga to working in Bengaluru. The similarity is not just in the characterization of the places, but what they have to offer. One has simplicity, and authenticity, the other has opportunities for personal growth, so the internal journey has been one of going back and forth between the two in pursuit of a healthy mix of both.
+Moving from the college town of Columbus, Ohio to working in the Bay Area feels very similar to my journey from studying in Shimoga to working in Bengaluru. The similarity is not merely in the characterization of the places -- town versus metro -- but even in what they have to offer. One has simplicity, and authenticity, the other has opportunities for personal growth. The internal journey has been one of going back and forth, in pursuit of a healthy mix of both.
 
 Reading the last line above, it sounded like it made a small poem..
 
@@ -22,7 +22,7 @@ Reading the last line above, it sounded like it made a small poem..
 One has simplicity, and authenticity <br/>
 The other has opportunities for growth <br/>
 The internal journey has been one of going back and forth <br/>
-Between the two in pursuit of a healthy mix of both <br/>
+In pursuit of a healthy mix of both <br/>
 </blockquote>
 
 *****
@@ -30,9 +30,7 @@ Between the two in pursuit of a healthy mix of both <br/>
 ### The Blog
 <br/>
 
-Writing is one of the *many* things I want to get better at and with this blog, I hope to do more of it.
-
-If you have any feedback on my writing or thoughts on anything you find on this blog, feel free to write to me on my email below.
+Writing is one of the *many* things I want to get better at and with this blog, I hope to do more of it. If you have any feedback on my writing or thoughts on anything you find on this blog, feel free to write to me on my email below.
 
 *****
 
