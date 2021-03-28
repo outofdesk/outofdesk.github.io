@@ -2,7 +2,7 @@
 layout: post
 title:  About Simple and Obvious Things
 date:   2020-06-27 00:00:00 -0700
-categories: [work, productivity, learning]
+categories: [work, productivity, learning, note-taking]
 description: "After it was all dealt with, my manager called me on my phone to have a chat. He was kind and responsible enough to reflect on it and think of ways he could have helped me. But there was one thing he mentioned which guided my thinking in the right direction."
 image: ""
 ---

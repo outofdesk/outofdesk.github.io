@@ -5,8 +5,8 @@
     <description>My Online Notepad</description>
     <link>https://outofdesk.github.io/</link>
     <atom:link href="https://outofdesk.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 28 Mar 2021 09:19:21 -0700</pubDate>
-    <lastBuildDate>Sun, 28 Mar 2021 09:19:21 -0700</lastBuildDate>
+    <pubDate>Sun, 28 Mar 2021 09:20:11 -0700</pubDate>
+    <lastBuildDate>Sun, 28 Mar 2021 09:20:11 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -141,8 +141,8 @@ Avoidable failures are common and persistent, not to mention demoralizing and fr
 &lt;p&gt;&lt;em&gt;@out.of.desk&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 27 Jun 2020 00:00:00 -0700</pubDate>
-        <link>https://outofdesk.github.io/work/productivity/learning/2020/06/27/simple-and-obvious.html</link>
-        <guid isPermaLink="true">https://outofdesk.github.io/work/productivity/learning/2020/06/27/simple-and-obvious.html</guid>
+        <link>https://outofdesk.github.io/work/productivity/learning/note-taking/2020/06/27/simple-and-obvious.html</link>
+        <guid isPermaLink="true">https://outofdesk.github.io/work/productivity/learning/note-taking/2020/06/27/simple-and-obvious.html</guid>
         
         
         <category>work</category>
@@ -150,6 +150,8 @@ Avoidable failures are common and persistent, not to mention demoralizing and fr
         <category>productivity</category>
         
         <category>learning</category>
+        
+        <category>note-taking</category>
         
       </item>
     
