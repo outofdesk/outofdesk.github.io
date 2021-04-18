@@ -29,9 +29,9 @@ Similar..how?
 
 I was crossing the stream of thoughts on foot, running, rather than walking.
 
-Thoughts, like a stream of water, are constantly and perennially flowing, and perpetually changing their course. Running, on the other hand, is deliberate and has a concrete start and stop to it. I guess there’s a philosophical argument that can be made that in some sense we’re all running towards something all the time, but that’s not the kind of running I’m talking about.
+Thoughts, like a stream of water, are perennially flowing, and perpetually changing their course. Running, on the other hand, is deliberate and has a concrete start and stop to it. I guess there’s a philosophical argument that can be made that in some sense we’re all running towards something all the time, but that’s not the kind of running I’m talking about.
 
-As much as I'd like my thinking also to be deliberate, I find out every time that thoughts can neither be summoned nor be directed at will. Well, I guess that's not completely true. When we have control over the mind, we can, but when we gain control of the mind is not up to us. It's dictated by the mind itself. So it’s not as much as taking control, as it’s accepting it, when it’s relinquished by our mind. The mind has its hierarchy of needs. When the base ones have been met, it lets you focus on things that are, while important, matter the least, relatively speaking. The less turbulent it is, the better your chances of being able to exercise your will.
+As much as I'd like my thinking also to be deliberate, I find out every time that thoughts can neither be summoned nor be directed at will. Well, I guess that's not completely true. When we have control over the mind, we can, but when we gain control of the mind is not up to us. It's dictated by the mind itself. So it’s not as much as taking control, as it is accepting it, when it’s relinquished by our mind. The mind has its hierarchy of needs. When the base ones have been met, it lets you focus on things that are, while important, matter the least, relatively speaking. The less turbulent it is, the better your chances of being able to exercise your will.
 
 As soon as I start running, for example, the first few thoughts are about how my body is feeling. I can't help it. They just occur to me. This is what I call the “safety system” talking.
 
