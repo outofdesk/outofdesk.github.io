@@ -83,7 +83,7 @@ After finishing the hike, when I was telling my friends and family that my legs 
 
 ---
 
-Here's the activity from [Strava](https://www.strava.com/activities/5191472030), for the curious ones.
+Here's the activity in [Strava](https://www.strava.com/activities/5191472030), for the curious ones.
 
 ---
 
