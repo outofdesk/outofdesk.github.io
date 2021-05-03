@@ -64,6 +64,7 @@ When I had visualized hiking this trail to mentally prepare, I had thought about
 Both of us sipped a glass of lemonade and then I took a twenty-minute nap. It was close to 1.30 PM, I think. After the nap and some futile attempts at motivating each other, we started moving. It was close to 2.30 PM when we started towards the final leg.
 
 #### Section 6. The Final Leg - Phantom Ranch to the South Rim
+---
 
 I was trying to avoid even thinking about this section in the hope that if I never thought about it, it'd get better. It's this denial of reality, or rather, firm belief in the fiction that problems go away by not addressing them that turns a seemingly harmless piece of stone into an avalanche over time. We do this all the time -- a difficult conversation with a friend or a colleague, or deep emotional troubles that haven't been paid attention to -- not thinking about them is one way to avoid them, and so is getting drunk, but the sooner we realize that there's no magic the better. Acknowledgment of the problem, acceptance of reality, and the courage and willingness to face them are what make us emerge stronger. "Slow and steady", I told myself, “and I’ll make it”. "Slow" it certainly was, not so sure about "steady". I felt like I didn't even care much about finishing the hike at that point, that all I wanted to do was drop the pack and be done. The only thought that pushed me was knowing that the more I slowed the worse it got. We were already cutting it pretty close to the 24-hour mark and the last shuttle ran an hour past sunset. Missing that would mean walking one more mile to the car. So one leg in front of the other and I kept moving. At 7.30 pm, 25.5 hours after I had started, I dropped dead back at the trailhead, pale, sunburnt, and with no juice left in me.
 
@@ -80,11 +81,9 @@ While climbing up the North Rim, less than halfway through the hike, I kept tell
 
 After finishing the hike, when I was telling my friends and family that my legs felt relatively good, and that the back and shoulders were doing much worse, I learned something insightful. My legs were ready for the distance. Had I dropped my pack and went light, with a bottle of water and some snacks, I could have done it much faster and the experience would have been much smoother. Running the trail somehow started to look doable. I told myself that I was going to attempt running it the following year. I also realized that my legs would have been okay walking a few more miles, which tells me that 65 mi, i.e. 100k is well within reach, of course, with some physical and mental training. That’d be the next formidable challenge worth chasing.
 
-Here's the activity from Strava, for the curious ones.
-
 ---
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5191472030/embed/8b28611f2c4cdbdf6b3295012b168f126a8936b3'></iframe>
+Here's the activity from [Strava](https://www.strava.com/activities/5191472030), for the curious ones.
 
 ---
 
