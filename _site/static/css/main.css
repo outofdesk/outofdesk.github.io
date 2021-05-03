@@ -8,6 +8,11 @@ body {
   font-size: 16px;
   color: #222;
 }
+
+iframe {
+  margin: 0 auto !important;
+}
+
 hr {
   margin-top: 20px;
   margin-bottom: 20px;
