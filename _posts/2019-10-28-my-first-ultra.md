@@ -3,7 +3,7 @@ layout: post
 title:  "My First Ultra"
 date:   2019-10-28 00:00:00 -0700
 categories: [running]
-description: ""
+description: "How the thought of doing an ultra came about"
 image: "my-first-ultra/the-race.png"
 ---
 It was in July this year that I went on a long bike ride with one of my friends. It was an annual race up in Colorado, the land of the *fourteeners*, as they are called, the mountain peaks that stand above 14000 ft from sea level. It was the longest ride I had ever done in a single day and it wasn't a flat one. It took us over three mountain passes, and so the event was aptly called the "Triple Bypass". That feeling you get after challenging yourself, after pushing yourself to do something that you haven't done before, is special. It has a dual nature to it; it humbles you and at the same time instills confidence and courage in you. Humility comes from knowing the struggle of pursuing hard things, confidence and courage come from knowing that you possess the discipline and drive to keep at it and emerge a little bit better.
