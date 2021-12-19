@@ -3,8 +3,7 @@ layout: post
 title:  "My First Ultra"
 date:   2019-10-28 00:00:00 -0700
 categories: [running]
-description: "I was turning 30 in October and a random goal popped in my mind - to run at least 30 miles. The shortest official distance
-that meets the criterion is 50k, which is about 32 miles. The longest I had run so far was a 35k the year before, which is about 22.5 miles. So it looked like an ambitious, formidable, yet doable challenge. It was past the Labor Day weekend, so I had already lost the first week of September..."
+description: ""
 image: "my-first-ultra/the-race.png"
 ---
 It was in July this year that I went on a long bike ride with one of my friends. It was an annual race up in Colorado, the land of the *fourteeners*, as they are called, the mountain peaks that stand above 14000 ft from sea level. It was the longest ride I had ever done in a single day and it wasn't a flat one. It took us over three mountain passes, and so the event was aptly called the "Triple Bypass". That feeling you get after challenging yourself, after pushing yourself to do something that you haven't done before, is special. It has a dual nature to it; it humbles you and at the same time instills confidence and courage in you. Humility comes from knowing the struggle of pursuing hard things, confidence and courage come from knowing that you possess the discipline and drive to keep at it and emerge a little bit better.
