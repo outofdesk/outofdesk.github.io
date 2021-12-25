@@ -8,6 +8,7 @@ image: "my-first-ultra/the-race.png"
 ---
 
 ### The Big Bike Ride
+---
 
 It was in July this year that I went on a long bike ride with one of my friends. It was an annual race up in Colorado, the land of the *fourteeners*, as they are called, the mountain peaks that stand above 14000 ft from sea level. Although everybody who is at the starting line is drawn to the competitive nature of a race, it's a competition of a different kind for each, and for different reasons. People have different goals and expectations from it. I had no intention of being the fastest. Neither had I trained for it nor do I think I was capable of it. It was the longest ride I had ever done in a single day and it wasn't a flat one. My goal was to be able to finish it in the allowed time and have fun while doing it. It took us over three mountain passes and so the event was aptly called the "Triple Bypass".
 
@@ -16,12 +17,14 @@ It has been a few years since I became an active outdoorsman. I come from a coll
 The feeling that you get from doing things that push your perceived limits, and from allowing yourself to do something that you find worth the time is what has drawn me to it. It brings about a few, seemingly contrasting, virtues — it humbles you and at the same time instills confidence and courage in you. Humility comes from knowing the struggle of pursuing hard things, from a realization during that struggle that makes you feel insignificant. Confidence and courage come from knowing that you possess the ability to endure it and emerge a little bit better.
 
 ### Back Home
+---
 
 After I came back home, I naturally got busy with the mundanity of each day. A feeling of emptiness started to creep up a few days later. It was a feeling that seemed vaguely familiar. It was the hole left behind every time I lost something that was valuable. It had appeared before when I lost people that were close to me. But this time it wasn’t a person that I had lost but a feeling, a sense of progress and growth. In the past few months, the training I did for the race had provided me with the nourishment that I needed, both physically and mentally. Now, after the race, I had been riding the wave of past accomplishment and hadn’t realized that it had carried me to the beach and left me stranded. Anything that's worth having in life requires long-term commitment and deliberate effort from us, not merely to achieve it but to keep it as well -- trust, loyalty, meaning, joy, health. They are the lanes we choose to ride in, not the destinations we choose to get to. I had to get back to the journey, rather than relishing at the stop I had made.
 
 I didn't know until recently that there's a word that nicely describes what I was feeling -- ennui -- the kind of boredom that results from the jadedness of living a life of too much ease. From talking to my friends about it, I’ve come to believe that it's more common than I had realized. The prevalence of it speaks to the comforts and luxuries in life that we have come to afford as a society. Unlike previous generations, there's not much in our existence that requires the activation of the wonderful powers that evolution has built into us. We can get through life not having to get off the couch, not feeling warm or cold, not feeling hungry, not feeling bored, not having to interact with another person. I had read somewhere somebody describing it as being in a state of "perpetual homeostasis". I can't think of a way to capture it better. Although we think of ourselves as an evolutionary success story, our evolution itself hasn’t caught up to the advances we have made. Our bodies ache to be moved, our brains ache to be stimulated. I sometimes think of us as Hulk whose only workout is carrying a briefcase to the office. Seems like we are all craving for more than that. Whether or not we are aware of that craving is a different matter.
 
 ### What Next
+---
 
 A few more weeks passed by as I pushed these thoughts into the background and went about my life. The thought brewed in the subconscious and floated back to the surface a few weeks later, in September. I was turning 30 in October, so running at least 30 miles seemed like an ambitious and fun challenge, something worth working towards. The shortest official distance that matches the criterion is 50k, which is about 32 miles. It also happens to be an ultra-marathon distance. And so the training began.
 
