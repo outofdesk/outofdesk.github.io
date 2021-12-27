@@ -106,4 +106,4 @@ During the holiday season, "...warehouses are crammed with seasonal workers unac
 
 *****
 
-If you enjoyed the post, feel free to share it on social media. If you have any questions or comments about the post, send me a message on any of my social media profiles, or email me at *contact.outofdesk [at] gmail [dot] com*
+If you have any comments about the post, send me a message on any of my social media profiles, or email me at *contact.outofdesk [at] gmail [dot] com*
