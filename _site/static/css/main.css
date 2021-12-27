@@ -174,7 +174,7 @@ ul.posts li {
 
 ul.posts li .title {
   display: inline-block;
-  font-size: 1.5em;
+  font-size: 1.2em;
   margin-bottom: 1em;
   font-family: 'Merriweather', sans-serif;
 }
@@ -224,7 +224,7 @@ div.col-sm-3 strong {
 }
 div.col-sm-3 div.profile-about {
   margin-top: 10px;
-  color: #8C8C8C;
+  color: #393737;
 }
 
 /* Pagination */
