@@ -5,8 +5,8 @@
     <description>My Online Notepad</description>
     <link>https://outofdesk.github.io/</link>
     <atom:link href="https://outofdesk.github.io/sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 23 Jan 2022 12:02:46 -0800</pubDate>
-    <lastBuildDate>Sun, 23 Jan 2022 12:02:46 -0800</lastBuildDate>
+    <pubDate>Sun, 23 Jan 2022 12:33:59 -0800</pubDate>
+    <lastBuildDate>Sun, 23 Jan 2022 12:33:59 -0800</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -15,7 +15,7 @@
 
 &lt;h2 id=&quot;the-basics&quot;&gt;The Basics&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Cloud-first before cloud-native&lt;/strong&gt; – Cloud-first is a good precursor to understanding what cloud-native means and what it has to offer. Although the way people define cloud-first strategy varies widely, it essentially is thinking of the cloud as the primary medium of running your software, as opposed to the on-premises approach that tied all your systems to a set of servers with dedicated resources in a specific physical location that you owned or managed. Cloud is a layer of abstraction built to free the developers’ minds from the concerns of how to run systems and promote thinking about what to build.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cloud-first before cloud-native&lt;/strong&gt; – Cloud-first is a good precursor to understanding what cloud-native means and what it has to offer. Although the way people define cloud-first strategy varies widely, it essentially is thinking of the cloud as the primary medium of running your software, as opposed to the older approach that tied all your systems to a set of servers with dedicated resources in a specific physical location that you owned or managed. Cloud, more than anything, is a layer of abstraction built to free the developers’ minds from the concerns of how to run systems and promote thinking about what to build. Hence moving to the cloud doesn’t necessarily mean taking your systems off-premises, they can still be on-prem, but it’s a way of how you think(or rather, how much you don’t think) about them.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Natural Side-effects of moving to the cloud&lt;/strong&gt; – Think of taking care of your babies at home versus sending them to daycare. A natural and inevitable side-effect of sending your baby away for a few hours is that you lose some control. It’s neither good or bad, it just is. So while it relieves you of some duties and responsibilities, it also raises the stakes in other ways. Similarly, when you take your systems from your premises to the cloud, it means that you lose some control. But it doesn’t magically solve all your problems, it solves some, and throws other, newer problems at you.&lt;/p&gt;
 
