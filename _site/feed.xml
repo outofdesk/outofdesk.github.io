@@ -5,9 +5,57 @@
     <description>My Online Notepad</description>
     <link>https://outofdesk.github.io/</link>
     <atom:link href="https://outofdesk.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 27 Dec 2021 14:22:52 -0800</pubDate>
-    <lastBuildDate>Mon, 27 Dec 2021 14:22:52 -0800</lastBuildDate>
+    <pubDate>Sun, 23 Jan 2022 10:04:29 -0800</pubDate>
+    <lastBuildDate>Sun, 23 Jan 2022 10:04:29 -0800</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Book Notes: Cloud Native Patterns</title>
+        <description>&lt;p&gt;As I read the book &lt;a href=&quot;https://www.manning.com/books/cloud-native-patterns&quot;&gt;Cloud Native Patterns, by Cornelia Davis&lt;/a&gt;, I plan to use this space to document things I learn, read and think about along the way. As such, I expect this to be a constantly changing and evolving post, much like the cloud systems that the book talks about.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cloud-first before cloud-native&lt;/strong&gt; – Cloud-first is a good precursor to understanding what cloud-native means and what it has to offer. Although the way people define cloud-first strategy varies widely, it essentially is thinking of the cloud as the primary medium of running your software, as opposed to the on-premises approach that tied all your systems to a set of servers in a specific physical location that you owned or managed. Cloud is, more than anything, a layer of abstraction built to free the developers’ minds from the concerns of how to run systems and promote thinking about what to build.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Natural Side-effects of moving to the cloud&lt;/strong&gt; – Think of taking care of your babies at home versus sending them to daycare. A natural and inevitable side-effect of sending your baby away for a few hours is that you lose some control. It’s neither good or bad, it just is. So while it relieves you of some duties and responsibilities, it also raises the stakes in other ways. Similarly, when you take your systems from your premises to the cloud, it means that you lose some control. But it doesn’t magically solve all your problems, it solves some, and throws other, newer problems at you.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Inherent characteristics of the cloud&lt;/strong&gt; – Going back to the daycare example, it’s a more dynamic place than your home. There are other actors at play – other babies, the care-givers, other babies’ parents, and the challenges of an unfamiliar setting. In other words, it’s a chaotic place. Things are not always predictable, and are bound to go wrong, in one way or the other. Because of the sheer number of unknowns, learning about all of them, let alone preventing all the problems is not an option. Cloud is exactly like that too. There are other systems at play, their dependencies, and the shared infrastructure, needless to say all that bound by the laws of Physics. It sounds scary at first, but accepting these truths enables us to think about how to build systems that function amidst the chaos, despite all the failings.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;So why go to the cloud&lt;/strong&gt; – If you lose control and visibility into our systems, why on Earth would you want to migrate? Because absolute control and perfection are delusional goals to build your life or business upon. And while you lose some control on how your systems work together, you gain control on what your systems does, or how they provide value to the customers. If you had all the time in the world, you would have taken care of your babies at home. Not that you don’t like them going out, but that you would like to be around them as much as you can. But time is finite, and society and its changing needs throw a lot at you to juggle. In order to do the best with your time, you prioritize things and delegate or outsource some responsibilities. As technology has come to dominate most people’s lives, the changing needs of society often translates to changing needs of software. As the demand of your business increases, you’re compelled to not only prioritize time, but the limited material resources you possess.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Desirable characteristics of a business&lt;/strong&gt; – In order to serve the ever-changing needs of the society, certain characteristics naturally emerge that are desirable to run a successful business. Simply put, a business should provide the value promised to all its customers, anywhere and anytime, and evolve quickly to address their needs.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;All its customers&lt;/em&gt; – In the world of the Internet, your customers come from different backgrounds, cultures, ages, and gender, they use different devices, and operate under widely different constraints. So accessibility, multi-language and multi-device support now become first-class citizens.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Anywhere and anytime&lt;/em&gt; – When your customers are based in different geographical locations across continents, compliance to legal and other policies, and the ability to operate in different time-zones, essentially being available around the clock are of prime importance.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Evolve quickly&lt;/em&gt; – Evolving quickly to serve such a diverse group of customers and a unique set of constraints means having shorter and accurate feedback cycles.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cloud-native&lt;/strong&gt; – is an umbrella term used to capture a set of ideas, principles, processes and tools, that aims to marry the inherent characteristics of the cloud with the desirable characteristics of today’s business in a seamless manner.&lt;/p&gt;
+
+&lt;h2 id=&quot;recommended-reading&quot;&gt;Recommended Reading&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.manning.com/books/cloud-native-patterns&quot;&gt;Cloud Native Patterns, by Cornelia Davis&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/definition&quot;&gt;What is Cloud Native&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;If you have any comments about the post, send me a message on any of my social media profiles, or email me at &lt;em&gt;contact.outofdesk [at] gmail [dot] com&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 22 Jan 2022 23:00:00 -0800</pubDate>
+        <link>https://outofdesk.github.io/cloud/technology/cloud-native/software%20architecture/2022/01/22/cloud-native-patterns.html</link>
+        <guid isPermaLink="true">https://outofdesk.github.io/cloud/technology/cloud-native/software%20architecture/2022/01/22/cloud-native-patterns.html</guid>
+        
+        
+        <category>cloud</category>
+        
+        <category>technology</category>
+        
+        <category>cloud-native</category>
+        
+        <category>software architecture</category>
+        
+      </item>
     
       <item>
         <title>A Run in Boston</title>
@@ -724,51 +772,6 @@ We tried to explain that we were interested in the prevention of suffering and m
         
         
         <category>animals</category>
-        
-      </item>
-    
-      <item>
-        <title>Reading Time</title>
-        <description>&lt;blockquote&gt;
-But I soon came to feel that teaching these sensitive young souls Latin and mathematics was cheating them of something far more essential — what they needed wasn’t dry information but hope, the kind that comes from being transported into a dream-world of possibility.
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;cite&gt;Helen Fagin, in The Velocity of Being: Letters to a Young Reader&lt;/cite&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;It’s a chilly weekend morning. I’m standing on a beach along with tens of other people, all rubbing their hands in a futile attempt to keep themselves warm. The water looks freezing and turbulent as if to throw us back on land if we were to venture out to take a dip. We’re all waiting for the organizers to blow a whistle to start the first leg of the triathlon. The moment it goes off, everybody starts jumping into the ocean like a herd of lemmings out to commit suicide(&lt;a href=&quot;http://www.animalplanet.com/wild-animals/do-lemmings-commit-suicide/&quot;&gt;it’s a myth, they don’t do it&lt;/a&gt;). Although the beach is huge, everybody is cramming into a narrow section where the tides are low. An accidental punch here, a kick there, and the unforgiving water. Bruised and exhausted, I reach the other end to see my bike ready to go. I take off my swim clothes, put on my biking outfit and I’m ready to go. The first half of the biking route is uphill, and that’s where I plan to get ahead of everybody. My quads look like wooden logs that can hardly be contained in the tight shorts. I pedal as fast as I can on the uphill to pass people who beat me in water. At the top, I bring my back closer to the bike frame and take off like a missile launch. Even with the sunglasses, tears from my eyes due to the headwinds fly backward as if they’re going to pierce through the rider behind. At the finish line, I apply the brakes, jump off the bike and let it ride further, and crash on its own, like a bird with its head chopped off. I change to running shorts and gradually up my speed in the last and final activity, the one that seems most familiar and natural to me. I’ve lost track of how many are ahead of me, but halfway into the run, somebody tells me that I have a shot at winning. Tears out again but of joy this time. In the line of sight of the finish line, I almost sprint like my legs are green. I win the event and I see my parents at the finish line clapping and cheering. I see the pride in their eyes, which makes me want to cry more.&lt;/p&gt;
-
-&lt;p&gt;So vivid is the recollection of the triathlon that never happened. That’s right. I can’t swim.&lt;/p&gt;
-
-&lt;p&gt;While reading the book &lt;a href=&quot;https://www.richroll.com/finding-ultra/&quot;&gt;Finding Ultra&lt;/a&gt;, as I read the account of the author’s athletic feats in Hawaii, I pause for a few minutes and get lost in this imaginary race that I’m winning. I probably will never win a triathlon. But that imaginary race was still as real and as powerful a motivator. Three years later, that and many such thoughts have fueled real and positive changes in me. The pride I saw in my parents’ eyes, the joy I felt, although mental images are enough of a force to push me towards the interests and goals I want to pursue.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;I have always felt at peace reading a book in a quiet place. I feel invigorated by the journey it takes me onto places that are an amalgamation of physical reality and pure imagination. It’s hugely inspiring and empowering to escape from the conditioning of the real world and into the world of infinite potential and possibilities, to ask yourself the big questions and look for answers within and understand the world a little better. With minimal external influences, you’re on a free ride. Making wrong moves there doesn’t come with the judgments and repercussions of the real world. Instead, they come with a deeper understanding of the consequences of your choices and help you navigate life better.&lt;/p&gt;
-
-&lt;p&gt;It has become much harder these days to get the space for yourself, harder than it needs to be. The eight or so hours that you spend at work are flooded with often unnecessary meetings, direct or indirect conversations, and breaks. You go home, spend some time with your partner, do the chores and eke out time to read, write, and workout. Not only do you have to carve time out for deep work, but you also have to make an extra effort to quell the mental chatter caused by entropy throughout the day. With the open floor plans in offices now, the conversations that you become a part of just by being there feel like passive smoking to me. You end up bearing the brunt of something that you didn’t choose to be a part of. It’s a vicious cycle; the more you get used to the distractions, the more uncomfortable you become with quietness and being in your own company.&lt;/p&gt;
-
-&lt;p&gt;I’ve come to realize, from talking to people and reading books, that I’m more sensitive to sounds around me than most people. It could mean that I get distracted and flustered more too. Although I’ve gotten comfortable plugging headphones while I work, I still prefer quietness to something buzzing in my ears. While it’s an ongoing battle to make space and time for things that you value, it’s a great tool for the unaware. What you fight for gives you a hint at what’s important to you. That clarity gives you the courage to let go of the clutter - both physical and mental, literal and metaphorical. The fight for time is then a fight for values, self-awareness, growth, a fight to discover, shape, and refine yourself.&lt;/p&gt;
-
-&lt;h2 id=&quot;recommended-reading&quot;&gt;Recommended Reading&lt;/h2&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.brainpickings.org/2018/12/18/a-velocity-of-being-helen-fagin/&quot;&gt;A 100-Year-Old Holocaust Survivor on How Books Save Lives&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.paulgraham.com/vb.html&quot;&gt;Life is Short&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;If you have any comments about the post, send me a message on any of my social media profiles, or email me at &lt;em&gt;contact.outofdesk [at] gmail [dot] com&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 03 Nov 2019 00:00:00 -0700</pubDate>
-        <link>https://outofdesk.github.io/reading/time/2019/11/03/time-to-read.html</link>
-        <guid isPermaLink="true">https://outofdesk.github.io/reading/time/2019/11/03/time-to-read.html</guid>
-        
-        
-        <category>reading</category>
-        
-        <category>time</category>
         
       </item>
     

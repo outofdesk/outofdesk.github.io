@@ -5,10 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" href="/static/img/favicon.ico" />
-    <title>About Simple and Obvious Things - out.of.desk</title>
+    <title>Book Notes: Cloud Native Patterns - out.of.desk</title>
     <meta name="author" content="out.of.desk" />
-    <meta name="description" content="About Simple and Obvious Things" />
-    <meta name="keywords" content="About Simple and Obvious Things, out.of.desk, work, productivity, learning, note-taking" />
+    <meta name="description" content="Book Notes: Cloud Native Patterns" />
+    <meta name="keywords" content="Book Notes: Cloud Native Patterns, out.of.desk, cloud, technology, cloud-native, software architecture" />
     <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
     <meta content="" property="fb:app_id">
     <meta content="out.of.desk" property="og:site_name">
@@ -16,20 +16,20 @@
     
 
     
-      <meta content="About Simple and Obvious Things" property="og:title">
+      <meta content="Book Notes: Cloud Native Patterns" property="og:title">
       <meta content="article" property="og:type">
     
 
     
-      <meta content="After it was all dealt with, my manager called me on my phone to have a chat. He was kind and responsible enough to reflect on it and think of ways he could have helped me. But there was one thing he mentioned which guided my thinking in the right direction." property="og:description">
+      <meta content="" property="og:description">
     
 
     
-      <meta content="https://outofdesk.github.io/work/productivity/learning/note-taking/2020/06/27/simple-and-obvious.html" property="og:url">
+      <meta content="https://outofdesk.github.io/cloud/technology/cloud-native/software%20architecture/2022/01/22/cloud-native-patterns.html" property="og:url">
     
 
     
-      <meta content="2020-06-27T00:00:00-07:00" property="article:published_time">
+      <meta content="2022-01-22T23:00:00-08:00" property="article:published_time">
       <meta content="https://outofdesk.github.io/about/" property="article:author">
     
 
@@ -40,7 +40,7 @@
 
     
       
-        <meta content="work" property="article:section">
+        <meta content="cloud" property="article:section">
       
     
 
@@ -53,15 +53,15 @@
     <meta name="twitter:creator" content="@">
 
     
-      <meta name="twitter:title" content="About Simple and Obvious Things">
+      <meta name="twitter:title" content="Book Notes: Cloud Native Patterns">
     
 
     
-      <meta name="twitter:url" content="https://outofdesk.github.io/work/productivity/learning/note-taking/2020/06/27/simple-and-obvious.html">
+      <meta name="twitter:url" content="https://outofdesk.github.io/cloud/technology/cloud-native/software%20architecture/2022/01/22/cloud-native-patterns.html">
     
 
     
-      <meta name="twitter:description" content="After it was all dealt with, my manager called me on my phone to have a chat. He was kind and responsible enough to reflect on it and think of ways he could have helped me. But there was one thing he mentioned which guided my thinking in the right direction.">
+      <meta name="twitter:description" content="">
     
 
     
@@ -139,7 +139,7 @@
               <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
             </div>
             
-              <div class="fb-share-button" data-href="/work/productivity/learning/note-taking/2020/06/27/simple-and-obvious.html" data-layout="button_count" data-size="large"></div>
+              <div class="fb-share-button" data-href="/cloud/technology/cloud-native/software%20architecture/2022/01/22/cloud-native-patterns.html" data-layout="button_count" data-size="large"></div>
             
           </div>
         </div>
@@ -147,73 +147,53 @@
       </div>
       <div class="col-sm-8 col-offset-1 main-layout">
         <header class="post-header">
-  <h1 class="post-title">About Simple and Obvious Things</h1>
+  <h1 class="post-title">Book Notes: Cloud Native Patterns</h1>
 </header>
 
 <div class="post-metadata">
   <div>
 
   <span class="categories">
-    <a href="/category/work">work</a>, <a href="/category/productivity">productivity</a>, <a href="/category/learning">learning</a>, <a href="/category/note-taking">note-taking</a>
+    <a href="/category/cloud">cloud</a>, <a href="/category/technology">technology</a>, <a href="/category/cloud-native">cloud-native</a>, <a href="/category/software architecture">software architecture</a>
   </span>
 
 </div>
 <div>
-<span class="time">27 Jun 2020</span>
+<span class="time">22 Jan 2022</span>
 </div>
 </div>
 
 <div class="content">
-  <div class="post"><p>One afternoon at work I had a meeting to release the last piece of a project that was meant to change the way our clients interacted with the backend systems. It was a fairly simple routing change at the load balancer and was expected to be done in a few minutes. Not all people invited were strictly required in the meeting, so while a few joined, others kept an eye on their respective systems for any potential misbehaviours and followed a Slack channel for constant updates.</p>
+  <div class="post"><p>As I read the book <a href="https://www.manning.com/books/cloud-native-patterns">Cloud Native Patterns, by Cornelia Davis</a>, I plan to use this space to document things I learn, read and think about along the way. As such, I expect this to be a constantly changing and evolving post, much like the cloud systems that the book talks about.</p>
 
-<p>So there I was, talking with a few people on the video call, and texting a couple more on the side.</p>
+<p><strong>Cloud-first before cloud-native</strong> – Cloud-first is a good precursor to understanding what cloud-native means and what it has to offer. Although the way people define cloud-first strategy varies widely, it essentially is thinking of the cloud as the primary medium of running your software, as opposed to the on-premises approach that tied all your systems to a set of servers in a specific physical location that you owned or managed. Cloud is, more than anything, a layer of abstraction built to free the developers’ minds from the concerns of how to run systems and promote thinking about what to build.</p>
 
-<p>Five minutes into the meeting, we did the change and shifted our attention to the monitoring systems to see early signs of success, or to minimize damage in the remote possibility of a failure. Twenty minutes later, we still didn’t see any activity that we’d expected or hoped for.</p>
+<p><strong>Natural Side-effects of moving to the cloud</strong> – Think of taking care of your babies at home versus sending them to daycare. A natural and inevitable side-effect of sending your baby away for a few hours is that you lose some control. It’s neither good or bad, it just is. So while it relieves you of some duties and responsibilities, it also raises the stakes in other ways. Similarly, when you take your systems from your premises to the cloud, it means that you lose some control. But it doesn’t magically solve all your problems, it solves some, and throws other, newer problems at you.</p>
 
-<p>The nature of the change was such that it was expected to take a short period to propagate but we didn’t know, or could tell, how long exactly. So we didn’t sweat. We had theories about why it might be taking longer than usual. About thirty minutes later, we decided to involve somebody from the iOS team to simulate tests from the clients’ perspective to get some validation.</p>
+<p><strong>Inherent characteristics of the cloud</strong> – Going back to the daycare example, it’s a more dynamic place than your home. There are other actors at play – other babies, the care-givers, other babies’ parents, and the challenges of an unfamiliar setting. In other words, it’s a chaotic place. Things are not always predictable, and are bound to go wrong, in one way or the other. Because of the sheer number of unknowns, learning about all of them, let alone preventing all the problems is not an option. Cloud is exactly like that too. There are other systems at play, their dependencies, and the shared infrastructure, needless to say all that bound by the laws of Physics. It sounds scary at first, but accepting these truths enables us to think about how to build systems that function amidst the chaos, despite all the failings.</p>
 
-<p>They took their sweet time to prepare their devices and simulators for the test. After about fifteen minutes, we finally tested it and saw some errors. When we dug into it, we learned that our customers had been seeing those errors in Production all this time since I made the change about fifty minutes ago! What was weird was that no whistles and bells went off, no pages were triggered, so, for a moment, we doubted if the customers did, in fact, have any negative impact. In any case, we reverted the change, just to be safe. The errors, as you’d guess, went away.</p>
+<p><strong>So why go to the cloud</strong> – If you lose control and visibility into our systems, why on Earth would you want to migrate? Because absolute control and perfection are delusional goals to build your life or business upon. And while you lose some control on how your systems work together, you gain control on what your systems does, or how they provide value to the customers. If you had all the time in the world, you would have taken care of your babies at home. Not that you don’t like them going out, but that you would like to be around them as much as you can. But time is finite, and society and its changing needs throw a lot at you to juggle. In order to do the best with your time, you prioritize things and delegate or outsource some responsibilities. As technology has come to dominate most people’s lives, the changing needs of society often translates to changing needs of software. As the demand of your business increases, you’re compelled to not only prioritize time, but the limited material resources you possess.</p>
 
-<hr />
+<p><strong>Desirable characteristics of a business</strong> – In order to serve the ever-changing needs of the society, certain characteristics naturally emerge that are desirable to run a successful business. Simply put, a business should provide the value promised to all its customers, anywhere and anytime, and evolve quickly to address their needs.</p>
 
-<p>When I first learned about the impact of the incident, I felt embarrassed and a little nervous. For how business-critical this was, fifty minutes was enternity! We should have known long before that. But the guilt and embarrasment was not because it could have been avoided — that realization only came later — but because I instantly started questioning my abilities. I was trusted with it, and I was incapable of executing it. It was my lack of knowledge and technical skill, I thought, that was the problem, and my self-doubt started to eat me up. To calm down the inner voice, I even went into denial and started blaming other people for it, at least in my mind, if not in reality.</p>
+<p><em>All its customers</em> – In the world of the Internet, your customers come from different backgrounds, cultures, ages, and gender, they use different devices, and operate under widely different constraints. So accessibility, multi-language and multi-device support now become first-class citizens.</p>
 
-<p>After it was all dealt with, my manager called me on my phone to have a chat. He was kind and responsible enough to reflect on it and think of ways he could have helped me. But there was one thing he mentioned which guided my thinking in the right direction.</p>
+<p><em>Anywhere and anytime</em> – When your customers are based in different geographical locations across continents, compliance to legal and other policies, and the ability to operate in different time-zones, essentially being available around the clock are of prime importance.</p>
 
-<p>He asked me what my plan was before I got into the meeting. How dare he ask me what the plan was, I thought. Was he hinting that I didn’t or doubting if I had a plan at all? I obviously had a plan.</p>
+<p><em>Evolve quickly</em> – Evolving quickly to serve such a diverse group of customers and a unique set of constraints means having shorter and accurate feedback cycles.</p>
 
-<p>Only I didn’t.</p>
-
-<p>I went into the meeting assuming that I knew all that had to be done, and I didn’t anticipate anything going wrong. Saying that I didn’t anticipate is an understatement. I was so confident that nothing would go wrong that I didn’t consider any options for when it did go wrong. It wasn’t a gap in my knowledge that was the problem, but lack of thought and foresight, about the potential consequences and impact of the change on the system as a whole, both good and bad.</p>
-
-<p>There were many pieces to this change and even though each one of those was fairly simple, they had to be executed in a specific order, and more importantly every one of those was cruicial to the success. And because of their fragmented nature, it was really easy to miss a couple of steps and roll down the metaphorical stairs.</p>
-
-<p>Atul Gawande, in his book <a href="https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000">The Checklist Manifesto: How to Get Things Right</a>, mentions an essay from the 1970s by philosophers Samuel Gorovitz and Alasdair MacIntyre, which talks about human fallibility. One reason they talk about for why things go wrong is “necessary fallibility”, which is when they’re beyond our capacity to control. These, by definition, can’t be prevented from happening.</p>
-
-<p>But he identifies two other reasons — <em>ignorance</em>, the gaps in our knowledge, and <em>ineptitude</em>, our failure to apply the knowledge correctly.</p>
-
-<p>Ignorance, if we’re willing to learn, can be reduced over time; the more time we put into something, the more we learn about it, the more knowledge we gain. But competence is something that doesn’t build over time. Getting rid of ineptitude, in other words, building competence, requires discipline, patience, and deliberate practice. In fact, there’s a case to be made that the more knowledge we possess, the more likely it is to blind ourselves to a holistic, systems thinking approach unless we’re constantly reevaluating ourselves.</p>
-
-<p>Despite having the necessary knowledge to execute the task at hand, I had failed to come up with a plan, a checklist of things that I should have had in place before I jumped on it. But my mistake had a meta nature to it. I knew the importance of checklists, but had failed to put that knowledge too, which made me aware of the difference between theory and practice.</p>
-
-<hr />
-
-<p>After the incident, I finally started taking the idea of checklists, the habit of note-taking, seriously. I especially note things that seem simple and obvious, because those are the ones that are likely to be missed, by everybody. If there’s one thing I’ve learned from my experience is that things that seem simple and obvious, are not necessarily easy and not so obvious.</p>
-
-<hr />
+<p><strong>Cloud-native</strong> – is an umbrella term used to capture a set of ideas, principles, processes and tools, that aims to marry the inherent characteristics of the cloud with the desirable characteristics of today’s business in a seamless manner.</p>
 
 <h2 id="recommended-reading">Recommended Reading</h2>
+<hr />
 
-<p><br /></p>
+<p><a href="https://www.manning.com/books/cloud-native-patterns">Cloud Native Patterns, by Cornelia Davis</a></p>
 
-<blockquote>
-Avoidable failures are common and persistent, not to mention demoralizing and frustrating, across many fields -- from medicine to finance, business to government. And the reason is increasingly evident: the volume and complexity of what we know has exceeded our individual ability to deliver its benefits correctly, safely, or reliably. Knowledge has both saved us and burdened us.
-</blockquote>
-<p><cite><a href="https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000">The Checklist Manifesto: How to Get Things Right</a></cite></p>
+<p><a href="https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/definition">What is Cloud Native</a></p>
 
 <hr />
 
-<p><em>@out.of.desk</em></p>
+<p>If you have any comments about the post, send me a message on any of my social media profiles, or email me at <em>contact.outofdesk [at] gmail [dot] com</em></p>
 </div>
   <!--  -->
 </div>
@@ -540,6 +520,20 @@ Avoidable failures are common and persistent, not to mention demoralizing and fr
           
       
           
+            
+            <div class="panel-body">
+              <h4>Related Posts</h4>
+              <ul>
+            
+                <li class="relatedPost">
+                  <a href="https://outofdesk.github.io/capitalism/technology/2019/11/27/summary-behind-the-smiles.html">Summary: Behind the Smiles by Reveal</a>
+                  
+                    (Categories: <a href="/category/capitalism">capitalism</a>, <a href="/category/technology">technology</a>)
+                  
+                </li>
+          
+          
+        
       
           
       
@@ -597,13 +591,14 @@ Avoidable failures are common and persistent, not to mention demoralizing and fr
     
   
   
+  </ul>
+</div>
+
 
 <div class="PageNavigation">
   
-    <a class="prev" href="/reflection/self/pandemic/2020/05/14/pandemic.html">&laquo; A Chat With the Different Selfs</a>
+    <a class="prev" href="/musings/reality/society/culture/travel/2021/11/07/run-in-boston.html">&laquo; A Run in Boston</a>
   
-  
-    <a class="next" href="/musings/philosophy/meaning/passion/2021/02/28/an-old-memory.html">An Old Memory &raquo;</a>
   
 </div>
 
@@ -612,8 +607,8 @@ Avoidable failures are common and persistent, not to mention demoralizing and fr
   <script type="text/javascript">
     /* <![CDATA[ */
     var disqus_shortname = "outofdesk";
-    var disqus_identifier = "https://outofdesk.github.io_About Simple and Obvious Things";
-    var disqus_title = "About Simple and Obvious Things";
+    var disqus_identifier = "https://outofdesk.github.io_Book Notes: Cloud Native Patterns";
+    var disqus_title = "Book Notes: Cloud Native Patterns";
 
     /* * * DON'T EDIT BELOW THIS LINE * * */
     (function() {
