@@ -5,9 +5,42 @@
     <description>My Online Notepad</description>
     <link>https://outofdesk.github.io/</link>
     <atom:link href="https://outofdesk.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 23 Jan 2022 12:35:37 -0800</pubDate>
-    <lastBuildDate>Sun, 23 Jan 2022 12:35:37 -0800</lastBuildDate>
+    <pubDate>Sun, 30 Jan 2022 20:29:43 -0800</pubDate>
+    <lastBuildDate>Sun, 30 Jan 2022 20:29:43 -0800</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Maturing</title>
+        <description>&lt;p&gt;Kids love toys. There’s something innate about them that’s often hard to point out, at least for them, about what makes particular toys desirable. Although it’s generally accepted that we give up toys as we grow up, that’s hardly true. We merely start playing more refined games, with more sophisticated toys. We don’t like to associate ourselves with toys when we’re adults. Something that’s common between kids and adults, about toys, is that they hardly question the need for them. Those desires come from a more primitive part of the brain. I’ve not, until today, thought about what we mean by being mature. People might use it to mean different things, but an important part of maturing is our ability to reason about our feelings and behavior. Kids can’t reason and adults sometimes don’t. That’s why we label people as child-like, or immature, when they act like free spirits, doing things in a carefree way. The connotation being that they don’t think through things or that their choices don’t seem rational. While it’s good at times, in some form and fashion, it has its problems too.&lt;/p&gt;
+
+&lt;p&gt;In the world of software and computing, tools, frameworks, and patterns are toys. Freshly minted engineers, like kids, are enamored by the world of infinite choices. They focus more on exploring the choices available than on the utility of those choices. Part of evolving as an engineer is to start seeing technology as a means to solve real-world problems and less as an end in itself. I’m not saying that one is better than the other, or even that they are mutually exclusive. But it’s better to be able to evaluate the trade-offs and strike a balance between the two.&lt;/p&gt;
+
+&lt;p&gt;In my first job after college, I worked as a frontend engineer, tasked with building web and mobile apps. Building user interfaces was not something I had in mind when I thought about applying my knowledge in Computer Science to solve real-world problems. But as I grew more familiar with it, I came to love it more. I liked being able to see the product I was building as I was building it, and as seen by the eyes of the customers. The field was also more dynamic than the backend ecosystem at the time. New frameworks and tools sprung up every day and as a new kid in the block, I enjoyed tinkering with them. Anything that was deemed cool drew my attention. My age and experience working in technology matched that of the domain of frontend engineering itself. As mentioned in a &lt;a href=&quot;https://blog.gardeviance.org/2013/01/ecosystems.html&quot;&gt;post by Simon Wardley&lt;/a&gt;, frontend engineering was accelerating in the phase of innovation when the backend industry was cruising in “commoditization”.&lt;/p&gt;
+
+&lt;p&gt;I then went to graduate school, to study more of what I hadn’t used in my job. After school I got back into frontend engineering, to do more of what I didn’t learn in grad school! I don’t say that with the slightest of regret or guilt. It has taught me things that I would have otherwise never learned, most important of all being empathy for designers and front-end engineers, which is rare from what I see. The realm of frontend engineering was markedly different relative to what it had been two years ago. In the time I did my Master’s, MVC frameworks in the browser gave way to reactive, event-driven systems. After a few more years of building user experiences at scale, I finally felt exhausted by the constant need to catch up with the trends of the industry. We spent more time to get consensus on the tools and frameworks rather than on the problems. Backend engineering, at least from my vantage point, seemed like a more reasonable, a more stable, place. So I switched my focus to backend engineering a few years ago and have been more at peace ever since.&lt;/p&gt;
+
+&lt;p&gt;A similar change happened fairly recently when engineering challenges grabbed less of my attention than the nontechnical aspects of the work we do – people, principles, and processes. I like to like to call them “the three Ps”. So I made the switch to explore and grow as a manager and as a leader. To be an engineer is to focus on how to build good systems; to be a technologist is to also care about the what and the why of building systems using technology. It has become clear to me in the last couple of years that laying out the purpose and focusing on the three Ps organically leads to better engineering practices and solutions.&lt;/p&gt;
+
+&lt;p&gt;These changes of perspectives and desires perhaps say something about my maturing as an engineer, a technologist, and a human. I’m not suggesting that any one role or domain is more mature than the other but that the ability to reflect and reevaluate, to be more aware of what drives you, is a quality that hints at your maturity.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;If you have any comments about the post, send me a message on any of my social media profiles, or email me at &lt;em&gt;contact.outofdesk [at] gmail [dot] com&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 29 Jan 2022 23:00:00 -0800</pubDate>
+        <link>https://outofdesk.github.io/technology/evolution/maturity/engineering/2022/01/29/maturing.html</link>
+        <guid isPermaLink="true">https://outofdesk.github.io/technology/evolution/maturity/engineering/2022/01/29/maturing.html</guid>
+        
+        
+        <category>technology</category>
+        
+        <category>evolution</category>
+        
+        <category>maturity</category>
+        
+        <category>engineering</category>
+        
+      </item>
     
       <item>
         <title>Book Notes: Cloud Native Patterns</title>
@@ -715,66 +748,6 @@ I’ve come to shut down the machine whose emergency brake you couldn’t find
         <category>capitalism</category>
         
         <category>technology</category>
-        
-      </item>
-    
-      <item>
-        <title>Caring About Animals</title>
-        <description>&lt;blockquote&gt;
-We tried to explain that we were interested in the prevention of suffering and misery; that we were opposed to arbitrary discrimination; that we thought it wrong to inflict needless suffering on another being, even if that being were not a member of our own species; and that we believed animals were ruthlessly and cruelly exploited by humans, and we wanted this changed. Otherwise, we said, we were not especially “interested in” animals.
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;cite&gt;Peter Singer, in Animal Liberation: A New Ethics for Our Treatment of Animals&lt;/cite&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;There are a million things to care about in this world if we cared to care about – things that we know are systemically unfair, unjust or outright wrong. But if we cared about all of them to a point where we wanted to fix them or be a part of the solution, we’d go crazy. One way to maintain sanity is to accept that there are going to be things that are, and will be, out of our control and to learn to let go of some. That leaves us with the time and energy to think about what we value the most and work towards fixing them, in any way and capacity we can. Elon Musk might be a rare exception, or at least the most popular of them out there, who can not only think about but make a huge impact on solving a lot of the pressing issues in the world today. But to make my point, even he is not actively working towards fixing, let’s say, gun violence in the country. Most often, people care about a lot of things, but in varying degrees.&lt;/p&gt;
-
-&lt;p&gt;I care a lot about autonomy, growth, health and fitness, to an extent where I spend a considerable amount of my time and energy learning/thinking about them, experimenting with them and optimizing them. I also care about the environment and animal welfare but I don’t proactively do a whole lot to cause any significant change. I keep myself educated about them and do the best I can without going above and beyond.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Having been brought up a vegetarian my entire life because of religious reasons, I neither questioned nor saw any inconsistencies in the stories we told ourselves about the choices we made about food. After reading about and watching the horrors of the dairy industry, I finally decided to give up dairy and egg and go vegan. It wasn’t easy in the beginning, but it happened at once when the evidence of the ill-effects of dairy, on my health and animals, was too clear and overwhelming to ignore.&lt;/p&gt;
-
-&lt;p&gt;But I’ve often felt out of place in vegan and animal welfare circles where people name the rescued animals, celebrate their birthdays, make them desserts and kiss them on their mouths. In that sense, I’m not an animal lover. I deeply care about animals, a bit more than I care about humans I’d say, and I can’t stand abuse or violence against them. I have cried just reading accounts of the treatment of animals for meat and fashion. I remember one time in fifth grade, right in front of my home, a few stray dogs had brutally injured a baby pig. The dogs neither killed nor ate its flesh. They injured it enough that it couldn’t move. If you’ve ever heard the noise of a pig squealing, you know it’s not a pleasant one. I cried my heart out and skipped school that day because I couldn’t step out of the door. It was a slow, painful death, for the pig and some tiny part of me.&lt;/p&gt;
-
-&lt;p&gt;I’m also very sensitive to the blood of animals. I can’t see it. I’d probably faint if I saw an injured animal up close, bleeding. So, while I am hopelessly emotional about animals, I’m not mentally tough enough to help one, bloodily injured.&lt;/p&gt;
-
-&lt;p&gt;But while reading &lt;em&gt;Animal Liberation&lt;/em&gt;, a classic by Peter Singer, I realized that you don’t have to love animals to care about them and to believe in their moral rights and ethical treatment. You don’t have to have loved or even met a person in your life who has been a victim of some kind of discrimination, to ideologically believe that discrimination in any form - racial, sexual, intellectual - is immoral and wrong. So why expect that a person should love animals to believe in their welfare, autonomy, and rights?&lt;/p&gt;
-
-&lt;p&gt;I’d probably never own a pet, again. But that shouldn’t necessarily stop me from thinking or talking about animal welfare. It’s not an inconsistency, it’s irrelevant. Similarly, owning a pet doesn’t tell much about the extent to which a person cares about animals in general. The fundamental shift in thinking comes from a belief that non-human animals are not that different from us, and acknowledge, what’s now proved beyond doubt, that they experience pain and suffering very much like us. Once that’s established, other arguments start to make sense.&lt;/p&gt;
-
-&lt;p&gt;When we get into a debate about this with others, it’s not so much about those animals as much as it’s about the moral values, prejudices, and biases we hold so dear. That’s why it reaches the level of intensity it does and gets the kind of emotional, sometimes irrational responses that it gets. It’s seeing the belief system collapse, or being shown the inconsistency and hypocrisy in what we think and do that gets to us. People often think that vegans and animal welfare activists ride on moral high ground. One argument to that is that people who sense that arrogance or superiority in others, might have a deep, latent insecurity about their own beliefs on a certain level. Another is that even if people who care about animals aren’t on higher ground, they are not on the lower ground either.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;The next time you get into a discussion about this with someone with a different opinion, thinking of the following things might help to have a productive and sane debate.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;Do they think non-human animals are inferior to humans? If they do, on what grounds?&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Do they think animals experience pain and suffering?&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Do they believe torture and killing of some animals are different than others?&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Do they know about the practices or treatment of animals being killed for meat and fashion?&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Do they think that their preferences and likes matter more than the lives of animals?&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;From answers to these, you’ll know where they stand, and how likely they are to listen and understand your point of view. And if you can’t do a good job communicating your arguments, just ask them to read &lt;em&gt;Animal Liberation&lt;/em&gt;. No matter what their argument is, I’m sure Peter Singer will have a better, more convincing one.&lt;/p&gt;
-
-&lt;h2 id=&quot;recommended-reading&quot;&gt;Recommended Reading&lt;/h2&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Animal-Liberation-Definitive-Classic-Movement/dp/0061711306&quot;&gt;Animal Liberation: A New Ethics for Our Treatment of Animals&lt;/a&gt; (I’m currently reading this myself)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://chicagounbound.uchicago.edu/law_and_economics/568/&quot;&gt;The Rights of Animals: A Very Short Primer&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;If you have any comments about the post, send me a message on any of my social media profiles, or email me at &lt;em&gt;contact.outofdesk [at] gmail [dot] com&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 05 Nov 2019 23:00:00 -0800</pubDate>
-        <link>https://outofdesk.github.io/animals/2019/11/05/caring-about-animals.html</link>
-        <guid isPermaLink="true">https://outofdesk.github.io/animals/2019/11/05/caring-about-animals.html</guid>
-        
-        
-        <category>animals</category>
         
       </item>
     
