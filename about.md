@@ -3,8 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-### Me
 <br/>
 
 My name is Gaurav Ramesh. I work in the technology industry in the Bay Area and have been living in the U.S since 2013. I hail from Shimoga, a little town in the south of India, close to Bengaluru, the Silicon Valley of India.
