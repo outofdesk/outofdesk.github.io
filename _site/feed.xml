@@ -5,9 +5,38 @@
     <description>My Online Notepad</description>
     <link>https://outofdesk.github.io/</link>
     <atom:link href="https://outofdesk.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 04 Feb 2022 22:50:58 -0800</pubDate>
-    <lastBuildDate>Fri, 04 Feb 2022 22:50:58 -0800</lastBuildDate>
+    <pubDate>Sun, 06 Feb 2022 23:53:02 -0800</pubDate>
+    <lastBuildDate>Sun, 06 Feb 2022 23:53:02 -0800</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>I Tried</title>
+        <description>&lt;p&gt;That’s what I think my tombstone should say. I’ll not have a tombstone because my body will be burned in the funeral pyre, according to Hindu traditions, so my soul can rest in peace. But if I had one, I’d like it to say that. The statement accurately captures how I live my life, or at that point, how I’ll have lived my life. I &lt;em&gt;try&lt;/em&gt; to do the things to the best of my ability and I &lt;em&gt;try&lt;/em&gt; to get better. I not only do that with the things I want to be good at, but also with those that others expect me to do. That’s right, I care a lot more about what people think than I like to admit. In the different roles I play – a husband, a son, a brother, a friend, an engineer, a colleague, a runner, a hiker, a reader, a learner, a writer – I &lt;em&gt;try&lt;/em&gt; to perform well. Whether I’m successful in my attempts is a different question, and sometimes beyond my control, what is though, is &lt;em&gt;trying&lt;/em&gt;. And so I do that.&lt;/p&gt;
+
+&lt;p&gt;Children are good at &lt;em&gt;trying&lt;/em&gt;. Their curious minds and the lack of fear make for a good combination in helping them &lt;em&gt;try&lt;/em&gt; without restraints. We gradually become more set in our ways as we grow up. While it’s partly due to the lessened curiosity, the slowing of neuroplasticity, we blame the anatomy of brains more than it deserves. It’s largely the fear of failure that holds us back. There’s a negative connotation in society to &lt;em&gt;trying&lt;/em&gt;. It’s not assertive enough, or confident enough; it isn’t good enough. Heck, even the tools that help improve your English writing, like Grammarly, suggest not to hedge, when you use those words. The focus is more on the outcome than the act of &lt;em&gt;trying&lt;/em&gt;. That’s not to say that mere &lt;em&gt;trying&lt;/em&gt; should be rewarded, no. But it could use a little good publicity. &lt;em&gt;Trying&lt;/em&gt; is good and it needs to be treated as such. It’s challenging but rewarding in the end. You learn things that you don’t expect.&lt;/p&gt;
+
+&lt;p&gt;But &lt;em&gt;trying&lt;/em&gt; is hard! Yes, it is. As they say, no good things in life come easy. Well, you might get lucky, but you will have a better chance of succeeding if you try.&lt;/p&gt;
+
+&lt;p&gt;But &lt;em&gt;trying&lt;/em&gt; takes time! Yes, it does, but what doesn’t? Not &lt;em&gt;trying&lt;/em&gt; also takes time!&lt;/p&gt;
+
+&lt;p&gt;There are a few episodes in the series Big Bang Theory where Sheldon corrects people that he didn’t merely &lt;em&gt;try&lt;/em&gt; things, he succeeded at them. Being successful at something brings with it a sense of smugness that clouds our view of the humble beginnings of &lt;em&gt;trying&lt;/em&gt;. That’s especially true of people who haven’t failed at things. It’s hard to appreciate the beauty of &lt;em&gt;trying&lt;/em&gt;, if all you’ve had are wins at the first attempt. I’ve always admired people who genuinely &lt;em&gt;try&lt;/em&gt; to get better, be better. It’s the lack of willingness to try, or feigning to &lt;em&gt;try&lt;/em&gt; that I find repulsive.&lt;/p&gt;
+
+&lt;p&gt;I see people doing that with the act of listening. Often, people don’t even try. They merely wait for others to finish so they can speak. That’s probably the cause of the majority of arguments and fights – people not &lt;em&gt;trying&lt;/em&gt; to listen to others. I’m guilty of it myself. It’s hard to always know it at the time you’re doing it, but that’s where reflecting on your actions and choices help. They help you rethink, reassess and &lt;em&gt;try&lt;/em&gt; other things, in other ways. In this messy, complex and beautiful world of infinite choices, that’s all we can do – try.&lt;/p&gt;
+
+&lt;p&gt;That’s my humble ode to &lt;em&gt;trying&lt;/em&gt;. I’d like to think that it’s an attempt to make &lt;em&gt;trying&lt;/em&gt; look good, but it might just as well be something that I’m &lt;em&gt;trying&lt;/em&gt; to convince myself of.&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Fri, 04 Feb 2022 23:00:00 -0800</pubDate>
+        <link>https://outofdesk.github.io/musings/trying/2022/02/04/i-tried.html</link>
+        <guid isPermaLink="true">https://outofdesk.github.io/musings/trying/2022/02/04/i-tried.html</guid>
+        
+        
+        <category>musings</category>
+        
+        <category>trying</category>
+        
+      </item>
     
       <item>
         <title>Maturing</title>
@@ -630,122 +659,6 @@ I’ve come to shut down the machine whose emergency brake you couldn’t find
         <category>society</category>
         
         <category>culture</category>
-        
-      </item>
-    
-      <item>
-        <title>Summary: Behind the Smiles by Reveal</title>
-        <description>&lt;p&gt;In March 2014 when I got an offer from Amazon for a summer internship, I couldn’t have been happier. I was happy for two reasons, one, because I needed a break from interviewing and two because it was Amazon. I didn’t know which team I was going to be working with at the time and only a few weeks before my internship, I learned that I was matched with Labor Optimization Team in Amazon Fulfillment Technologies(AFT) org.&lt;/p&gt;
-
-&lt;p&gt;My job as an intern in the team was to help build systems to make sense of the data and the models designed to analyze it by the data scientist we had. There was a lot of data about the workers working in the Fulfillment Centers, like their smoking habits, for example, and one of the goals of the team was to be able to learn and predict characteristics of people that made them stick to the job and bring down the attrition rate. I had heard how people moved in and out of these jobs and how it was hard to find workers who stayed. I didn’t think much about why that was.&lt;/p&gt;
-
-&lt;p&gt;To make us better at our jobs and help us understand the whole process, we were even flown to a Fulfillment Center during the internship. I forgot which one it was, but it had Kiva robots to move the big racks around. It was amazing to see how robots were serving humans here, doing the laborious task of carrying heavy boxes for long distances in these gigantic warehouses. Never thought about what happened after the robots brought those boxes to humans.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Following is a summary of the article reported by Reveal on the conditions of workers at Amazon Fulfillment Centers and the cost of the ever-increasing speed of home delivery. Read on for my highlights and key takeaways from the article. You can find the original article &lt;a href=&quot;https://www.revealnews.org/article/behind-the-smiles&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;key-takeaways&quot;&gt;Key Takeaways&lt;/h3&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Injury rates are extremely high in Amazon Fulfillment Centers(warehouses). Serious injuries, which require time off from work, are double the industry average in warehouses. In some fulfillment centers and in certain times of the year, it is up to four to even six times the industry average.&lt;/p&gt;
-
-&lt;p&gt;The tracking system for each of the task – pick, stow, pack and so on are immensely efficient and fierce. Scanners have to scan an item about every 11 seconds. Pickers are required to pick about 385 small or 350 medium boxes every hour. They get written up and eventually terminated for even 98.5% efficiency.&lt;/p&gt;
-
-&lt;p&gt;Warehouses with robots are worse for workers since the expectations from them go higher when the robots get faster and more efficient.&lt;/p&gt;
-
-&lt;p&gt;The job advertisements don’t mention any skills or experience required, but the training is insufficient and expectations sky-high, when they actually start working. Holidays and peak seasons are the worst when a huge number of temporary, seasonal workers are hired.&lt;/p&gt;
-
-&lt;p&gt;Workers are too afraid of termination and retaliation to even talk about their issues or take restroom breaks. All their breaks are rigorously tracked and marked “time-off task” and their pleas fall into deaf ears.&lt;/p&gt;
-
-&lt;p&gt;Some report that they had to pee in bottles, or take packages to restrooms with them to avoid missing the quota. Some have suffered urinary tract infections from holding it in for long times.&lt;/p&gt;
-
-&lt;p&gt;The case of the death of a worker in Indiana operating a forklift in the warehouse was covered up and people investigating pushed back by the higher officials all the way up to the Mayor.&lt;/p&gt;
-
-&lt;p&gt;I can’t help but draw parallels between the almost robotic efficiency expected from humans in these warehouses to slaughterhouses in factory farms. The ever-increasing demand for stuff(packages and meat) has pushed industries to meet it at the expense of human, animal and planet health. It’s a classic case of human greed and indifference taking a toll on anyone and anything that’s poor, vulnerable and helpless. I won’t be surprised if companies like Amazon go as far to use its power and influence to get something like the ag-gag laws passed to make it illegal to record in any form the conditions of workers in its Fulfillment Centers.&lt;/p&gt;
-
-&lt;p&gt;Some similarities between the two industries:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Both are driven by the need for speed and increased demand&lt;/li&gt;
-  &lt;li&gt;Workers in both the industries suffer a lot more serious injuries than the industry average in jobs requiring physical labor&lt;/li&gt;
-  &lt;li&gt;Workers in both the industries have reported not being sent to a doctor by their on-site medical staff even after multiple reports of pain and injuries&lt;/li&gt;
-  &lt;li&gt;Workers sometimes are told not to use unplanned restroom breaks, and other times they don’t do it out of fear of missing their quota. Some have reported using adult diapers, or peeing in a bottle&lt;/li&gt;
-  &lt;li&gt;Products from the industries are eventually shipped in boxes and wrappers with smiles on them, which is utter disinformation.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;highlights&quot;&gt;Highlights&lt;/h3&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;“The clock was always ticking on Amazon’s promised delivery time. Dixon had to scan a new item every 11 seconds to hit her quota, she said, and Amazon always knew when she didn’t.”&lt;/p&gt;
-
-&lt;p&gt;“…in the last holiday season, they hit a coveted target: They got a million packages out the door in 24 hours. Amazon handed out T-shirts celebrating their induction into the “Million Unit Club.””&lt;/p&gt;
-
-&lt;p&gt;“An Amazon-approved doctor said she had bulging discs and diagnosed her with a back sprain, joint inflammation and chronic pain, determining that her injuries were 100% due to her job.”&lt;/p&gt;
-
-&lt;p&gt;“…the rate of serious injuries for those facilities was more than double the national average for the warehousing industry: 9.6 serious injuries per 100 full-time workers in 2018, compared with an industry average that year of 4.”&lt;/p&gt;
-
-&lt;p&gt;“Robinson said Amazon’s injury rates are high because it’s aggressive about recording worker injuries and cautious about allowing injured workers to return to work before they’re ready.”&lt;/p&gt;
-
-&lt;p&gt;“When a gas leak inundated the Eastvale warehouse where Dixon used to work, managers wouldn’t slow down, several workers said, even though they were dizzy and vomiting. They were told that they’d have to use personal time off if they wanted to leave.”&lt;/p&gt;
-
-&lt;p&gt;During the holiday season, “…warehouses are crammed with seasonal workers unaccustomed to the grind. The company’s 2018 logs show weekly injury counts spiked at two distinct moments when Amazon offers special deals: Cyber Monday and Prime Day.”&lt;/p&gt;
-
-&lt;p&gt;“Robinson, the Amazon spokesperson, said total injuries do go up during those peak times, but that’s only because the company brings on more workers then.”&lt;/p&gt;
-
-&lt;p&gt;“But injury records and interviews with three of the former Amazon safety managers suggest the introduction of the robots led to even more injuries.”&lt;/p&gt;
-
-&lt;p&gt;““Before robots, it was still tough, but it was manageable,” he said. Afterward, “we were in a fight that we just can’t win.””&lt;/p&gt;
-
-&lt;p&gt;“The U.S. Department of Labor under the Obama administration proposed posting them online, but under President Donald Trump, the agency has reversed course and also has fought public records requests. And Amazon has resisted making its own safety records public.”&lt;/p&gt;
-
-&lt;p&gt;“He said higher-ups instructed him to come up with justifications for not recording injuries that should have been counted by law.”&lt;/p&gt;
-
-&lt;p&gt;“…Terry showed up for work and was sent to do maintenance on a forklift. He walked under the machine’s forks and metal platform to work on it with a wrench. Suddenly, the 1,200-pound piece of equipment dropped down and crushed him.”&lt;/p&gt;
-
-&lt;p&gt;“Stallone repeatedly pressed Amazon to provide records showing Terry had been trained on that piece of equipment. In the end, he found that Amazon failed to provide adequate training, exposing Terry to a fatal hazard.”&lt;/p&gt;
-
-&lt;p&gt;“During the call, Alexander told the Amazon officials what she’d need from them in order to shift the blame from the company to “employee misconduct,” according to the recording.”&lt;/p&gt;
-
-&lt;p&gt;“Holcomb told him how much it would mean to Indiana if the state won the Amazon headquarters deal. Then, Stallone said, the commissioner told him to back off on the Amazon case – or resign.”&lt;/p&gt;
-
-&lt;p&gt;“A year after Terry’s death, Indiana officials quietly signed an agreement with Amazon to delete all the safety citations and fines. The agreement said Amazon had met the requirements of an “unpreventable employee misconduct defense.””&lt;/p&gt;
-
-&lt;p&gt;““If there was any misconduct there, it’s putting a person that has little to no experience and working on this piece of equipment,” said the other former safety manager, who has worked at multiple facilities. “Whoever allowed that to happen – that’s the misconduct.””&lt;/p&gt;
-
-&lt;p&gt;“…had been smelling gas since the start of her shift. Some workers had been moved to another part of the building, and others were sent briefly to a break room, but the warehouse had not been evacuated, according to accounts by Van Vorce and four others at work that night.”&lt;/p&gt;
-
-&lt;p&gt;“Robinson told Reveal that Amazon shut down the site for about an hour and a half while a maintenance team repaired the leak. But Van Vorce tells the dispatcher that management wouldn’t stop operations.”&lt;/p&gt;
-
-&lt;p&gt;““They’re trying to tell us we have to use our personal time if we want to leave,” she says in the 911 recording.”&lt;/p&gt;
-
-&lt;p&gt;“…picker at a fulfillment center in Phoenix until last year, said he and other workers would bring customers’ orders into the bathroom with them to scan midway through. “It sounds disgusting,” he acknowledged.”&lt;/p&gt;
-
-&lt;p&gt;““You have to hold your pee or not make your rate. Which one you want to do?” Shrum said. “I had to make my rate.””&lt;/p&gt;
-
-&lt;h3 id=&quot;recommended-reading&quot;&gt;Recommended Reading&lt;/h3&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.revealnews.org/article/behind-the-smiles&quot;&gt;Reveal – Behind the Smiles: Amazon’s internal injury records expose the true toll of its relentless drive for speed&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.npr.org/sections/thesalt/2016/05/25/479509221/we-dont-know-how-many-workers-are-injured-at-slaughterhouses-heres-why&quot;&gt;NPR – We Don’t Know How Many Workers Are Injured At Slaughterhouses. Here’s Why&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.theguardian.com/environment/2018/jul/05/amputations-serious-injuries-us-meat-industry-plant&quot;&gt;The Guardian – Two amputations a week: the cost of working in a US meat plant&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;If you have any comments about the post, send me a message on any of my social media profiles, or email me at &lt;em&gt;contact.outofdesk [at] gmail [dot] com&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 27 Nov 2019 23:00:00 -0800</pubDate>
-        <link>https://outofdesk.github.io/capitalism/technology/2019/11/27/summary-behind-the-smiles.html</link>
-        <guid isPermaLink="true">https://outofdesk.github.io/capitalism/technology/2019/11/27/summary-behind-the-smiles.html</guid>
-        
-        
-        <category>capitalism</category>
-        
-        <category>technology</category>
         
       </item>
     
