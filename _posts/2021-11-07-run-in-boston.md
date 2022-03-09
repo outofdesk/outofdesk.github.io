@@ -3,7 +3,7 @@ layout: post
 title:  A Run in Boston
 date:   2021-11-07 00:00:00 -0700
 categories: [musings, society, culture, travel]
-description: "About my musings on a run in Boston"
+description: "Thoughts on a run in Boston"
 image: ""
 ---
 
