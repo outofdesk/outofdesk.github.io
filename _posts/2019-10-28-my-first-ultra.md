@@ -2,7 +2,7 @@
 layout: post
 title:  "My First Ultra"
 date:   2019-10-28 00:00:00 -0700
-categories: [running]
+categories: [running, endurance]
 description: "How the thought of doing an ultra-marathon came about"
 image: "my-first-ultra/the-race.png"
 ---
