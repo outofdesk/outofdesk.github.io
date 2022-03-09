@@ -3,7 +3,7 @@ layout: post
 title:  "Fine Walls"
 date:   2020-04-07 00:00:00 -0700
 categories: [musings, society, culture]
-description: "...if a majority of people here will continue to wear masks after this, not for the fear of infection, but for the liberty to be themselves in public. It’s ironic then that wearing a mask will give us the liberty to throw away the mask of social identity"
+description: ""
 image: "fine-walls/cover.png"
 ---
 
