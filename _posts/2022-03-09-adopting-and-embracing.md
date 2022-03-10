@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Adopting and Embracing"
+date:   2022-03-09 00:00:00 -0700
+categories: [mindset, habits, change]
+description: ""
+image: ""
+---
+
+All the companies I’ve been a part of practice Agile methodologies for software development. Some of them marketed lack of planning, processes, tools, and practices as part of being agile because we were changing course all the time. But a majority of the teams followed it by the book, focusing on the rituals, the jargon and the hype. They had sprint planning, retrospectives, daily stand-ups, backlog grooming, and story point estimation. But it seemed dry for the most part. For all the shiny promises of Agile, it didn’t *look* so great, it didn’t *feel* so great. Things got done still – we shipped features, we built systems, we made money – some on time, some not. But things get done anyway, even without well-defined processes and practices. So that’s a low bar to measure the success of teams, or organizations. But Agile, for the most part, felt like traveling in a car that reached its destination but left all the passengers with a nauseating feeling. We did things the right way, checked all the boxes. The lights, the indicators, the brakes, the acceleration, the fuel -- everything was fine. Something still *felt* missing. It was hard to point out what was wrong.
+
+It happens in other aspects of our life too, when we do things not because we see its value, but because of the influence of external forces – peer pressure, external validation, culture and so on. We travel to distant and exotic places over the weekends, even if we don’t feel like it, only to go back home exhausted, depleted and discontent. Traveling is what people do when they get a break from work, right? We follow and adopt trending diets or fitness routines, even when our body or mind rejects the idea. We focus more on the outcomes than the journey, more on the ends than the means. No matter how exciting or promising something is, there's a sense that something isn't quite right.
+
+I follow a plant-based diet and people who don't, ask me how hard it is to follow a strict diet like that. They think that I'm disciplined and good at self-control. There could be a little bit of that, but that's not what keeps me going. If I were battling with myself every time I saw a dessert, or any of the rich, creamy dishes that Indian cuisine had to offer, I'd have given up the vegan diet long ago. What keeps me at it is the reason I chose to make the switch in the first place. For me, it is primarily about reducing harm to animals. My commitment to that cause is unwavering. And I don't say that with a sense of arrogance. I've always been sensitive and empathetic towards other beings, since childhood. So I've no reason to be riding the moral high ground, I was wired that way. *Why* I adopted a plant-based diet has been the reason for why it has stuck long-term. So, *how* I do it almost becomes moot. I like the idea of a life that minimizes harm to others. So, more than adopting the idea of a plant-based life, I embrace it, and that has made the journey much more fulfilling.
+
+While people have different reasons for their choices, none wrong in itself, some make it easier for you to be at peace with the choices. You can adopt something without embracing it – you can lose weight without enjoying physical exercise, you can be good at your job without liking it. But to embrace something is to change your mindset. Ultra-runners and other endurance athletes often say that they embrace the struggle and suffering. It doesn't make the journey any easier, but it does make it easier to not give up, to keep going, to endure.
+
+As I'm reading about Agile methodologies, I'm fascinated by the *why* behind the values and principles stated. Learning about the reasons behind why a group of experts in the software industry decided to meet to solve certain problems, and the reasons for why they chose the values and principles they did, helps me understand the mindset they had. It helps me embrace the idea, rather than merely adopt the outcome.
+
+*****
