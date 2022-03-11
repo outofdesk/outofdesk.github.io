@@ -3,10 +3,10 @@
   <channel>
     <title>out.of.desk</title>
     <description>My Public Experiments in Writing</description>
-    <link>https://outofdesk.github.io/</link>
-    <atom:link href="https://outofdesk.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 10 Mar 2022 18:17:25 -0800</pubDate>
-    <lastBuildDate>Thu, 10 Mar 2022 18:17:25 -0800</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 10 Mar 2022 18:21:08 -0800</pubDate>
+    <lastBuildDate>Thu, 10 Mar 2022 18:21:08 -0800</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -24,8 +24,8 @@
 &lt;hr /&gt;
 </description>
         <pubDate>Tue, 08 Mar 2022 23:00:00 -0800</pubDate>
-        <link>https://outofdesk.github.io/mindset/musings/2022/03/08/adopting-and-embracing.html</link>
-        <guid isPermaLink="true">https://outofdesk.github.io/mindset/musings/2022/03/08/adopting-and-embracing.html</guid>
+        <link>http://localhost:4000/mindset/musings/2022/03/08/adopting-and-embracing.html</link>
+        <guid isPermaLink="true">http://localhost:4000/mindset/musings/2022/03/08/adopting-and-embracing.html</guid>
         
         
         <category>mindset</category>
@@ -59,8 +59,8 @@
 &lt;hr /&gt;
 </description>
         <pubDate>Fri, 04 Feb 2022 23:00:00 -0800</pubDate>
-        <link>https://outofdesk.github.io/musings/2022/02/04/i-tried.html</link>
-        <guid isPermaLink="true">https://outofdesk.github.io/musings/2022/02/04/i-tried.html</guid>
+        <link>http://localhost:4000/musings/2022/02/04/i-tried.html</link>
+        <guid isPermaLink="true">http://localhost:4000/musings/2022/02/04/i-tried.html</guid>
         
         
         <category>musings</category>
@@ -84,8 +84,8 @@
 &lt;hr /&gt;
 </description>
         <pubDate>Sat, 29 Jan 2022 23:00:00 -0800</pubDate>
-        <link>https://outofdesk.github.io/technology/musings/2022/01/29/maturing.html</link>
-        <guid isPermaLink="true">https://outofdesk.github.io/technology/musings/2022/01/29/maturing.html</guid>
+        <link>http://localhost:4000/technology/musings/2022/01/29/maturing.html</link>
+        <guid isPermaLink="true">http://localhost:4000/technology/musings/2022/01/29/maturing.html</guid>
         
         
         <category>technology</category>
@@ -131,8 +131,8 @@
 &lt;p&gt;If you have any comments about the post, send me a message on any of my social media profiles, or email me at &lt;em&gt;contact.outofdesk [at] gmail [dot] com&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 22 Jan 2022 23:00:00 -0800</pubDate>
-        <link>https://outofdesk.github.io/technology/2022/01/22/cloud-native-patterns.html</link>
-        <guid isPermaLink="true">https://outofdesk.github.io/technology/2022/01/22/cloud-native-patterns.html</guid>
+        <link>http://localhost:4000/technology/2022/01/22/cloud-native-patterns.html</link>
+        <guid isPermaLink="true">http://localhost:4000/technology/2022/01/22/cloud-native-patterns.html</guid>
         
         
         <category>technology</category>
@@ -191,8 +191,8 @@
 &lt;p&gt;&lt;em&gt;@out.of.desk&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 07 Nov 2021 00:00:00 -0700</pubDate>
-        <link>https://outofdesk.github.io/musings/reflections/2021/11/07/run-in-boston.html</link>
-        <guid isPermaLink="true">https://outofdesk.github.io/musings/reflections/2021/11/07/run-in-boston.html</guid>
+        <link>http://localhost:4000/musings/reflections/2021/11/07/run-in-boston.html</link>
+        <guid isPermaLink="true">http://localhost:4000/musings/reflections/2021/11/07/run-in-boston.html</guid>
         
         
         <category>musings</category>
@@ -286,8 +286,8 @@
 &lt;p&gt;&lt;em&gt;@out.of.desk&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 03 May 2021 00:00:00 -0700</pubDate>
-        <link>https://outofdesk.github.io/endurance/reflections/outdoors/2021/05/03/grand-canyon-r2r2r.html</link>
-        <guid isPermaLink="true">https://outofdesk.github.io/endurance/reflections/outdoors/2021/05/03/grand-canyon-r2r2r.html</guid>
+        <link>http://localhost:4000/endurance/reflections/outdoors/2021/05/03/grand-canyon-r2r2r.html</link>
+        <guid isPermaLink="true">http://localhost:4000/endurance/reflections/outdoors/2021/05/03/grand-canyon-r2r2r.html</guid>
         
         
         <category>endurance</category>
@@ -349,8 +349,8 @@
 &lt;p&gt;&lt;em&gt;@out.of.desk&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 02 Apr 2021 00:00:00 -0700</pubDate>
-        <link>https://outofdesk.github.io/running/musings/2021/04/02/runs-in-thoughts-in-runs.html</link>
-        <guid isPermaLink="true">https://outofdesk.github.io/running/musings/2021/04/02/runs-in-thoughts-in-runs.html</guid>
+        <link>http://localhost:4000/running/musings/2021/04/02/runs-in-thoughts-in-runs.html</link>
+        <guid isPermaLink="true">http://localhost:4000/running/musings/2021/04/02/runs-in-thoughts-in-runs.html</guid>
         
         
         <category>running</category>
@@ -423,8 +423,8 @@
 &lt;p&gt;&lt;em&gt;@out.of.desk&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 28 Feb 2021 23:00:00 -0800</pubDate>
-        <link>https://outofdesk.github.io/reflections/2021/02/28/an-old-memory.html</link>
-        <guid isPermaLink="true">https://outofdesk.github.io/reflections/2021/02/28/an-old-memory.html</guid>
+        <link>http://localhost:4000/reflections/2021/02/28/an-old-memory.html</link>
+        <guid isPermaLink="true">http://localhost:4000/reflections/2021/02/28/an-old-memory.html</guid>
         
         
         <category>reflections</category>
@@ -485,8 +485,8 @@ Avoidable failures are common and persistent, not to mention demoralizing and fr
 &lt;p&gt;&lt;em&gt;@out.of.desk&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 27 Jun 2020 00:00:00 -0700</pubDate>
-        <link>https://outofdesk.github.io/musings/2020/06/27/simple-and-obvious.html</link>
-        <guid isPermaLink="true">https://outofdesk.github.io/musings/2020/06/27/simple-and-obvious.html</guid>
+        <link>http://localhost:4000/musings/2020/06/27/simple-and-obvious.html</link>
+        <guid isPermaLink="true">http://localhost:4000/musings/2020/06/27/simple-and-obvious.html</guid>
         
         
         <category>musings</category>
@@ -532,7 +532,7 @@ We all have various sides of our self, and each of them has their own thoughts a
 
 &lt;p&gt;I also miss the desk setup and multiple monitors I used to have in the office, but for now, I’m managing with an REI camp chair, a laptop and a monitor. It’s easy to get lost in work and forget how or where I’m sitting at home. Stiffness from bad body postures used to be a problem in the first weeks, but I’ve gotten more mindful about that over time.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://outofdesk.github.io/static/img/pandemic/engineer.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/static/img/pandemic/engineer.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I like that I don’t have to wait for meeting rooms to free up to chat with people - they’re just a few clicks and a video call away. I think it’s more productive and collaborative than an open-office setting.&lt;/p&gt;
 
@@ -549,7 +549,7 @@ We all have various sides of our self, and each of them has their own thoughts a
 
 &lt;p&gt;The absence or lack of something usually makes you realize its importance, but it’s interesting in a way that having more, and not less, time in hand has made me realize how much of it was being taken for granted.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://outofdesk.github.io/static/img/pandemic/reading.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/static/img/pandemic/reading.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I’m also starting to see the benefits of consistency and discipline, of cultivating enough patience to do something everyday despite the initial aversion and resistance, and how it can make a big difference relatively quickly. Though I have been trying to get into the habit of writing for over a year, I’ve only been this consistent and serious about it since I started working from home. The world had to hit brakes on its operations and get rid of distractions for me to start writing. It’s like the Universe really wanted to teach me good habits.&lt;/p&gt;
 
@@ -558,14 +558,14 @@ We all have various sides of our self, and each of them has their own thoughts a
 
 &lt;p&gt;I started running a couple of years ago for the fun of it, and maybe a little to lose weight too, but over time, I started getting obsessed over quantifying the benefits of every activity - the calories burnt, pounds lost, and speed etc,. I’m now back to those simple days. Not every run now goes in Strava, not every race has to end up in PRs, not every walk now is a hike and not every bike ride is captured in photos.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://outofdesk.github.io/static/img/pandemic/outdoor.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/static/img/pandemic/outdoor.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The solace I used to find in the outdoors, I’ve found it in reading and writing too. Although there is something magical about being out in nature, I realize that one of the reasons it felt so good was the time it gave me to pause, and reflect on things. Turns out books do the same.&lt;/p&gt;
 
 &lt;h4 id=&quot;as-an-introvert&quot;&gt;As an introvert,&lt;/h4&gt;
 &lt;p&gt;I’m in love with the silence. It not only helps me think clearly, and be more productive at work, it also puts me in a much better mood overall. Even after working long hours, I find that I have the time and energy to go on walks with my wife, cook, go for a run, read, write and talk to friends and family on the phone.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://outofdesk.github.io/static/img/pandemic/introvert.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/static/img/pandemic/introvert.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I like the idea of minimizing sounds that fall in my ears, the idea of letting them in willingly rather than being bombarded with unnecessary and unsolicited noises all day long and being forcefully made a passive member in every conversation around me.&lt;/p&gt;
 
@@ -574,7 +574,7 @@ We all have various sides of our self, and each of them has their own thoughts a
 
 &lt;p&gt;While I’m concerned about the well-being of older members of my family back home and wish I were there, a part of me feels relieved that I’m not with them to inadvertently infect them.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://outofdesk.github.io/static/img/pandemic/immigrant.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/static/img/pandemic/immigrant.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I see through the lies and the facade of developed societies and feel hopeful and optimistic, to see the potential of the developing nations and their simple, yet effective ways of doing things.&lt;/p&gt;
 
@@ -583,7 +583,7 @@ We all have various sides of our self, and each of them has their own thoughts a
 &lt;h4 id=&quot;as-an-animal-rights-believer&quot;&gt;As an animal rights believer,&lt;/h4&gt;
 &lt;p&gt;I love that non-humans have started to come out of hiding and are doing so without the fear of us harming, or killing them, that at least for a little while they regain their rights over the resources of this planet, and not everything they consume are left-overs from humans.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://outofdesk.github.io/static/img/pandemic/animals.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/static/img/pandemic/animals.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I’m terribly sad and shocked by the fate of hundreds of thousands, if not millions, of animals in factory farms that were killed because humans couldn’t afford to raise and kill them to eat. I can’t decide which is worse, simply killing them, or killing to eat them.&lt;/p&gt;
 
@@ -622,8 +622,8 @@ I’ve come to shut down the machine whose emergency brake you couldn’t find
 &lt;p&gt;&lt;em&gt;@out.of.desk&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 14 May 2020 00:00:00 -0700</pubDate>
-        <link>https://outofdesk.github.io/reflections/2020/05/14/pandemic.html</link>
-        <guid isPermaLink="true">https://outofdesk.github.io/reflections/2020/05/14/pandemic.html</guid>
+        <link>http://localhost:4000/reflections/2020/05/14/pandemic.html</link>
+        <guid isPermaLink="true">http://localhost:4000/reflections/2020/05/14/pandemic.html</guid>
         
         
         <category>reflections</category>
