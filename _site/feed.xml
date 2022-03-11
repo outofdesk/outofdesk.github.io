@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>out.of.desk</title>
-    <description>My Online Notepad</description>
+    <description>My Public Experiments in Writing</description>
     <link>https://outofdesk.github.io/</link>
     <atom:link href="https://outofdesk.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 09 Mar 2022 20:50:40 -0800</pubDate>
-    <lastBuildDate>Wed, 09 Mar 2022 20:50:40 -0800</lastBuildDate>
+    <pubDate>Thu, 10 Mar 2022 18:17:25 -0800</pubDate>
+    <lastBuildDate>Thu, 10 Mar 2022 18:17:25 -0800</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -24,15 +24,13 @@
 &lt;hr /&gt;
 </description>
         <pubDate>Tue, 08 Mar 2022 23:00:00 -0800</pubDate>
-        <link>https://outofdesk.github.io/mindset/habits/change/2022/03/08/adopting-and-embracing.html</link>
-        <guid isPermaLink="true">https://outofdesk.github.io/mindset/habits/change/2022/03/08/adopting-and-embracing.html</guid>
+        <link>https://outofdesk.github.io/mindset/musings/2022/03/08/adopting-and-embracing.html</link>
+        <guid isPermaLink="true">https://outofdesk.github.io/mindset/musings/2022/03/08/adopting-and-embracing.html</guid>
         
         
         <category>mindset</category>
         
-        <category>habits</category>
-        
-        <category>change</category>
+        <category>musings</category>
         
       </item>
     
@@ -86,17 +84,13 @@
 &lt;hr /&gt;
 </description>
         <pubDate>Sat, 29 Jan 2022 23:00:00 -0800</pubDate>
-        <link>https://outofdesk.github.io/technology/evolution/maturity/engineering/2022/01/29/maturing.html</link>
-        <guid isPermaLink="true">https://outofdesk.github.io/technology/evolution/maturity/engineering/2022/01/29/maturing.html</guid>
+        <link>https://outofdesk.github.io/technology/musings/2022/01/29/maturing.html</link>
+        <guid isPermaLink="true">https://outofdesk.github.io/technology/musings/2022/01/29/maturing.html</guid>
         
         
         <category>technology</category>
         
-        <category>evolution</category>
-        
-        <category>maturity</category>
-        
-        <category>engineering</category>
+        <category>musings</category>
         
       </item>
     
@@ -137,17 +131,11 @@
 &lt;p&gt;If you have any comments about the post, send me a message on any of my social media profiles, or email me at &lt;em&gt;contact.outofdesk [at] gmail [dot] com&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 22 Jan 2022 23:00:00 -0800</pubDate>
-        <link>https://outofdesk.github.io/cloud/technology/cloud-native/software/2022/01/22/cloud-native-patterns.html</link>
-        <guid isPermaLink="true">https://outofdesk.github.io/cloud/technology/cloud-native/software/2022/01/22/cloud-native-patterns.html</guid>
+        <link>https://outofdesk.github.io/technology/2022/01/22/cloud-native-patterns.html</link>
+        <guid isPermaLink="true">https://outofdesk.github.io/technology/2022/01/22/cloud-native-patterns.html</guid>
         
-        
-        <category>cloud</category>
         
         <category>technology</category>
-        
-        <category>cloud-native</category>
-        
-        <category>software</category>
         
       </item>
     
@@ -203,17 +191,13 @@
 &lt;p&gt;&lt;em&gt;@out.of.desk&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 07 Nov 2021 00:00:00 -0700</pubDate>
-        <link>https://outofdesk.github.io/musings/society/culture/travel/2021/11/07/run-in-boston.html</link>
-        <guid isPermaLink="true">https://outofdesk.github.io/musings/society/culture/travel/2021/11/07/run-in-boston.html</guid>
+        <link>https://outofdesk.github.io/musings/reflections/2021/11/07/run-in-boston.html</link>
+        <guid isPermaLink="true">https://outofdesk.github.io/musings/reflections/2021/11/07/run-in-boston.html</guid>
         
         
         <category>musings</category>
         
-        <category>society</category>
-        
-        <category>culture</category>
-        
-        <category>travel</category>
+        <category>reflections</category>
         
       </item>
     
@@ -302,15 +286,15 @@
 &lt;p&gt;&lt;em&gt;@out.of.desk&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 03 May 2021 00:00:00 -0700</pubDate>
-        <link>https://outofdesk.github.io/hiking/reflections/endurance/2021/05/03/grand-canyon-r2r2r.html</link>
-        <guid isPermaLink="true">https://outofdesk.github.io/hiking/reflections/endurance/2021/05/03/grand-canyon-r2r2r.html</guid>
+        <link>https://outofdesk.github.io/endurance/reflections/outdoors/2021/05/03/grand-canyon-r2r2r.html</link>
+        <guid isPermaLink="true">https://outofdesk.github.io/endurance/reflections/outdoors/2021/05/03/grand-canyon-r2r2r.html</guid>
         
         
-        <category>hiking</category>
+        <category>endurance</category>
         
         <category>reflections</category>
         
-        <category>endurance</category>
+        <category>outdoors</category>
         
       </item>
     
@@ -365,13 +349,13 @@
 &lt;p&gt;&lt;em&gt;@out.of.desk&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 02 Apr 2021 00:00:00 -0700</pubDate>
-        <link>https://outofdesk.github.io/running/thoughts/2021/04/02/runs-in-thoughts-in-runs.html</link>
-        <guid isPermaLink="true">https://outofdesk.github.io/running/thoughts/2021/04/02/runs-in-thoughts-in-runs.html</guid>
+        <link>https://outofdesk.github.io/running/musings/2021/04/02/runs-in-thoughts-in-runs.html</link>
+        <guid isPermaLink="true">https://outofdesk.github.io/running/musings/2021/04/02/runs-in-thoughts-in-runs.html</guid>
         
         
         <category>running</category>
         
-        <category>thoughts</category>
+        <category>musings</category>
         
       </item>
     
@@ -439,17 +423,11 @@
 &lt;p&gt;&lt;em&gt;@out.of.desk&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 28 Feb 2021 23:00:00 -0800</pubDate>
-        <link>https://outofdesk.github.io/musings/philosophy/meaning/passion/2021/02/28/an-old-memory.html</link>
-        <guid isPermaLink="true">https://outofdesk.github.io/musings/philosophy/meaning/passion/2021/02/28/an-old-memory.html</guid>
+        <link>https://outofdesk.github.io/reflections/2021/02/28/an-old-memory.html</link>
+        <guid isPermaLink="true">https://outofdesk.github.io/reflections/2021/02/28/an-old-memory.html</guid>
         
         
-        <category>musings</category>
-        
-        <category>philosophy</category>
-        
-        <category>meaning</category>
-        
-        <category>passion</category>
+        <category>reflections</category>
         
       </item>
     
@@ -507,17 +485,11 @@ Avoidable failures are common and persistent, not to mention demoralizing and fr
 &lt;p&gt;&lt;em&gt;@out.of.desk&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 27 Jun 2020 00:00:00 -0700</pubDate>
-        <link>https://outofdesk.github.io/ineptitude/productivity/learning/checklists/2020/06/27/simple-and-obvious.html</link>
-        <guid isPermaLink="true">https://outofdesk.github.io/ineptitude/productivity/learning/checklists/2020/06/27/simple-and-obvious.html</guid>
+        <link>https://outofdesk.github.io/musings/2020/06/27/simple-and-obvious.html</link>
+        <guid isPermaLink="true">https://outofdesk.github.io/musings/2020/06/27/simple-and-obvious.html</guid>
         
         
-        <category>ineptitude</category>
-        
-        <category>productivity</category>
-        
-        <category>learning</category>
-        
-        <category>checklists</category>
+        <category>musings</category>
         
       </item>
     
@@ -650,15 +622,11 @@ I’ve come to shut down the machine whose emergency brake you couldn’t find
 &lt;p&gt;&lt;em&gt;@out.of.desk&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 14 May 2020 00:00:00 -0700</pubDate>
-        <link>https://outofdesk.github.io/reflections/self/pandemic/2020/05/14/pandemic.html</link>
-        <guid isPermaLink="true">https://outofdesk.github.io/reflections/self/pandemic/2020/05/14/pandemic.html</guid>
+        <link>https://outofdesk.github.io/reflections/2020/05/14/pandemic.html</link>
+        <guid isPermaLink="true">https://outofdesk.github.io/reflections/2020/05/14/pandemic.html</guid>
         
         
         <category>reflections</category>
-        
-        <category>self</category>
-        
-        <category>pandemic</category>
         
       </item>
     

@@ -2,7 +2,7 @@
 layout: post
 title:  Grand Canyon R2R2R
 date:   2021-05-03 00:00:00 -0700
-categories: [hiking, reflections, endurance]
+categories: [endurance, reflections, outdoors]
 description: "Notes and reflections from a day of hiking the Grand Canyon rim-to-rim-to-rim(R2R2R)"
 image: ""
 ---

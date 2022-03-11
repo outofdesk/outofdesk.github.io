@@ -2,7 +2,7 @@
 layout: post
 title:  "Fine Walls"
 date:   2020-04-07 00:00:00 -0700
-categories: [musings, society, culture]
+categories: [musings]
 description: ""
 image: "fine-walls/cover.png"
 ---

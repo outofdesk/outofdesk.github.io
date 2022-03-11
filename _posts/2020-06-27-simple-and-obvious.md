@@ -2,7 +2,7 @@
 layout: post
 title:  About Simple and Obvious Things
 date:   2020-06-27 00:00:00 -0700
-categories: [ineptitude, productivity, learning, checklists]
+categories: [musings]
 description: ""
 image: ""
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Book Notes: Cloud Native Patterns"
 date:   2022-01-23 00:00:00 -0700
-categories: [cloud, technology, cloud-native, software]
+categories: [technology]
 description: ""
 image: ""
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  An Old Memory
 date:   2021-03-01 00:00:00 -0700
-categories: [musings, philosophy, meaning, passion]
+categories: [reflections]
 description: ""
 image: ""
 ---

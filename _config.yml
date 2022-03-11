@@ -1,5 +1,5 @@
 title: out.of.desk
-description: My Online Notepad
+description: My Public Experiments in Writing
 author: out.of.desk
 github: https://github.com/ggauravr
 about: My Public Experiments in Writing
@@ -37,8 +37,8 @@ social:
 urls:
     - text: About Me
       url: /about/
-    - text: Favorites
-      url: /reading/
+    - text: Categories
+      url: /categories/
     - text: Strava
       url: https://www.strava.com/athletes/outofdesk
     - text: Instagram

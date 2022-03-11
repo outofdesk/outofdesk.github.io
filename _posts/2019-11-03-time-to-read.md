@@ -2,7 +2,7 @@
 layout: post
 title:  "Reading Time"
 date:   2019-11-03 00:00:00 -0700
-categories: [reading, time]
+categories: [reading]
 description: ""
 image: "time-to-read/cover.png"
 ---

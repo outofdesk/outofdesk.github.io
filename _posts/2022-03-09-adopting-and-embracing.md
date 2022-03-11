@@ -2,7 +2,7 @@
 layout: post
 title:  "Adopting and Embracing"
 date:   2022-03-09 00:00:00 -0700
-categories: [mindset, habits, change]
+categories: [mindset, musings]
 description: ""
 image: ""
 ---

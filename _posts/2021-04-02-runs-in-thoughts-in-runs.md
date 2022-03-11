@@ -2,7 +2,7 @@
 layout: post
 title:  Runs in Thoughts in Runs
 date:   2021-04-02 00:00:00 -0700
-categories: [running, thoughts]
+categories: [running, musings]
 description: ""
 image: ""
 ---
