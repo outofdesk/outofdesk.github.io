@@ -105,7 +105,9 @@ p.categories {
 }
 
 a.category {
-  font-size: 1.2em;
+  font-size: 1.0em;
+  color: #444;
+  text-decoration: underline;
 }
 a.category::before {
   content: '#';
