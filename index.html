@@ -9,7 +9,7 @@ title: Blog
     {% for post in paginator.posts %}
       <li>
         <a class="title" href="{{ post.url }}">{{ post.title }}</a>
-        <blockquote>{{ post.description }}</blockquote>
+          <!-- <blockquote>{{ post.description }}</blockquote> -->
         <p class="categories">
           posted in&nbsp;
           {% for category in post.categories %}

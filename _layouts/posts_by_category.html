@@ -2,7 +2,7 @@
 layout: default
 ---
 <header class="post-header">
-  <h1 class="post-title">Posts by category</h1>
+  <h1 class="post-title">Posts by Category</h1>
 </header>
 
 <div class="post-content">
@@ -19,7 +19,7 @@ layout: default
   {% endfor %}
 
   <hr />
-  <ul>
+  <ul class="posts">
   {% if site.categories[page.categories] %}
     {% for post in site.categories[page.categories] %}
       <!-- {% capture post_year %}{{ post.date | date: '%Y' }}{% endcapture %} -->
@@ -38,7 +38,16 @@ layout: default
         {% endif %}
       {% endif %} -->
         <!-- <ul class="posts"> -->
-          <li><a class="title" href="{{ post.url }}">{{ post.title }}</a> &raquo; <i><span>{{ post.date | date_to_string }}</span></i></li>
+          <li>
+            <a class="title" href="{{ post.url }}">{{ post.title }}</a>
+            <p class="categories">
+              posted in&nbsp;
+              {% for category in post.categories %}
+                <a class="category" href="/category/{{ category }}">{{ category }}</a>
+              {% endfor %}
+              <span class="date">{{ post.date | date_to_string }}</span>
+            </p>
+           </li>
         <!-- </ul> -->
       <!-- {% if forloop.last %} -->
         <!-- </div> -->
@@ -46,6 +55,6 @@ layout: default
     {% endfor %}
   </ul>
   {% else %}
-    <p>There are no posts in this categories.</p>
+    <p>There are no posts in this category</p>
   {% endif %}
 </div>
