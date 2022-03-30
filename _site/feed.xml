@@ -5,8 +5,8 @@
     <description>My Public Experiments in Writing</description>
     <link>https://outofdesk.github.io/</link>
     <atom:link href="https://outofdesk.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 29 Mar 2022 17:12:55 -0700</pubDate>
-    <lastBuildDate>Tue, 29 Mar 2022 17:12:55 -0700</lastBuildDate>
+    <pubDate>Tue, 29 Mar 2022 17:15:37 -0700</pubDate>
+    <lastBuildDate>Tue, 29 Mar 2022 17:15:37 -0700</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -20,7 +20,7 @@
 &lt;p&gt;The reasons as explained by Brooks are three-fold, which I thik can be reduced to the following two, after merging last two of the original three together&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Any time spent in getting the newer members productive, is time stolen from the time until the deadline&lt;/li&gt;
-  &lt;li&gt;Inherent lack of divisibility – The less divisible the tasks are, the more the time spent in managing their dependencies and communication. Again, any time not directly spent in working towards the delivery is time stolen from the time until the deadline, at least in the short-term. The famous example captures the essence of this quite aptly: “While one woman can deliver a baby in nine months, nine women can’t deliver a baby in one month”. Since the “work”, in the example, is completely indivisible, the benefit of adding more manpower, or womanpower in this case, yields zero benefit&lt;/li&gt;
+  &lt;li&gt;Inherent lack of divisibility – The less divisible the tasks are, the more the time spent in managing their dependencies and communication. Again, any time not directly spent in working towards the delivery is time stolen from the time until the deadline, at least in the short-term. The famous example captures the essence of this quite aptly: “While one woman can deliver a baby in nine months, nine women can’t deliver a baby in one month”. Since the “work”, in the example, is completely indivisible, the benefit of adding more manpower, or womanpower in this case, yields zero benefit.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -28,7 +28,7 @@
 &lt;h4 id=&quot;amdahls-law&quot;&gt;Amdahl’s Law&lt;/h4&gt;
 &lt;hr /&gt;
 
-&lt;p&gt;Amdahl’s law, presented by Gene Amdahl in 1967, states that “the overall performance improvement gained by optimizing a single part of a system is limited by the fraction of time that the improved part is actually used”. It is often used in parallel computing to predict the improvement in performance achieved by using multiple processors. An example of this is that if a task is 10% non-parallelizable, then any benefit of adding more processors only applies for the rest of the 90% of it.&lt;/p&gt;
+&lt;p&gt;Amdahl’s law, presented by Gene Amdahl in 1967, states that &lt;em&gt;“the overall performance improvement gained by optimizing a single part of a system is limited by the fraction of time that the improved part is actually used”&lt;/em&gt;. It is often used in parallel computing to predict the improvement in performance achieved by using multiple processors. An example of this is that if a task is 10% non-parallelizable, then any benefit of adding more processors only applies for the rest of the 90% of it.&lt;/p&gt;
 
 &lt;p&gt;While the language used to describe them and the realms they are applied in are different, the idea is the same. In fact, Amdahl’s law is a general case of Brooks’ law.&lt;/p&gt;
 
@@ -39,6 +39,16 @@
 &lt;p&gt;A deadline is the time at which you’re expected to be completed with the project. Let’s say the deadline is time D. If the time at which you add more resources is time T, then you’d get the most benefit out of adding more people to a project if the period they are actually contributing directly towards the release is D-T, i.e. all the rest of the time until the deadline. But since a non-trivial amount of time is lost in bringing them up to speed, your team ends up spending until, let’s say, time X. Hence the fraction of time the additional resources(improved part) are actually used is limited to &lt;em&gt;D-T-X&lt;/em&gt; at most, assuming no further dependencies and communication. If the project is already running behind schedule, it means that you just stole precious time, most likely leading to missing the deadline. The overall benefit is hence limited by the indivisibility of tasks in some parts of the project.&lt;/p&gt;
 
 &lt;hr /&gt;
+&lt;h2 id=&quot;recommended-reading&quot;&gt;Recommended Reading&lt;/h2&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Brooks%27s_law&quot;&gt;Brooks’ Law&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Amdahl%27s_law&quot;&gt;Amdahl’s Law&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;@out.of.desk&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 29 Mar 2022 00:00:00 -0700</pubDate>
         <link>https://outofdesk.github.io/management/2022/03/29/brooks-law-amdahls-law.html</link>
