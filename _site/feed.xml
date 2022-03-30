@@ -5,9 +5,49 @@
     <description>My Public Experiments in Writing</description>
     <link>https://outofdesk.github.io/</link>
     <atom:link href="https://outofdesk.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 19 Mar 2022 20:40:22 -0700</pubDate>
-    <lastBuildDate>Sat, 19 Mar 2022 20:40:22 -0700</lastBuildDate>
+    <pubDate>Tue, 29 Mar 2022 17:11:54 -0700</pubDate>
+    <lastBuildDate>Tue, 29 Mar 2022 17:11:54 -0700</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Brooks' Law as a Special Case of Amdahl's Law</title>
+        <description>&lt;hr /&gt;
+&lt;h4 id=&quot;brooks-law&quot;&gt;Brooks’ Law&lt;/h4&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;From Wikipedia: &lt;em&gt;“Brooks’ law is an observation about software project management according to which “adding manpower to a late software project makes it later”&lt;/em&gt;. This was put forth by Fred Brooks in his classic book “The Mythical Man Month”, in 1975.&lt;/p&gt;
+
+&lt;p&gt;The reasons as explained by Brooks are three-fold, which I thik can be reduced to the following two, after merging last two of the original three together&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Any time spent in getting the newer members productive, is time stolen from the time until the deadline&lt;/li&gt;
+  &lt;li&gt;Inherent lack of divisibility – The less divisible the tasks are, the more the time spent in managing their dependencies and communication. Again, any time not directly spent in working towards the delivery is time stolen from the time until the deadline, at least in the short-term. The famous example captures the essence of this quite aptly: “While one woman can deliver a baby in nine months, nine women can’t deliver a baby in one month”. Since the “work”, in the example, is completely indivisible, the benefit of adding more manpower, or womanpower in this case, yields zero benefit&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;amdahls-law&quot;&gt;Amdahl’s Law&lt;/h4&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Amdahl’s law, presented by Gene Amdahl in 1967, states that “the overall performance improvement gained by optimizing a single part of a system is limited by the fraction of time that the improved part is actually used”. It is often used in parallel computing to predict the improvement in performance achieved by using multiple processors. An example of this is that if a task is 10% non-parallelizable, then any benefit of adding more processors only applies for the rest of the 90% of it.&lt;/p&gt;
+
+&lt;p&gt;While the language used to describe them and the realms they are applied in are different, the idea is the same. In fact, Amdahl’s law is a general case of Brooks’ law.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h4 id=&quot;amdahls-law-in-project-management&quot;&gt;Amdahl’s Law in Project Management&lt;/h4&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;A deadline is the time at which you’re expected to be completed with the project. Let’s say the deadline is time D. If the time at which you add more resources is time T, then you’d get the most benefit out of adding more people to a project if the period they are actually contributing directly towards the release is D-T, i.e. all the rest of the time until the deadline. But since a non-trivial amount of time is lost in bringing them up to speed, your team ends up spending until, let’s say, time X. Hence the fraction of time the additional resources(improved part) are actually used is limited to &lt;em&gt;D-T-X&lt;/em&gt; at most, assuming no further dependencies and communication. If the project is already running behind schedule, it means that you just stole precious time, most likely leading to missing the deadline. The overall benefit is hence limited by the indivisibility of tasks in some parts of the project.&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Tue, 29 Mar 2022 00:00:00 -0700</pubDate>
+        <link>https://outofdesk.github.io/management/2022/03/29/brooks-law-amdahls-law.html</link>
+        <guid isPermaLink="true">https://outofdesk.github.io/management/2022/03/29/brooks-law-amdahls-law.html</guid>
+        
+        
+        <category>management</category>
+        
+      </item>
     
       <item>
         <title>Adopting and Embracing</title>
@@ -490,143 +530,6 @@ Avoidable failures are common and persistent, not to mention demoralizing and fr
         
         
         <category>musings</category>
-        
-      </item>
-    
-      <item>
-        <title>A Chat With the Different Selfs</title>
-        <description>&lt;blockquote&gt;
-We all have various sides of our self, and each of them has their own thoughts and stories about experiences. And though there are hundreds of dimensions to it, there are some we identify ourselves with more than others, some that feel more us to us than others.
-&lt;/blockquote&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;When I think about how the pandemic has affected me, I can’t think of one absolute way it has. The experience hasn’t been binary, one that can be categorized into good or bad. We all have various sides of our &lt;em&gt;self&lt;/em&gt;, and each of them has their own thoughts and stories about experiences. And though there are hundreds of dimensions to it, there are some we identify ourselves with more than others, some that feel more us to us than others.&lt;/p&gt;
-
-&lt;p&gt;I’ve tried to think about what those are for me, bring them to light, and get them to talk. Most of them have adapted quite well to the changes necessitated by the constraints of the situation.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-different-selfs&quot;&gt;The different selfs&lt;/h2&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;Since we spend a better part of our lives doing our day job, it naturally defines us in a significant way, if not completely. I work as a software engineer, and it’s one of my important identities, it’s also the one that’s most visible or known to the outside world.&lt;/p&gt;
-
-&lt;p&gt;One of the integral parts of my job, an activity that is also close to my heart, is to always keep learning. That’s another thing I identify myself with - as someone eager to learn and open to change.&lt;/p&gt;
-
-&lt;p&gt;A fundamental, and in some ways more important, part of my identity is one that’s obsessed with practising a healthy lifestyle. I say important because I believe it nourishes the other selfs, and fundamental because it’s less fluid in nature than the others.&lt;/p&gt;
-
-&lt;p&gt;One other important dimension is the part of me that cares deeply about animals. I say &lt;em&gt;cares&lt;/em&gt; and not &lt;em&gt;loves&lt;/em&gt;, because that’s an important distinction, and even though I &lt;em&gt;love&lt;/em&gt; some animals, I want to be mindful about the difference.&lt;/p&gt;
-
-&lt;p&gt;There’s one other aspect of me has stood the test of time. I don’t have much control over it, and I’ve had a love-hate relationship with it, more hate than love - my introverted nature. More hate than love because I’ve only recently started to accept, and nurture it, rather than treating it like a problem that needed fixing.&lt;/p&gt;
-
-&lt;p&gt;The next one is a close kin of the self that wants to lead a healthy life, but is more opinionated on how to go about it. It believes in spending time in nature, and doing physically challenging things to keep the body and the mind in good shape. The curious and learning part of me constantly feeds this self, with new ideas, challenges to tackle and goals to pursue.&lt;/p&gt;
-
-&lt;p&gt;The last one I can think of is the most volatile of them all, and has only come to consciousness very recently. It swims up to the surface and goes back to hiding depending on the things that’s happening around me - the one that thinks of itself as an immigrant in a foreign country, a guest in someone else’s place.&lt;/p&gt;
-
-&lt;p&gt;Here I try to prod each one of them to express their thoughts about how they feel being sheltered in place.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h4 id=&quot;as-a-software-engineer&quot;&gt;As a software engineer,&lt;/h4&gt;
-&lt;p&gt;it’s fairly easy to work remotely and still be productive. While I miss the walks and talks around the office with my peers to get coffee during the day, I’ve made up for it by experimenting with different kinds of plant-based milk coffees at home. After several weeks of trial-and-error, it’s getting close to my liking.&lt;/p&gt;
-
-&lt;p&gt;I hate that wifi at home is not as good and causes, part frustrating, part funny, technical issues while talking to my colleagues on video calls.&lt;/p&gt;
-
-&lt;p&gt;I also miss the desk setup and multiple monitors I used to have in the office, but for now, I’m managing with an REI camp chair, a laptop and a monitor. It’s easy to get lost in work and forget how or where I’m sitting at home. Stiffness from bad body postures used to be a problem in the first weeks, but I’ve gotten more mindful about that over time.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://outofdesk.github.io/static/img/pandemic/engineer.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I like that I don’t have to wait for meeting rooms to free up to chat with people - they’re just a few clicks and a video call away. I think it’s more productive and collaborative than an open-office setting.&lt;/p&gt;
-
-&lt;p&gt;I like that I don’t have to rush to catch the train and sit through a long commute to get to work in the morning, and that I can start working early in the day when my mind is at its best.&lt;/p&gt;
-
-&lt;p&gt;In the first few weeks, I worked more than usual, and so did my peers. But I’ve gotten better at drawing boundaries between work and personal life, even without a physical one separating the two.&lt;/p&gt;
-
-&lt;p&gt;One other thing I don’t miss is the incessant chatter in the office, where unnecessary small talk is confused with collaboration and coding is confused with mindless typing.&lt;/p&gt;
-
-&lt;p&gt;Given the things I don’t miss from going to work and the things I love about working from home, I’d do more remote work going forward for sure, and hope companies embrace it more too.&lt;/p&gt;
-
-&lt;h4 id=&quot;as-an-avid-reader&quot;&gt;As an avid reader,&lt;/h4&gt;
-&lt;p&gt;I like that the two or more hours I used to spend riding in train to go to work, I now spend riding in train of thoughts, one that takes me to farther and better places. Reading not only helps me unplug from the stress and concerns of work, but the comfort and peace of doing it from home improves my mood. The absence of distractions of a typical workday has helped me do more of a fewer things rather than juggle a little bit of everything. Long stretches of undistracted time allows me to focus on reading books, long-form articles and write more, rather than filling the tiny slices of time over the day with news and junk.&lt;/p&gt;
-
-&lt;p&gt;The absence or lack of something usually makes you realize its importance, but it’s interesting in a way that having more, and not less, time in hand has made me realize how much of it was being taken for granted.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://outofdesk.github.io/static/img/pandemic/reading.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I’m also starting to see the benefits of consistency and discipline, of cultivating enough patience to do something everyday despite the initial aversion and resistance, and how it can make a big difference relatively quickly. Though I have been trying to get into the habit of writing for over a year, I’ve only been this consistent and serious about it since I started working from home. The world had to hit brakes on its operations and get rid of distractions for me to start writing. It’s like the Universe really wanted to teach me good habits.&lt;/p&gt;
-
-&lt;h4 id=&quot;as-an-outdoor-enthusiast&quot;&gt;As an outdoor enthusiast,&lt;/h4&gt;
-&lt;p&gt;I was really worried about not being able to travel. I had a few races that I had signed up for and a few trips I had planned for this year. But sitting at home, not having hiked or biked in a couple of months now has taught me that I don’t need to go to new places to freshen up my mind, or to enjoy outdoors every time I head out. That I can just step out of the door and start running until I get tired and run back. That it can be that simple.&lt;/p&gt;
-
-&lt;p&gt;I started running a couple of years ago for the fun of it, and maybe a little to lose weight too, but over time, I started getting obsessed over quantifying the benefits of every activity - the calories burnt, pounds lost, and speed etc,. I’m now back to those simple days. Not every run now goes in Strava, not every race has to end up in PRs, not every walk now is a hike and not every bike ride is captured in photos.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://outofdesk.github.io/static/img/pandemic/outdoor.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The solace I used to find in the outdoors, I’ve found it in reading and writing too. Although there is something magical about being out in nature, I realize that one of the reasons it felt so good was the time it gave me to pause, and reflect on things. Turns out books do the same.&lt;/p&gt;
-
-&lt;h4 id=&quot;as-an-introvert&quot;&gt;As an introvert,&lt;/h4&gt;
-&lt;p&gt;I’m in love with the silence. It not only helps me think clearly, and be more productive at work, it also puts me in a much better mood overall. Even after working long hours, I find that I have the time and energy to go on walks with my wife, cook, go for a run, read, write and talk to friends and family on the phone.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://outofdesk.github.io/static/img/pandemic/introvert.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I like the idea of minimizing sounds that fall in my ears, the idea of letting them in willingly rather than being bombarded with unnecessary and unsolicited noises all day long and being forcefully made a passive member in every conversation around me.&lt;/p&gt;
-
-&lt;h4 id=&quot;as-an-immigrant&quot;&gt;As an immigrant&lt;/h4&gt;
-&lt;p&gt;from India, I see the contrast in how people from the two countries are reacting to the pandemic, both common people and those in power. Being from the majority group in India, and a part of one of the minority groups(immigrants) here in the US, it gives some perspectives on how stereotypes and misinformation against minorities are used for political and capital gains.&lt;/p&gt;
-
-&lt;p&gt;While I’m concerned about the well-being of older members of my family back home and wish I were there, a part of me feels relieved that I’m not with them to inadvertently infect them.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://outofdesk.github.io/static/img/pandemic/immigrant.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I see through the lies and the facade of developed societies and feel hopeful and optimistic, to see the potential of the developing nations and their simple, yet effective ways of doing things.&lt;/p&gt;
-
-&lt;p&gt;Looking at the things that have worked for countries and things that haven’t, I realize that more technology is not necessarily the right solution to all problems. Common sense and empirical evidence are perfectly fine at times.&lt;/p&gt;
-
-&lt;h4 id=&quot;as-an-animal-rights-believer&quot;&gt;As an animal rights believer,&lt;/h4&gt;
-&lt;p&gt;I love that non-humans have started to come out of hiding and are doing so without the fear of us harming, or killing them, that at least for a little while they regain their rights over the resources of this planet, and not everything they consume are left-overs from humans.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://outofdesk.github.io/static/img/pandemic/animals.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I’m terribly sad and shocked by the fate of hundreds of thousands, if not millions, of animals in factory farms that were killed because humans couldn’t afford to raise and kill them to eat. I can’t decide which is worse, simply killing them, or killing to eat them.&lt;/p&gt;
-
-&lt;p&gt;I like that meat substitutes are seeing tremendous growth and hope that the trend continues long after our lives get back to &lt;em&gt;normal&lt;/em&gt;. Although it’s a result of shortage of meat in markets right now, I hope that reduced meat and dairy consumption becomes the new normal, and people see it for what it actually is, and the problems it puts us into.&lt;/p&gt;
-
-&lt;h2 id=&quot;slow-life-vs-fast-life&quot;&gt;Slow life vs fast life&lt;/h2&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;We say the world has slowed down during the pandemic, but what does it mean to be slow?&lt;/p&gt;
-
-&lt;p&gt;Have we truly slowed now, or were we unnecessarily fast before?&lt;/p&gt;
-
-&lt;p&gt;What was the rush anyway, and where were we all headed?&lt;/p&gt;
-
-&lt;p&gt;Were we navigating towards a perceived sense of growth and success, or were we merely racing towards a mountain of problems created by our own greed and speed?&lt;/p&gt;
-
-&lt;p&gt;And if the rush was in fact necessary, why does slow feel better?&lt;/p&gt;
-
-&lt;p&gt;If this is the age of mind and innovation, than of body and physical labor, then why were cruising in autopilot, without stopping to think about the destination?&lt;/p&gt;
-
-&lt;p&gt;Isn’t it ironic that the fast life we chose in pursuit of something good only made us more miserable and unhealthy, and this life of nothingness is making us happier, and healthier?&lt;/p&gt;
-
-&lt;p&gt;Isn’t it ironic that we’re regaining the connections we had lost, by distancing ourselves? That we had to be physically social-distanced to close the mental and emotional gap between each other?&lt;/p&gt;
-
-&lt;h2 id=&quot;recommended-reading&quot;&gt;Recommended Reading&lt;/h2&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;Ideas and learnings from a lot of reading and collaboration between multiple dimensions of my self has gone into producing this. Of all the news and information that’s out there about the pandemic, a majority of them either portray humans as the victims, not the villains, or blame a specific section of people for all the problems. With such lopsided, and biased opinions floating around, this one below stands out with a different perspective on things and makes for a wonderful read.&lt;/p&gt;
-
-&lt;blockquote&gt;
-I’ve come to shut down the machine whose emergency brake you couldn’t find
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;cite&gt;&lt;a href=&quot;https://lundi.am/What-the-virus-said&quot;&gt;What the virus said&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;@out.of.desk&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 14 May 2020 00:00:00 -0700</pubDate>
-        <link>https://outofdesk.github.io/reflections/2020/05/14/pandemic.html</link>
-        <guid isPermaLink="true">https://outofdesk.github.io/reflections/2020/05/14/pandemic.html</guid>
-        
-        
-        <category>reflections</category>
         
       </item>
     

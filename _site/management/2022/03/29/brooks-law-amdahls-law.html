@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="/static/img/favicon.ico" />
+    <title>Brooks' Law as a Special Case of Amdahl's Law - out.of.desk</title>
+    <meta name="author" content="out.of.desk" />
+    <meta name="description" content="Brooks' Law as a Special Case of Amdahl's Law" />
+    <meta name="keywords" content="Brooks' Law as a Special Case of Amdahl's Law, out.of.desk, management" />
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
+    <meta content="" property="fb:app_id">
+    <meta content="out.of.desk" property="og:site_name">
+
+    
+
+    
+      <meta content="Brooks' Law as a Special Case of Amdahl's Law" property="og:title">
+      <meta content="article" property="og:type">
+    
+
+    
+      <meta content="" property="og:description">
+    
+
+    
+      <meta content="https://outofdesk.github.io/management/2022/03/29/brooks-law-amdahls-law.html" property="og:url">
+    
+
+    
+      <meta content="2022-03-29T00:00:00-07:00" property="article:published_time">
+      <meta content="https://outofdesk.github.io/about/" property="article:author">
+    
+
+    
+      <meta content="https://outofdesk.github.io/static/img/" property="og:image">
+      <meta name="twitter:image:src" content="https://outofdesk.github.io/static/img/">
+    
+
+    
+      
+        <meta content="management" property="article:section">
+      
+    
+
+    
+      
+    
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@">
+    <meta name="twitter:creator" content="@">
+
+    
+      <meta name="twitter:title" content="Brooks' Law as a Special Case of Amdahl's Law">
+    
+
+    
+      <meta name="twitter:url" content="https://outofdesk.github.io/management/2022/03/29/brooks-law-amdahls-law.html">
+    
+
+    
+      <meta name="twitter:description" content="">
+    
+
+    
+
+    <!-- Font awesome icons -->
+    <link href="/static/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
+    <!-- syntax highlighting CSS -->
+    <link rel="stylesheet" href="/static/css/syntax.css">
+    <!-- Bootstrap core CSS -->
+    <link href="/static/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Fonts -->
+    <!-- <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed|Forum|Open+Sans:400,300italic,300,400italic,700&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css"> -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700|Merriweather:300,400:700:900" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/static/css/super-search.css">
+    <link rel="stylesheet" href="/static/css/thickbox.css">
+    <link rel="stylesheet" href="/static/css/projects.css">
+    <link rel="stylesheet" href="/static/css/main.css">
+
+    
+  </head>
+  <body>
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous" 
+      src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v7.0&appId=402147090736124&autoLogAppEvents=1" 
+      nonce="7drgGGy0">
+    </script>
+    
+    <div class="container">
+      <div class="col-sm-3">
+        <div class="fixed-condition">
+          <h1 class="author-name"><a href="/">out.of.desk</a></h1>
+          
+            <div class="profile-about">
+              My Public Experiments in Writing
+            </div>
+          
+          <div class="social">
+            <ul>
+              
+                <li><a href="https://www.facebook.com/ggauravr/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+              
+                <li><a href="https://www.twitter.com/@outofdesk/" target="_blank"><i class="fa fa-twitter"></i></a></li>
+              
+                <li><a href="https://www.instagram.com/out.of.desk/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+              
+                <li><a href="https://www.medium.com/@out.of.desk" target="_blank"><i class="fa fa-medium"></i></a></li>
+              
+            </ul>
+          </div>
+          <div class="search" id="js-search">
+            <input type="text" placeholder="(sitemap)~$ type to search" class="search__input form-control" id="js-search__input">
+            <ul class="search__results" id="js-search__results"></ul>
+          </div>
+          <hr />
+          <ul class="sidebar-nav">
+            <!-- <strong>Navigation</strong> -->
+            <li><a href="/">Home</a></li>
+            
+              <li><a class="about" href="/about/">About Me</a></li>
+            
+              <li><a class="about" href="/categories/">Categories</a></li>
+            
+              <li><a class="about" href="https://www.strava.com/athletes/outofdesk">Strava</a></li>
+            
+              <li><a class="about" href="https://www.instagram.com/out.of.desk">Instagram</a></li>
+            
+              <li><a class="about" href="/feed.xml">XML Feed</a></li>
+            
+          </ul>
+          
+          <div class="social-widget">
+            <div class="twitter-widget">
+              <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-via="outofdesk" data-show-count="true">Tweet This!</a>
+              <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
+            
+              <div class="fb-share-button" data-href="/management/2022/03/29/brooks-law-amdahls-law.html" data-layout="button_count" data-size="large"></div>
+            
+          </div>
+        </div>
+        <!-- end /.fixed-condition -->
+      </div>
+      <div class="col-sm-8 col-offset-1 main-layout">
+        <header class="post-header">
+  <h1 class="post-title">Brooks' Law as a Special Case of Amdahl's Law</h1>
+</header>
+
+<div class="post-metadata">
+  <div>
+
+  <span class="categories">
+    <a href="/category/management">management</a>
+  </span>
+
+</div>
+<div>
+<span class="time">29 Mar 2022</span>
+</div>
+</div>
+
+<div class="content">
+  <div class="post"><hr />
+<h4 id="brooks-law">Brooks’ Law</h4>
+<hr />
+
+<p>From Wikipedia: <em>“Brooks’ law is an observation about software project management according to which “adding manpower to a late software project makes it later”</em>. This was put forth by Fred Brooks in his classic book “The Mythical Man Month”, in 1975.</p>
+
+<p>The reasons as explained by Brooks are three-fold, which I thik can be reduced to the following two, after merging last two of the original three together</p>
+<ul>
+  <li>Any time spent in getting the newer members productive, is time stolen from the time until the deadline</li>
+  <li>Inherent lack of divisibility – The less divisible the tasks are, the more the time spent in managing their dependencies and communication. Again, any time not directly spent in working towards the delivery is time stolen from the time until the deadline, at least in the short-term. The famous example captures the essence of this quite aptly: “While one woman can deliver a baby in nine months, nine women can’t deliver a baby in one month”. Since the “work”, in the example, is completely indivisible, the benefit of adding more manpower, or womanpower in this case, yields zero benefit</li>
+</ul>
+
+<hr />
+
+<h4 id="amdahls-law">Amdahl’s Law</h4>
+<hr />
+
+<p>Amdahl’s law, presented by Gene Amdahl in 1967, states that “the overall performance improvement gained by optimizing a single part of a system is limited by the fraction of time that the improved part is actually used”. It is often used in parallel computing to predict the improvement in performance achieved by using multiple processors. An example of this is that if a task is 10% non-parallelizable, then any benefit of adding more processors only applies for the rest of the 90% of it.</p>
+
+<p>While the language used to describe them and the realms they are applied in are different, the idea is the same. In fact, Amdahl’s law is a general case of Brooks’ law.</p>
+
+<hr />
+<h4 id="amdahls-law-in-project-management">Amdahl’s Law in Project Management</h4>
+<hr />
+
+<p>A deadline is the time at which you’re expected to be completed with the project. Let’s say the deadline is time D. If the time at which you add more resources is time T, then you’d get the most benefit out of adding more people to a project if the period they are actually contributing directly towards the release is D-T, i.e. all the rest of the time until the deadline. But since a non-trivial amount of time is lost in bringing them up to speed, your team ends up spending until, let’s say, time X. Hence the fraction of time the additional resources(improved part) are actually used is limited to <em>D-T-X</em> at most, assuming no further dependencies and communication. If the project is already running behind schedule, it means that you just stole precious time, most likely leading to missing the deadline. The overall benefit is hence limited by the indivisibility of tasks in some parts of the project.</p>
+
+<hr />
+</div>
+  <!--  -->
+</div>
+
+
+  
+    
+      
+        
+          
+      
+    
+  
+    
+      
+        
+          
+      
+    
+        
+          
+      
+    
+  
+    
+      
+        
+          
+      
+    
+  
+    
+      
+        
+          
+      
+    
+        
+          
+      
+    
+  
+    
+      
+        
+          
+      
+    
+  
+    
+      
+        
+          
+      
+    
+        
+          
+      
+    
+  
+    
+      
+        
+          
+      
+    
+        
+          
+      
+    
+        
+          
+      
+    
+  
+    
+      
+        
+          
+      
+    
+        
+          
+      
+    
+  
+    
+      
+        
+          
+      
+    
+  
+    
+      
+        
+          
+      
+    
+  
+    
+      
+        
+          
+      
+    
+  
+    
+      
+        
+          
+      
+    
+  
+    
+      
+        
+          
+      
+    
+  
+    
+      
+        
+          
+      
+    
+        
+          
+      
+    
+  
+  
+
+<div class="PageNavigation">
+  
+    <a class="prev" href="/mindset/musings/2022/03/08/adopting-and-embracing.html">&laquo; Adopting and Embracing</a>
+  
+  
+</div>
+
+<!-- <div class="disqus-comments">
+  <div id="disqus_thread"></div>
+  <script type="text/javascript">
+    /* <![CDATA[ */
+    var disqus_shortname = "outofdesk";
+    var disqus_identifier = "https://outofdesk.github.io_Brooks' Law as a Special Case of Amdahl's Law";
+    var disqus_title = "Brooks' Law as a Special Case of Amdahl's Law";
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+    /* ]]> */
+  </script>
+</div> -->
+
+        <footer>
+          &copy; out.of.desk
+          
+            - <a href="https://github.com/ggauravr">https://github.com/ggauravr</a> - Powered by Jekyll.
+          
+        </footer>
+      </div>
+      <!-- end /.col-sm-8 -->
+    </div>
+    <!-- end /.container -->
+
+    <!-- Bootstrap core JavaScript -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    <script src="/static/js/bootstrap.min.js"></script>
+    <script src="/static/js/super-search.js"></script>
+    <script src="/static/js/thickbox-compressed.js"></script>
+    <script src="/static/js/projects.js"></script>
+  </body>
+</html>
+
